@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en-GB" prefix="og: http://ogp.me/ns#">
+<head >
+<meta charset="UTF-8" />
+<title>Portal Fox | Branding. Web Design. SEO.</title><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<!-- This site is optimized with the Yoast SEO plugin v4.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Branding, Web Design and SEO Services for SMEs. Increase Leads, Increase Sales &amp; Increase Trust &amp; Confidence in Your Business."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.portalfox.com/" />
+<link rel="publisher" href="https://plus.google.com/+PortalfoxUk"/>
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Portal Fox | Branding. Web Design. SEO." />
+<meta property="og:description" content="Branding, Web Design and SEO Services for SMEs. Increase Leads, Increase Sales &amp; Increase Trust &amp; Confidence in Your Business." />
+<meta property="og:url" content="http://www.portalfox.com/" />
+<meta property="og:site_name" content="Portal Fox" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Branding, Web Design and SEO Services for SMEs. Increase Leads, Increase Sales &amp; Increase Trust &amp; Confidence in Your Business." />
+<meta name="twitter:title" content="Portal Fox | Branding. Web Design. SEO." />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.portalfox.com\/","name":"Portal Fox","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.portalfox.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Portal Fox &raquo; Feed" href="http://www.portalfox.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Portal Fox &raquo; Comments Feed" href="http://www.portalfox.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.portalfox.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=1b5930a5add858dd30e50a831a009045"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='altitude-pro-theme-css'  href='http://www.portalfox.com/wp-content/themes/PortalFox-1.1/style.css?ver=1.0.0' type='text/css' media='all' />
+<style id='altitude-pro-theme-inline-css' type='text/css'>
+.front-page-1 { background-image: url(//www.portalfox.com/wp-content/themes/PortalFox-1.1/images/bg-1.jpg); }.front-page-3 { background-image: url(//www.portalfox.com/wp-content/themes/PortalFox-1.1/images/bg-3.jpg); }.front-page-5 { background-image: url(//www.portalfox.com/wp-content/themes/PortalFox-1.1/images/bg-5.jpg); }.front-page-7 { background-image: url(//www.portalfox.com/wp-content/themes/PortalFox-1.1/images/bg-7.jpg); }
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.portalfox.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='bonfire-navi-css-css'  href='http://www.portalfox.com/wp-content/plugins/navi-by-bonfire/navi.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='bonfire-navi-font-css'  href='http://fonts.googleapis.com/css?family=Roboto%3A300%2C400%27+rel%3D%27stylesheet%27+type%3D%27text%2Fcss&#038;ver=1b5930a5add858dd30e50a831a009045' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.portalfox.com/wp-includes/css/dashicons.min.css?ver=1b5930a5add858dd30e50a831a009045' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.portalfox.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.portalfox.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.portalfox.com/wp-content/plugins/navi-by-bonfire/navi-accordion.js?ver=1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.portalfox.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='http://www.portalfox.com/wp-content/themes/PortalFox-1.1/js/global.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.portalfox.com/wp-content/themes/PortalFox-1.1/js/home.js?ver=1.0.0'></script>
+<link rel='https://api.w.org/' href='http://www.portalfox.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.portalfox.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.portalfox.com/wp-includes/wlwmanifest.xml" /> 
+
+		<meta name="msapplication-tap-highlight" content="no" /> 
+	<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.portalfox.com/?wordfence_logHuman=1&hid=46654E80485F0930E5DD3F81D1BCB8D7');
+</script><link rel="icon" href="http://www.portalfox.com/wp-content/themes/PortalFox-1.1/images/favicon.ico" />
+<script src="//use.typekit.net/qtl5emm.js"></script>
+<script>try{Typekit.load();}catch(e){}</script></head>
+<body class="home blog header-image header-full-width full-width-content front-page featured-section" itemscope itemtype="http://schema.org/WebPage"><div class="site-container"><header class="site-header" itemscope itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><h1 class="site-title" itemprop="headline"><a href="http://www.portalfox.com/">Portal Fox</a></h1><p class="site-description" itemprop="description">Branding. Web Design. SEO.</p></div></div></header><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><div id="front-page-1" class="front-page-1"><div class="image-section"><div class="flexible-widgets widget-area widget-full"><div class="wrap"><section id="black-studio-tinymce-2" class="widget widget_black_studio_tinymce"><div class="widget-wrap"><div class="textwidget"><h2>Increase Demand?<br />
+Build Your Brand.</h2>
+<p>Design, Marketing, & Website Strategies/Services to help GROW your Business: Increase Leads, Increase Sales, & Increase Trust & Confidence in Your Brand.</p>
+</div></div></section>
+</div></div></div></div><div id="front-page-2" class="front-page-2"><div class="solid-section"><div class="flexible-widgets widget-area widget-thirds"><div class="wrap"><section id="black-studio-tinymce-3" class="widget widget_black_studio_tinymce"><div class="widget-wrap"><h4 class="widget-title widgettitle">Our Services</h4>
+<div class="textwidget"><h2>Grow Your Business</h2>
+</div></div></section>
+<section id="black-studio-tinymce-4" class="widget widget_black_studio_tinymce"><div class="widget-wrap"><div class="textwidget"><p><img src="http://www.portalfox.com/wp-content/uploads/2016/07/Branding-Services.png" alt="Branding-Services" width="110" height="110" class="aligncenter size-full wp-image-8" /></p>
+<p><strong>Branding</strong><br />
+A professional brand identity is the foundation of a world-class business.<br />
+<a href="http://www.portalfox.com/branding/" rel="nofollow">Learn More »</a></p>
+</div></div></section>
+<section id="black-studio-tinymce-5" class="widget widget_black_studio_tinymce"><div class="widget-wrap"><div class="textwidget"><p><img src="http://www.portalfox.com/wp-content/uploads/2016/07/Web-Design-Services.png" alt="Web-Design-Services" width="110" height="110" class="aligncenter size-full wp-image-7" /></p>
+<p><strong>Web Design</strong><br />
+Generate more leads by converting more website visitors into customers.<br />
+<a href="http://www.portalfox.com/web-design/" rel="nofollow">Learn More »</a></p>
+</div></div></section>
+<section id="black-studio-tinymce-6" class="widget widget_black_studio_tinymce"><div class="widget-wrap"><div class="textwidget"><p><img src="http://www.portalfox.com/wp-content/uploads/2016/07/SEO-Services.png" alt="SEO-Services" width="110" height="110" class="aligncenter size-full wp-image-9" /></p>
+<p><strong>SEO</strong><br />
+Get your business is front of people who are actively searching for your products and services.<br />
+<a href="http://www.portalfox.com/seo/" ref="nofollow">Learn More »</a></p>
+</div></div></section>
+</div></div></div></div><div id="front-page-4" class="front-page-4"><div class="solid-section"><div class="flexible-widgets widget-area widget-halves uneven"><div class="wrap"><section id="black-studio-tinymce-7" class="widget widget_black_studio_tinymce"><div class="widget-wrap"><h4 class="widget-title widgettitle">Designed to Convert</h4>
+<div class="textwidget"><h2>Get Found and Generate Leads on any Device</h2>
+<p>Combining conversion driven design with search engine optimisation creates a complete lead generation system that requires no effort from you. Simply answer phone calls and respond to email enquiries as they roll in.</p>
+<p><a class="button" href="http://www.portalfox.com/contact/">Get in Touch</a></p>
+</div></div></section>
+<section id="black-studio-tinymce-8" class="widget widget_black_studio_tinymce"><div class="widget-wrap"><div class="textwidget"><p><img class="pull-right" src="http://www.portalfox.com/wp-content/uploads/2016/07/iphoneajyal.png"/></p>
+</div></div></section>
+</div></div></div></div><div id="front-page-6" class="front-page-6"><div class="solid-section"><div class="flexible-widgets widget-area widget-full"><div class="wrap"><section id="black-studio-tinymce-9" class="widget widget_black_studio_tinymce"><div class="widget-wrap"><div class="textwidget"><p>To discuss your project or inquire about a quote, simply <a href="http://www.portalfox.com/contact/" rel="nofollow">send me a message here</a> through my contact form, or email me directly at <strong>steve@portalfox.com</strong>. I'll get back to you within 24 hours!</p>
+</div></div></section>
+</div></div></div></div></main></div></div><footer class="site-footer" itemscope itemtype="http://schema.org/WPFooter"><div class="wrap"><nav class="nav-footer"></nav><div class="creds"><p>Copyright &copy; 2017 <a href="http://www.portalfox.com">Portal Fox.</a> <a href="http://www.portalfox.com/legal-notice" rel="nofollow">Website Policies & Terms of Use.</a></p></div><p></p></div></footer></div>
+        <!-- BEGIN LOGO -->
+                        <!-- END LOGO -->
+
+		<!-- BEGIN MENU BUTTON -->
+				<div class="navi-main-menu-button-wrapper navi-right">
+			<div class="navi-main-menu-button">
+				<div class="navi-main-menu-button-middle"></div>
+			</div>
+		</div>
+				<!-- END MENU BUTTON -->
+
+		<!-- BEGIN MAIN WRAPPER -->
+		<div class="navi-main-wrapper">
+			<!-- BEGIN MENU -->
+			<div class="navi-menu-wrapper">
+				<!-- BEGIN MENU -->
+				<div class="navi-by-bonfire"><ul id="menu-main" class="menu"><li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a rel="nofollow" href="http://www.portalfox.com/about/" itemprop="url">About</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a rel="nofollow" href="http://www.portalfox.com/branding/" itemprop="url">Branding</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.portalfox.com/web-design/" itemprop="url">Web Design</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.portalfox.com/seo/" itemprop="url">Search Engine Optimisation (SEO)</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a rel="nofollow" href="http://www.portalfox.com/contact/" itemprop="url">Contact</a></li>
+</ul></div>				<!-- END MENU -->
+			</div>
+			<!-- END MENU -->
+		</div>
+		<!-- END MAIN WRAPPER -->
+		
+		<!-- BEGIN BACKGROUND LINES -->
+		<div class="navi-bg-lines-wrapper">
+			<div class="navi-bg-line-one"></div>
+			<div class="navi-bg-line-two"></div>
+			<div class="navi-bg-line-three"></div>
+			<div class="navi-bg-line-four"></div>
+			<div class="navi-bg-line-five"></div>
+			<div class="navi-bg-line-six"></div>
+		</div>
+		<!-- END BACKGROUND LINES -->
+		
+		<!-- BEGIN MAIN BACKGROUND -->
+		<div class="navi-main-background">
+		</div>
+		<!-- END MAIN BACKGROUND -->
+
+	
+		<!-- BEGIN CUSTOM COLORS (WP THEME CUSTOMIZER) -->
+		<!-- logo -->
+		                <!-- menu button -->
+										<!-- background overlay -->
+						<!-- menu -->
+								
+		<style>
+		/**************************************************************
+		*** CUSTOM STYLING
+		**************************************************************/
+		/* logo */
+        .navi-logo a { color:; }
+        .navi-logo a:hover { color:; }
+        /* menu button */
+		.navi-main-menu-button:after,
+		.navi-main-menu-button:before,
+		.navi-main-menu-button div.navi-main-menu-button-middle:before { background-color:; }
+		/* menu button hover */
+				.navi-main-menu-button:hover:after,
+		.navi-main-menu-button:hover:before,
+		.navi-main-menu-button:hover div.navi-main-menu-button-middle:before { background-color:#cb3232; }
+				/* menu button active */
+		.navi-menu-active .navi-main-menu-button:after,
+		.navi-menu-active .navi-main-menu-button:before,
+		.navi-menu-active .navi-main-menu-button div.navi-main-menu-button-middle:before { background-color:#cb3232; }
+		/* menu button active hover */
+				.navi-menu-active .navi-main-menu-button:hover:after,
+		.navi-menu-active .navi-main-menu-button:hover:before,
+		.navi-menu-active .navi-main-menu-button:hover div.navi-main-menu-button-middle:before { background-color:; }
+		
+		/* menu */
+		.navi-main-background { background-color:#000000; }
+		.navi-bg-line-one,
+		.navi-bg-line-two,
+		.navi-bg-line-three,
+		.navi-bg-line-four,
+		.navi-bg-line-five,
+		.navi-bg-line-six { background-color:; }
+		.navi-by-bonfire ul li a,
+		.navi-by-bonfire ul li ul.sub-menu li a { color:; }
+		.navi-by-bonfire ul li a:hover,
+		.navi-by-bonfire ul li ul.sub-menu li a:hover {color:#cb3232 !important; }
+		.navi-by-bonfire ul li.current-menu-item a,
+		.navi-by-bonfire ul li ul.sub-menu li.current-menu-item a { color:; }
+		.sub-menu-arrow-line { background-color:; }
+		.sub-menu-arrow-tip-right { border-left-color:; }
+		.sub-menu-arrow-tip-left { border-right-color:; }
+
+        /* fine-tune logo top/left/right distance */
+				.navi-logo-wrapper {
+			top:px;
+			left:auto;
+			right:px;
+		}
+		
+		/* fine-tune menu button top/left/right distance */
+								.navi-main-menu-button-wrapper {
+			top:20px;
+			left:auto;
+			right:20px;
+		}
+				
+		/* background opacity */
+		.navi-main-background-active {
+			opacity:0.9;
+		}
+		/* background lines opacity */
+		.navi-bg-lines-wrapper-active {
+			opacity:;
+		}
+		
+		/* menu top/left distance */
+		.navi-menu-wrapper {
+			top:px;
+			margin-left:px;
+		}
+
+		/* menu button animations (-/X) */
+					/* top bar animation (3 lines) */
+			.navi-menu-active .navi-main-menu-button:before {
+				margin:2px 0 0 0;
+				
+				transform:translateY(8px) rotate(45deg);
+				-moz-transform:translateY(8px) rotate(45deg);
+				-ms-transform:translateY(8px) rotate(45deg);
+				-webkit-transform:translateY(8px) rotate(45deg);
+			}
+			/* bottom bar animation (3 lines) */
+			.navi-menu-active .navi-main-menu-button:after {
+				margin:-1px 0 0 0;
+				
+				transform:translateY(-3px) rotate(-45deg);
+				-moz-transform:translateY(-3px) rotate(-45deg);
+				-ms-transform:translateY(-3px) rotate(-45deg);
+				-webkit-transform:translateY(-3px) rotate(-45deg);
+			}
+			/* middle bar fade out (3 lines) */
+			.navi-menu-active div.navi-main-menu-button-middle:before {
+				opacity:0;
+				pointer-events:none;
+				
+				-webkit-transform:translateX(-20px) translateY(3px);
+				-moz-transform:translateX(-20px) translateY(3px);
+				-ms-transform:translateX(-20px) translateY(3px);
+				transform:translateX(-20px) translateY(3px);
+				
+				-webkit-transition:all .25s ease, opacity .25s ease .025s;
+				-moz-transition:all .25s ease, opacity .25s ease .025s;
+				-ms-transition:all .25s ease, opacity .25s ease .025s;
+				transition:all .25s ease, opacity .25s ease .025s;
+			}
+				
+		/* hide navi between resolutions */
+		@media ( min-width:px) and (max-width:px) {
+			.navi-main-menu-button-wrapper,
+			.navi-main-wrapper,
+			.navi-main-background,
+			.navi-bg-lines-wrapper { display:none; }
+			body { margin-top:0; }
+		}
+		</style>
+		<!-- END CUSTOM COLORS (WP THEME CUSTOMIZER) -->
+	
+	<script type='text/javascript' src='http://www.portalfox.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.portalfox.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6'></script>
+<script type='text/javascript' src='http://www.portalfox.com/wp-content/plugins/navi-by-bonfire/navi.js?ver=1'></script>
+<script type='text/javascript' src='http://www.portalfox.com/wp-content/themes/PortalFox-1.1/js/sticky-nav.js?ver=1b5930a5add858dd30e50a831a009045'></script>
+<script type='text/javascript' src='http://www.portalfox.com/wp-content/themes/PortalFox-1.1/js/jquery.scrollTo.min.js?ver=1.4.5-beta'></script>
+<script type='text/javascript' src='http://www.portalfox.com/wp-content/themes/PortalFox-1.1/js/jquery.localScroll.min.js?ver=1.2.8b'></script>
+<script type='text/javascript' src='http://www.portalfox.com/wp-includes/js/wp-embed.min.js?ver=1b5930a5add858dd30e50a831a009045'></script>
+</body></html>

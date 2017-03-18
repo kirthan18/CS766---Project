@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2015 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+-->
+
+
+
+<title>IT Schulungen und Management Seminare: Startseite</title>
+<meta name="generator" content="TYPO3 CMS">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="google-site-verification" content="G0yMWtB_iUZJIJAPbAC5PXwSsbGZrJV9rK-vbA__ie4">
+
+
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,600,300,300italic,400italic,600italic,700italic" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3temp/compressor/merged-d728afd7674b48e6ac63901f1370cc6e.css?1447341205" media="all">
+
+
+
+
+
+
+
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		
+			<link rel="shortcut icon" href="/fileadmin/bsdist/theme/img/favicon.ico" />
+            <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/fileadmin/favicons/apple-touch-icon-144x144-precomposed.png">
+            <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/fileadmin/favicons/apple-touch-icon-114x114-precomposed.png">
+            <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/fileadmin/favicons/apple-touch-icon-72x72-precomposed.png">
+            <link rel="apple-touch-icon-precomposed" href="/fileadmin/favicons/apple-touch-icon-precomposed.png">
+            <!--[if lt IE 9]>
+            <script src="/fileadmin/bsdist/lib/html5shiv/dist/html5shiv.min.js"></script>
+            <![endif]-->		<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ 
+
+  ga('create', 'UA-19460888-1', 'auto');
+ga('set','anonymizeIp',true);
+  ga('send', 'pageview');
+
+ 
+
+</script>
+<meta name="description" content="IT-Schulungen &amp; Management Seminare (Firmenschulungen, offene Seminare) sowie Consulting zu Business Intelligence &amp; Datenbanken: Ihr Partner für Innovationen" />
+<meta name="keywords" content="IT Schulungen, Management Seminare, Consulting, Projekte, Business Intelligence, Datenbanken, Softwareentwicklung" />
+<meta name="copyright" content="2017 it innovations GmbH" />
+<meta name="date" content="2017-02-13T14:12:56+01:00" />
+<meta name="robots" content="index,follow" />
+<link rel="start" href="https://91.250.113.182/" />
+<link rel="canonical" href="https://91.250.113.182/" />
+
+
+
+</head>
+<body id="page_1">
+
+<header class="top">
+    <div class="container">
+        <div class="row row_logo">
+            <div class="col col-md-3 col-sm-3">
+                <div class="logo"><a href="/"><img alt="it innovations.de" title="it-innovations, Thomas-Mann-Str. 59, 90471 Nürnberg" src="/fileadmin/bsdist/theme/img/it-innovations-Cloud.png" class="img-responsive" /><div class="logo_text">it-innovations.de</div><div class="clear"></div></a></div>
+				
+				<div class="mobile_search_bar">
+<div class="tx-trainings">
+	
+
+
+
+
+	<form method="get" action="/schulungen.html" class="static agenda_search">
+	
+		
+
+			<div class="searchbox">
+				<input placeholder="Suchbegriff Schulungen" type="text" class="agenda_search_input" name="suche" value="" />
+				
+				<div class="btn btn-warning" >
+					<span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+					<input  type="submit"  value="" class="submit agenda_search_submit">
+				</div>
+				
+				
+			</div>
+			
+		
+
+		
+		
+
+	</form>
+
+	<script type="text/javascript">
+		function agandaSearchboxFocus(searchbox) {
+			if(searchbox.value == $(searchbox).attr('data-text')) {
+				searchbox.value = "";
+			}
+		}
+
+		function agendaSearchboxBlur(searchbox) {
+			if(searchbox.value == "") {
+				searchbox.value = $(searchbox).attr('data-text');
+			}
+		}
+	</script>
+
+	
+
+
+
+</div></div>
+            </div>
+            <div class="col col-md-6 col-sm-6">
+                
+            </div>
+			 <div class="col col-md-3 col-sm-3">
+				<div class="media">       
+					<img src="/fileadmin/bsdist/theme/img/callcenter.png" alt="Beratung Telefon und Email" title="it-innovations, Thomas-Mann-Str. 59, 90471 Nürnberg">
+					<p>	Hotline: <a href="tel:+499119889184">(0911) 9889-180</a><br>E-Mail: <a href="mailto:beratung@it-innovations.de">beratung@it-innovations.de</a></p>
+				</div>
+            </div>
+        </div>
+		<div class="row row_navbar">
+                <div class="home"><a href="/"><img alt="it innovations.de" title="it-innovations, Thomas-Mann-Str. 59, 90471 Nürnberg" src="/fileadmin/bsdist/theme/img/iconmonstr-home-6-icon-64.png"  /></a></div>
+				<nav class="navbar navbar-default" role="navigation"><div class="navbar-header"><button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainnavbar"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button></div><div class="collapse navbar-collapse" id="mainnavbar"><ul class="nav navbar-nav"><li class="dropdown"><a href="/kurse-schulungen-seminare.html" class="dropdown-toggle" role="button" data-toggle="dropdown" data-target="#">Kurse, Schulungen & Seminare<b class="caret"></b></a><ul class="dropdown-menu" role="menu"><li><a href="/schulungen.html">Kursauswahl</a></li><li><a href="/kurse-schulungen-seminare/demnaechst-durchgefuehrte-offene-seminare.html">Demnächst durchgeführte offene Seminare</a></li><li><a href="/kurse-schulungen-seminare/schulungsorte-und-hotelinformationen.html">Schulungsorte und Hotelinformationen</a></li><li><a href="/seminar-themen.html">Seminar-Themen</a></li></ul></li><li class="dropdown"><a href="/projekte-beratung-consulting/uebersicht.html" class="dropdown-toggle" role="button" data-toggle="dropdown" data-target="#">Projekte, Beratung & Consulting<b class="caret"></b></a><ul class="dropdown-menu" role="menu"><li><a href="/projekte-beratung-consulting/uebersicht.html">Übersicht</a></li><li><a href="/consulting-themen.html">Consulting-Themen</a></li><li><a href="/projekte-beratung-consulting/referenzen-der-it-innovations-nuernberg.html">Referenzen der it-innovations Nürnberg</a></li></ul></li><li class="dropdown"><a href="/unternehmen/gewinnspiel-zur-neuen-webseite-2015.html" class="dropdown-toggle" role="button" data-toggle="dropdown" data-target="#">Unternehmen<b class="caret"></b></a><ul class="dropdown-menu" role="menu"><li><a href="/unternehmen/uebersicht.html">Übersicht</a></li><li><a href="/unternehmen/job-und-karriere.html">Job und Karriere</a></li><li><a href="/unternehmen/ansprechpartner.html">Ansprechpartner</a></li><li><a href="/unternehmen/partner.html">Partner</a></li></ul></li></ul><ul class="nav navbar-nav navbar-nav-right"><li><a href="/kontakt.html">Kontakt</a></li><li><a href="/ncx/merkzettel.html">Merkzettel</a></li></ul>
+<div class="tx-trainings">
+	
+
+
+
+
+	<form method="get" action="/schulungen.html" class="static agenda_search">
+	
+		
+
+			<div class="searchbox">
+				<input placeholder="Suchbegriff Schulungen" type="text" class="agenda_search_input" name="suche" value="" />
+				
+				<div class="btn btn-warning" >
+					<span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+					<input  type="submit"  value="" class="submit agenda_search_submit">
+				</div>
+				
+				
+			</div>
+			
+		
+
+		
+		
+
+	</form>
+
+	<script type="text/javascript">
+		function agandaSearchboxFocus(searchbox) {
+			if(searchbox.value == $(searchbox).attr('data-text')) {
+				searchbox.value = "";
+			}
+		}
+
+		function agendaSearchboxBlur(searchbox) {
+			if(searchbox.value == "") {
+				searchbox.value = $(searchbox).attr('data-text');
+			}
+		}
+	</script>
+
+	
+
+
+
+</div><div class="btn last-minute"><p><a href="/kurse-schulungen-seminare/demnaechst-durchgefuehrte-offene-seminare.html" class="btn-warning internal-link">Demnächst durchgeführte Seminare</a></p></div></div></nav>
+        </div>
+    </div>
+</header>
+
+<div class="container">
+    
+    <!--TYPO3SEARCH_begin-->
+    <div id="main_content" class="row main">
+        
+		<div class="col col-md-9">
+	
+			<div class="col col-md-8 main_content_center">
+				<article>
+				<h1 class="csc-firstHeader">IT Kurse, Schulungen, Seminare, Workshops, Trainings,...</h1><div class="img-center img-above"><div class="img-wrap"><div class="img-center-outer"><div class="img-center-inner"><figure class="image lightbox"><a href="/fileadmin/_processed_/csm_it-innovations-panorama_ffdf53d0c5.jpg" title="it innovations, Thomas-Mann-Straße 59, 90471 Nürnberg" class="prettyPhoto" rel="prettyPhoto[12]"><img src="/fileadmin/_processed_/csm_it-innovations-panorama_55ffeb8555.jpg" width="750" height="208" class="img-responsive img-content" alt="it innovations, Thomas-Mann-Straße 59, 90471 Nürnberg"></a></figure></div></div></div><div class="text"><h2>...Projekte, Consulting in Nürnberg, in vielen anderen Orten, in Schulungszentren bei Partnern, sowie Firmenschulungen und Inhouse-Seminare bundesweit. Auf Wunsch kombiniert mit Beratung, Consulting in Projekten, herstellerunabhängig, aus einer Hand.</h2></div></div><hr><div class="gridelement"><div class="col col-md-4"><div class="startbox_blueheadline"><a href="/seminar-themen/microsoft-system-center-kurs-bei-it-innovations.html"><h3 class="csc-firstHeader">Microsoft System Center 2016</h3><div class="img-center img-above"><div class="img-wrap"><div class="img-center-outer"><div class="img-center-inner"><figure class="image"><img src="/fileadmin/user_upload/landingpages/Microsoft_System_Logo.png" width="600" height="385" class="img-responsive img-content" alt="Microsoft System Center 2016" title="Microsoft System Center 2016"></figure></div></div></div><div class="text"><p>Microsoft System Center 2016 ist seit Ende September verfügbar. System Center 2016 bietet neue Funktionen im Virtual Machine Manager, Operations Manager, Configuration Maganer, Service Manager usw. Für weitere Informationen und Seminare lesen Sie hier weiter.</p></div></div></a></div><div class="startbox_blueheadline"><a href="/seminar-themen/microsoft-office-2016-kurs-bei-it-innovations.html"><h3 class="csc-firstHeader">Microsoft Office 2016</h3><div class="img-center img-above"><div class="img-wrap"><div class="img-center-outer"><div class="img-center-inner"><figure class="image"><img src="/fileadmin/_processed_/csm_Microsoft_Office_2016_Devices2_ece30b2bba.jpg" width="750" height="411" class="img-responsive img-content" alt="Microsoft Office 2016" title="Microsoft Office 2016"></figure></div></div></div><div class="text"><p>Microsoft Office 2016 für Windows wurde 22. September 2015 veröffentlicht. Hier informieren wir Sie und bieten die Schulungsangebote. </p></div></div></a></div><div class="startbox_blueheadline"><a href="/seminar-themen/mariadb-database-server-kurs-bei-it-innovations.html"><h3 class="csc-firstHeader">MariaDB</h3><div class="img-center img-above"><div class="img-wrap"><div class="img-center-outer"><div class="img-center-inner"><figure class="image"><img src="/fileadmin/user_upload/landingpages/Mariadb_Logo.png" width="246" height="185" class="img-responsive img-content" alt="MariaDB" title="MariaDB"></figure></div></div></div><div class="text"><p>Seit dem 18. Januar 2017 ist MariaDB 10.1.21 verfügbar. Lesen Sie hier weiter für Neuerungen und Schulungen.</p></div></div></a></div><div class="startbox_blueheadline"><a href="/seminar-themen/postgresql-kurs-bei-it-innovations.html"><h3 class="csc-firstHeader">PostgreSQL 9.5.3</h3><div class="img-center img-above"><div class="img-wrap"><div class="img-center-outer"><div class="img-center-inner"><figure class="image"><img src="/fileadmin/user_upload/Startseite/PostgreSQL.png" width="200" height="184" class="img-responsive img-content" alt="PostgreSQL" title="PostgreSQL"></figure></div></div></div><div class="text"><p>Seit dem 09.02.2017 ist PostgreSQL 9.6.2 verfügbar. Für weitere Informationen und unsere Angebote über Seminare lesen Sie hier weiter.</p></div></div></a></div><div class="startbox_blueheadline"><a href="/seminar-themen/git-kurs-bei-it-innovations.html"><h3 class="csc-firstHeader">GIT Release 2.9.0</h3><div class="img-center img-above"><div class="img-wrap"><div class="img-center-outer"><div class="img-center-inner"><figure class="image"><img src="/fileadmin/_processed_/csm_Git-Logo-2Color_39e6ebe1cb.png" width="750" height="314" class="img-responsive img-content" alt="GIT" title="GIT"></figure></div></div></div><div class="text"><p>Release 2.9.0 ist am 13.06.2016 erschienen. Lesen Sie hier weiter für die Release-Notes und finden Sie passende Seminare.</p></div></div></a></div></div><div class="col col-md-4"><div class="startbox_blueheadline"><a href="/seminar-themen/microsoft-windows-server-kurs-bei-it-innovations.html"><h3 class="csc-firstHeader">Windows Server 2016</h3><div class="img-center img-above"><div class="img-wrap"><div class="img-center-outer"><div class="img-center-inner"><figure class="image"><img src="/fileadmin/_processed_/csm_Windows_Server_2016_Cloud_74fa74a9a1.jpg" width="750" height="555" class="img-responsive img-content" alt="Microsoft Windows Server 2016 Neuerungen" title="Microsoft Windows Server 2016 Neuerungen"></figure></div></div></div><div class="text"><p>Am 12. Oktober 2016 wurde die finale Version von Windows Server 2016 veröffentlicht. Windows Server 2016 bietet neue Funktionen wie Host Guardian Service, Storage Spaces Direct, Storage Replica, Windows Server Container, Hyper-V Container, Software Definied Networking und neue Installationsoptionen wie Nano Server. Für weitere Informationen und Seminare lesen Sie hier weiter.</p></div></div></a></div><div class="startbox_blueheadline"><a href="/seminar-themen/microsoft-windows-10-kurs-bei-it-innovations.html"><h3 class="csc-firstHeader">Microsoft Windows 10</h3><div class="img-center img-above"><div class="img-wrap"><div class="img-center-outer"><div class="img-center-inner"><figure class="image"><img src="/fileadmin/_processed_/csm_Windows_10_Devices_2d5f70ddf1.png" width="750" height="489" class="img-responsive img-content" alt="Microsoft Windows 10 Devices" title="Microsoft Windows 10 Devices"></figure></div></div></div><div class="text"><p>Im Juli 2015 ist Windows 10 erschienen. Für Firmenkunden gibt es einiges zu beachten. Lesen Sie hier weitere Informationen und Schulungsangebote.</p></div></div></a></div><div class="startbox_blueheadline"><a href="/seminar-themen/microsoft-visual-studio-2015-kurs-bei-it-innovations.html"><h3 class="csc-firstHeader">Microsoft Visual Studio 2015</h3><div class="img-center img-above"><div class="img-wrap"><div class="img-center-outer"><div class="img-center-inner"><figure class="image"><img src="/fileadmin/user_upload/allgemeineBilder/Visual_Studio_-_fuer_alle_Umgebungen.png" width="450" height="250" class="img-responsive img-content" alt="Microsoft Visual Studio Umgebungen" title="Microsoft Visual Studio Umgebungen"></figure></div></div></div><div class="text"><p>Visual Studio 2015 adressiert die Herausforderungen, vor denen Entwickler heute stehen. Lesen Sie hier was die Neuerungen sind und wie Sie die Entwickler mit unserem Schulungsangebot auf den aktuellen Stand bringen.</p></div></div></a></div><div class="startbox_blueheadline"><a href="/seminar-themen/linux-schulungen-kurs-bei-it-innovations.html"><h3 class="csc-firstHeader">Linux</h3><div class="img-center img-above"><div class="img-wrap"><div class="img-center-outer"><div class="img-center-inner"><figure class="image"><img src="/fileadmin/user_upload/Startseite/Linux_Pinguin.jpg" width="540" height="334" class="img-responsive img-content" alt="Linux" title="Linux"></figure></div></div></div><div class="text"><p>Im Dezember 2016 ist der neue Linux-Kernel 4.9 erschienen. Für weitere Informationen und unsere Angebote über Seminare lesen Sie hier weiter.</p></div></div></a></div><div class="startbox_blueheadline"><a href="/seminar-themen/microsoft-azure-kurs-bei-it-innovations.html"><h3 class="csc-firstHeader">Microsoft Azure</h3><div class="img-center img-above"><div class="img-wrap"><div class="img-center-outer"><div class="img-center-inner"><figure class="image"><img src="/fileadmin/user_upload/allgemeineBilder/Azure_Vielfalt.png" width="385" height="310" class="img-responsive img-content" alt="Microsoft Azure Cloud" title="Microsoft Azure Cloud"></figure></div></div></div><div class="text"><p>Das Cloud-System Microsoft Azure. Für Informationen und Schulungen lesen Sie hier weiter.</p></div></div></a></div></div><div class="col col-md-4"><div class="startbox_blueheadline"><a href="/seminar-themen/microsoft-sql-server-kurs-bei-it-innovations.html"><h3 class="csc-firstHeader">SQL Server 2016</h3><div class="img-center img-above"><div class="img-wrap"><div class="img-center-outer"><div class="img-center-inner"><figure class="image"><img src="/fileadmin/_processed_/csm_SQL_Server_Logo_a8c63885f3.png" width="750" height="187" class="img-responsive img-content" alt="SQL Server 2016" title="SQL Server 2016"></figure></div></div></div><div class="text"><p>SQL Server 2016 ist am 01.06.2016 erschienen. Es wird viele interessante Neuerungen geben.&nbsp;Größte Neuerung in der aktuellen Hauptversion ist die Integration der Programmiersprache R.&nbsp;Für weitere Informationen und Kurse lesen Sie hier weiter.</p></div></div></a></div><div class="startbox_blueheadline"><a href="/consulting-themen/microsoft-cloud-service-mit-deutscher-datentreuhand-beratung-bei-it-innovations.html"><h3 class="csc-firstHeader">Microsoft Cloud Service mit deutscher Datentreuhand</h3><div class="img-center img-above"><div class="img-wrap"><div class="img-center-outer"><div class="img-center-inner"><figure class="image"><img src="/fileadmin/user_upload/landingpages/Microsoft_Cloud.jpg" width="685" height="345" class="img-responsive img-content" alt="Microsoft Cloud Service mit deutscher Datentreuhand" title="Microsoft Cloud Service mit deutscher Datentreuhand"></figure></div></div></div><div class="text"><p>Am 11.11.2015 hat Satya Nadella eine neue Microsoft Cloud mit deutscher Datentreuhand angekündigt. Es handelt sich um ein einzigartiges Microsoft Cloud-Modell mit einem deutschen Datentreuhänder, der unter deutschem Recht agiert.&nbsp;</p></div></div></a></div><div class="startbox_blueheadline"><a href="/seminar-themen/microsoft-advanced-threat-analytics-kurs-bei-it-innovations.html"><h3 class="csc-firstHeader">Microsoft Advanced Threat Analytics</h3><div class="img-center img-above"><div class="img-wrap"><div class="img-center-outer"><div class="img-center-inner"><figure class="image"><img src="/fileadmin/user_upload/landingpages/Microsoft_Advanced_Threat_Analytics_vorlaeufiges_Bild.png" width="648" height="321" class="img-responsive img-content" alt="Microsoft Advanced Threat Analytics" title="Microsoft Advanced Threat Analytics"></figure></div></div></div><div class="text"><p>Microsoft wappnet Firmennetze mit Advanced Threat Analytics gegen Angriffe und Eindringlinge. ATA setzt am Active Directory an. 27. August 2015 - Microsoft meldet die generelle Verfügbarkeit. Für Informationen und Seminare lesen Sie hier weiter. </p></div></div></a></div><div class="startbox_blueheadline"><a href="/seminar-themen/microsoft-exchange-server-kurs-bei-it-innovations.html"><h3 class="csc-firstHeader">Microsoft Exchange Server 2016</h3><div class="img-center img-above"><div class="img-wrap"><div class="img-center-outer"><div class="img-center-inner"><figure class="image"><img src="/fileadmin/_processed_/csm_Microsoft_Exchange_logo_a6e00686cf.png" width="750" height="299" class="img-responsive img-content" alt="Microsoft Exchange 2016" title="Microsoft Exchange 2016"></figure></div></div></div><div class="text"><p>Microsoft Exchange 2016 ist am 01.10.2015 erschienen und zum Download verfügbar. Lesen Sie hier weiter für Neuerungen und Schulungen.</p></div></div></a></div></div><div class="clear"></div></div>
+				</article>
+			</div>
+			
+			<div class="col col-md-4 sidebar_left">
+				<div class="list-group"><h3 class="csc-firstHeader">Top Schulungs-/ Seminarthemen</h3><h3><a href="/seminar-themen/microsoft-sql-server-kurs-bei-it-innovations.html" class="internal-link">Microsoft SQL Server</a></h3>
+<h3><a href="/seminar-themen/microsoft-windows-server-kurs-bei-it-innovations.html" class="internal-link">Microsoft Windows Server</a></h3>
+<h3><a href="/seminar-themen/microsoft-system-center-kurs-bei-it-innovations.html" class="internal-link">Microsoft System Center</a></h3>
+<h3><a href="/seminar-themen/microsoft-sharepoint-kurs-bei-it-innovations.html" class="internal-link">Microsoft SharePoint</a></h3>
+<h3><a href="/seminar-themen/java-java-technologie-kurs-bei-it-innovations.html" class="internal-link">Java / Java-Technologie</a></h3>
+<h3><a href="/seminar-themen/microsoft-team-foundation-server-kurs-bei-it-innovations.html" class="internal-link">Microsoft Team Foundation Server</a></h3>
+<h3><a href="/seminar-themen/git-kurs-bei-it-innovations.html" class="internal-link">GIT</a></h3>
+<h3><a href="/seminar-themen/oracle-weblogic-kurs-bei-it-innovations.html" class="internal-link">Oracle WebLogic</a></h3>
+<h3><a href="/seminar-themen/mcafee-web-gateway-kurs-bei-it-innovations.html" class="internal-link">McAfee Web Gateway</a></h3>
+<h3><a href="/seminar-themen/it-fuer-fuehrungskraefte-kurs-bei-it-innovations.html" class="internal-link">IT für Führungskräfte</a></h3>
+<h3><a href="/seminar-themen.html" class="internal-link btn-primary">Alle Schulungs- / Seminarthemen</a></h3></div><div class="list-group"><h3 class="csc-firstHeader">Top Hersteller für Seminare / Kurse</h3><h3><a href="/schulungen.html?b1=100" class="internal-link">Microsoft</a></h3>
+<h3><a href="/schulungen.html?b1=120" class="internal-link">Oracle</a></h3>
+<h3><a href="/schulungen.html?b1=130" class="internal-link">Wireshark</a></h3>
+<h3><a href="/schulungen.html?b1=106" class="internal-link">Cisco</a></h3>
+<h3><a href="/schulungen.html?b1=113" class="internal-link">IBM</a></h3>
+<h3><a href="/schulungen.html?b1=201812" class="internal-link">Nintex</a></h3>
+<h3><a href="/schulungen.html?b1=115" class="internal-link">McAfee</a></h3>
+<h3><a href="/schulungen.html?b1=126" class="internal-link">Symantec</a></h3>
+<h3><a href="/schulungen.html?b1=121" class="internal-link">Qlik</a></h3>
+<h3><a href="/schulungen.html?b1=111" class="internal-link">FrontRange Solutions</a></h3></div><div class="list-group"><h3 class="csc-firstHeader">Top Consulting-, Projekt-, Beratungsthemen</h3><h3><a href="/consulting-themen/microsoft-business-intelligence-consulting-bei-it-innovations.html" class="internal-link">Microsoft Business Intelligence</a></h3>
+<h3><a href="/consulting-themen/microsoft-sql-server-hochverfuegbarkeit-consulting-bei-it-innovations.html" class="internal-link">Microsoft SQL Server Hochverfügbarkeit</a></h3>
+<h3><a href="/consulting-themen/microsoft-power-bi-consulting-bei-it-innovations.html" class="internal-link">Microsoft Power BI</a></h3>
+<h3><a href="/consulting-themen/microsoft-datazen-sql-2016-mobile-report-publisher-consulting-bei-it-innovations.html" class="internal-link">Microsoft Datazen</a></h3>
+<h3><a href="/consulting-themen/microsoft-cloud-service-mit-deutscher-datentreuhand-beratung-bei-it-innovations.html" class="internal-link">Microsoft Cloud Service mit deutscher Datentreuhand</a></h3>
+<h3><a href="/consulting-themen/pyramid-bi-office-consulting-bei-it-innovations.html" class="internal-link">Pyramid BI Office</a></h3>
+<h3><a href="/consulting-themen/apparo-fast-edit-consulting-bei-it-innovations.html" class="internal-link">Apparo Fast Edit</a></h3>
+<h3><a href="/consulting-themen/microsoft-storage-spaces-direct-consulting-bei-it-innovations.html" class="internal-link">Microsoft Storage Spaces Direct</a></h3>
+<h3><a href="/consulting-themen.html" class="internal-link btn-primary">Alle Consulting- / Projektthemen</a></h3></div>
+			</div>
+		</div>
+		
+        <div class="col col-md-3 sidebar_right">
+            <form method="post" action="suche.html" class="page_search">
+  <div class="searchbox">
+    <input placeholder="Volltextsuche außer Schulungen" type="text" class="page_search_input" name="tx_indexedsearch[sword]" value="" />
+    <div class="btn btn-warning" >
+      <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+      <input  type="submit"  value="" class="submit page_search_submit">
+    </div>
+  </div>
+</form><div class="whitebox"><h4 class="csc-firstHeader">Warum it-innovations?</h4><dl class="dl-horizontal">
+  <dt><span class="glyphicon glyphicon-ok-circle"></span></dt>
+  <dd>über <strong>20 Jahre Erfahrung</strong> in Trainings und Projekten</dd>
+  <dt><span class="glyphicon glyphicon-ok-circle"></span></dt>
+  <dd>Hersteller- und Plattformunabhängig</dd>
+  <dt><span class="glyphicon glyphicon-ok-circle"></span></dt>
+  <dd>Projekterfahrene Trainer</dd>
+  <dt><span class="glyphicon glyphicon-ok-circle"></span></dt>
+  <dd>Exzellente Leistungen zu einem fairen Preis</dd>
+</dl><h4><a href="/schulungen.html" class="internal-link btn-warning">Kursauswahl <br />(Thema, Hersteller, Zertifizierung)</a></h4></div>
+<div class="tx-it-innovations-news">
+	
+
+
+
+
+
+
+	<div class="list-group">
+		<div class="list-group-item headline"><h4>it innovations - News</h4></div>
+		
+		
+			
+					<div class="list-group-item">
+						<h4>08.10.2015 <br />Pyramid Analytics Partnerschaft</h4>
+						it innovations ist der erste Partner in Deutschland von Pyramid Analytics. Das Produkt Pyramid BI Office ergänzt das Business Intelligence Portfolio von it-innovations.
+					</div>
+								
+		
+		
+	</div>
+
+
+
+</div><div class="whitebox"><div class="img-center img-above"><div class="img-wrap"><div class="img-center-outer"><div class="img-center-inner"><figure class="image"><img src="/fileadmin/_processed_/csm_Microsot_Partner_neu_2022b83439.jpg" width="750" height="249" class="img-responsive img-content" alt=""></figure></div></div></div></div><div class="img-center img-above"><div class="img-wrap"><div class="img-center-outer"><div class="img-center-inner"><figure class="image"><img src="/fileadmin/_processed_/csm_Pyramid_Logo_cfd383b30c.png" width="750" height="192" class="img-responsive img-content" alt="Pyramid Analytics Partnerschaft" title="Pyramid Analytics Partnerschaft"></figure></div></div></div><div class="text"><h4>Partner</h4></div></div></div>
+        </div>
+    </div>
+    <!--TYPO3SEARCH_end-->
+
+</div>
+
+<footer>
+    <div class="container"><div class="row"><div class="gridelement"><div class="col col-md-3"><address><p>it innovations GmbH<br />Thomas-Mann-Straße 59<br />90471 Nürnberg</p></address><div class="gridelement"><div class="col col-md-6"><p>Telefon Organisation:<br />Telefax:</p></div><div class="col col-md-6"><p><a href="tel:091198890" target="_blank">(0911) 9889-0</a><br /><a href="tel:09119889111" target="_blank">(0911) 9889-111</a></p></div><div class="clear"></div></div></div><div class="col col-md-3"><h5 class="csc-firstHeader">Informationen</h5><ul class="csc-menu csc-menu-def"><li><a href="/special-content/informationen/impressum.html" title="Impressum">Impressum</a></li><li><a href="/special-content/informationen/agb.html" title="AGB">AGB</a></li><li><a href="/special-content/informationen/datenschutz.html" title="Datenschutz">Datenschutz</a></li></ul></div><div class="col col-md-3"><h5 class="csc-firstHeader">Hilfe</h5><ul class="csc-menu csc-menu-def"><li><a href="/kontakt.html" title="Kontaktformular">Kontaktformular</a></li><li><a href="/special-content/hilfe/sitemap.html" title="Sitemap">Sitemap</a></li><li><a href="/suche.html" title="Suche">Suche</a></li></ul></div><div class="col col-md-3"><h5 class="csc-firstHeader">Folgen Sie uns</h5><ul class="csc-menu csc-menu-def"><li><a href="https://www.xing.com/companies/itinnovationsgmbh" title="Xing" target="_blank">Xing</a></li><li><a href="https://twitter.com/itinnovationsDE" title="Twitter" target="_blank">Twitter</a></li><li><a href="https://www.facebook.com/itinnovations.de" title="Facebook" target="_blank">Facebook</a></li><li><a href="https://www.linkedin.com/company/it-innovations-gmbh" title="LinkedIn" target="_blank">LinkedIn</a></li><li><a href="https://plus.google.com/+itinnovationsGmbHN%C3%BCrnberg/posts" title="Google+" target="_blank">Google+</a></li></ul></div><div class="clear"></div></div><hr><p>IT Schulungen und Management Seminare in Nürnberg, München, Berlin, Hamburg, Frankfurt, Mainz, Leipzig, Bremen, Hannover, Northeim, Paderborn, Dortmund, Essen, Düsseldorf, Stuttgart, Karlsruhe sowie Firmenschulungen und Inhouse-Seminare bundesweit.</p></div></div>
+</footer>
+
+
+<script src="/typo3temp/compressor/merged-732c1e5fb2c416c0221f42e8eac61e36-fe157a56eb9eb9cdadadc86edf8ff58f.js?1446563916" type="text/javascript"></script>
+
+
+<script src="/typo3temp/compressor/merged-38715dcf487c6c3cff40963d9f57af5c-85e352f33feed83d82c1828df323a675.js?1443163613" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+/*<![CDATA[*/
+/*_scriptCode*/
+
+			// decrypt helper function
+		function decryptCharcode(n,start,end,offset) {
+			n = n + offset;
+			if (offset > 0 && n > end) {
+				n = start + (n - end - 1);
+			} else if (offset < 0 && n < start) {
+				n = end - (start - n - 1);
+			}
+			return String.fromCharCode(n);
+		}
+			// decrypt string
+		function decryptString(enc,offset) {
+			var dec = "";
+			var len = enc.length;
+			for(var i=0; i < len; i++) {
+				var n = enc.charCodeAt(i);
+				if (n >= 0x2B && n <= 0x3A) {
+					dec += decryptCharcode(n,0x2B,0x3A,offset);	// 0-9 . , - + / :
+				} else if (n >= 0x40 && n <= 0x5A) {
+					dec += decryptCharcode(n,0x40,0x5A,offset);	// A-Z @
+				} else if (n >= 0x61 && n <= 0x7A) {
+					dec += decryptCharcode(n,0x61,0x7A,offset);	// a-z
+				} else {
+					dec += enc.charAt(i);
+				}
+			}
+			return dec;
+		}
+			// decrypt spam-protected emails
+		function linkTo_UnCryptMailto(s) {
+			location.href = decryptString(s,-2);
+		}
+		
+
+/*]]>*/
+</script>
+
+
+</body>
+</html>

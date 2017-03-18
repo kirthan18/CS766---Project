@@ -1,0 +1,548 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de" >
+  <head>
+    <meta name="google-site-verification" content="EwxlxNdcjAh6PG4r_vJGkfvyYe7DdGGSpF6BzLS2EwU" />
+    <base href="http://www.bundesregierung.de/"></base>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Bundesregierung | Startseite | HTTP Status 404</title>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta name="viewport" content="width=device-width; initial-scale=1.0;" /> 
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta http-equiv="imagetoolbar" content="false" />
+    <meta name="MSSmartTagsPreventParsing" content="true" />
+    <meta name="genTime" content="Tue Mar 07 05:25:33 CET 2017"/>
+    <meta name="generator" content="Government Site Builder"/>
+    <link rel="apple-touch-icon-precomposed" href="/SiteGlobals/StyleBundles/Webs/Bregm/Bilder/favicon-apple.png?__blob=thumbnail&amp;v=9" />
+
+    <link rel="canonical" href="http://www.bundesregierung.de/SiteGlobals/ErrorPages/DE/ErrorPage404.html"/>    <link rel="bookmark" href="SiteGlobals/ErrorPages/DE/ErrorPage404.html?nn=8988#Start" type="text/html" title="Zum Inhalt" /><!-- NOTE: points to the beginning of the document -->
+    <link rel="copyright" href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Impressum/impressum_node.html" type="text/html" title="Impressum" />
+    <link rel="glossary" href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Glossar/_node.html" type="text/html" title="Glossar" />
+    <link rel="help" href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Benutzerhinweise/_node.html" type="text/html" title="Hilfe" />
+    <link rel="start" href="https://www.bundesregierung.de/Webs/Breg/DE/Startseite/startseite_node.html" type="text/html" title="Homepage" />
+    <link rel="contents" href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Sitemap/sitemap_node.html" type="text/html" title="Übersicht" />
+    <link rel="search" href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Suche/suche_node.html" type="text/html" title="Suche" />
+
+  <link rel="chapter" href="https://www.bundesregierung.de/Webs/Breg/DE/Bundeskanzlerin/_node.html" type="text/html" title="Bundeskanzlerin" />
+  <link rel="chapter" href="https://www.bundesregierung.de/Webs/Breg/DE/Bundesregierung/bundesregierung.html" type="text/html" title="Bundesregierung" />
+  <link rel="chapter" href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/_node.html" type="text/html" title="Themen" />
+  <link rel="chapter" href="https://www.bundesregierung.de/Webs/Breg/DE/Aktuelles/nachrichten2.html" type="text/html" title="Aktuelles" />
+  <link rel="chapter" href="https://www.bundesregierung.de/Webs/Breg/DE/Mediathek/mediathek_node.html" type="text/html" title="Mediathek" />
+  <link rel="chapter" href="https://www.bundesregierung.de/Webs/Breg/DE/Service/_node.html" type="text/html" title="Service" />
+  <link rel="chapter" href="https://www.bundesregierung.de/Webs/Breg/DE/Startseite/_function/hidden_node.html" type="text/html" title="Hidden" />
+    <link rel="shortcut icon" href="/SiteGlobals/StyleBundles/Bilder/favicon.ico?__blob=normal&amp;v=2" type="image/ico" />
+
+<link rel="alternate" type="application/rss+xml" title="Bundesregierung kompakt" href="SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSS_Breg_aktuell/RSSNewsfeed.xml"/>
+<link rel="alternate" type="application/rss+xml" title="Bundesregierung Artikel" href="SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSS_Breg_artikel/RSSNewsfeed.xml"/>
+<link rel="alternate" type="application/rss+xml" title="Bundesregierung Pressemitteilungen" href="SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSS_Breg_pressemitteilungen/RSSNewsfeed.xml"/>
+<link rel="alternate" type="application/rss+xml" title="3 Fragen, 3 Antworten" href="SiteGlobals/Functions/RSSFeed/DE/Podcast/3F3A/podcast.xml"/>
+<link rel="alternate" type="application/rss+xml" title="Die Woche der Kanzlerin" href="SiteGlobals/Functions/RSSFeed/DE/Podcast/WdK/podcast.xml"/>
+<link rel="alternate" type="application/rss+xml" title="Die Woche der Kanzlerin [HD]" href="SiteGlobals/Functions/RSSFeed/DE/Podcast/WdK/podcast_hd.xml"/>
+<link rel="stylesheet"  href="SiteGlobals/Frontend/Styles/normalize.css?v=1" type="text/css" media ="projection, screen, handheld"  />
+<link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/visual/visual.css?v=2" type="text/css" media="print, projection, screen" />
+<link rel="stylesheet"  href="SiteGlobals/StyleBundles/CSS/screen/screen_v.css?v=96" type="text/css" media ="projection, screen, handheld"  />
+<!-- Additional IE/Win specific style sheet (Conditional Comments) --><!--[if lte IE 7]><link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/screen/screen_iew-6-7.css?v=13" type="text/css" media="projection, screen" /><![endif]-->
+<!-- Additional IE/Win specific style sheet (Conditional Comments) --><!--[if lte IE 8]><link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/screen/screen_iew_v.css?v=7" type="text/css" media="projection, screen" /><![endif]-->
+<!-- Additional IE/Win specific style sheet (Conditional Comments) --><!--[if lte IE 8]><link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/screen/screen_iew_rounded_corners.css?v=7" type="text/css" media="projection, screen" /><![endif]-->
+<!-- Additional IE/Win specific style sheet (Conditional Comments) --><!--[if IE]><link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/screen/screen_ie-all.css.css?v=2" type="text/css" media="projection, screen" /><![endif]-->
+<link rel="stylesheet"  href="SiteGlobals/StyleBundles/CSS/screen/jquery-ui-1.8.14.custom.css?v=3" type="text/css" media ="projection, screen, handheld"  />
+
+<link rel="stylesheet"  href="SiteGlobals/StyleBundles/CSS/screen/Mediathek/mediathek.css.css?v=8" type="text/css" media ="projection, screen, handheld"  />
+<link rel="stylesheet"  href="SiteGlobals/StyleBundles/CSS/screen/Mediathek/mediathek_additional.css.css?v=2" type="text/css" media ="projection, screen, handheld"  />
+<link rel="stylesheet"  href="SiteGlobals/StyleBundles/CSS/screen/screen_additional.css?v=158" type="text/css" media ="projection, screen, handheld"  />
+<link rel="stylesheet"  href="SiteGlobals/StyleBundles/CSS/screen/screen_additional_mans.css?v=35" type="text/css" media ="projection, screen, handheld"  />
+<link rel="stylesheet"  href="SiteGlobals/StyleBundles/CSS/screen/screen_mobile.css?v=1" type="text/css" media="handheld, only screen and (max-device-width: 480px)"  />
+<link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/print/print.css?v=17" type="text/css" media="print" />
+<link rel="stylesheet"  href="SiteGlobals/StyleBundles/CSS/screen/screen_additional_superplayer.css?v=5" type="text/css" media ="projection, screen, handheld"  />
+<link rel="stylesheet"  href="SiteGlobals/StyleBundles/CSS/modules/module_banner.css?v=5" type="text/css" media ="projection, screen, handheld"  />
+<!--[if lte IE 8]><link rel="stylesheet" href="SiteGlobals/StyleBundles/CSS/modules/module_banner_lteIE8.css?v=1" type="text/css" media="projection, screen" /><![endif]-->
+<link rel="stylesheet"  href="SiteGlobals/Frontend/Styles/libs/slick/slick.css?v=1" type="text/css" media ="projection, screen"   />
+
+
+    <script src="SiteGlobals/Functions/JavaScript/__basic-behaviour.js?v=17" type="text/javascript" ></script>
+    <script src="SiteGlobals/Functions/JavaScript/__base-modules.js?v=39" type="text/javascript" ></script>
+     <script src="SiteGlobals/Functions/JavaScript/Addon_Languages.js?v=4" type="text/javascript" ></script>
+    <script src="SiteGlobals/Functions/JavaScript/__aditional_init.js?v=57&mainRequestLangIsoCode=de&site=" type="text/javascript" ></script>
+     <script src="" type="text/javascript" ></script>
+    <!-- INFOnline -->
+<!-- /INFOnline -->
+  </head>
+  <body class="gsb home">
+
+<div id="wrapperOuter" >
+  
+
+
+
+
+<div id="wrapperInner">
+  <a id="Start" name="Start"></a>
+  <h1 class="navSkip">Navigation und Service</h1>
+  <p class="navSkip"><em>Springe direkt zu</em></p>
+  <ul class="navSkip">
+    <li><a href="SiteGlobals/ErrorPages/DE/ErrorPage404.html?nn=8988#Inhalt">Inhalt</a></li>
+    <li><a href="SiteGlobals/ErrorPages/DE/ErrorPage404.html?nn=8988#Hauptmenu">Hauptmenu</a></li>
+    <li><a href="SiteGlobals/ErrorPages/DE/ErrorPage404.html?nn=8988#Suche">Suche</a></li>
+  </ul><!-- .navSkip -->
+  <div id="wrapperHeader">
+    <div id="branding">
+
+<div id="logo"><a href="https://www.bundesregierung.de/Webs/Breg/DE/Startseite/startseite_node.html" id="anfang" title="Zur Startseite"><img src="/SiteGlobals/StyleBundles/Bilder/logo_bundesregierung.svg?__blob=normal&amp;v=9" alt="Die Bundesregierung - Link zur Startseite" /></a>
+</div>
+      <div id="navServiceMeta">
+        <h2>Servicemenü</h2>
+
+<ul><li ><a title="Wechsel auf die englische Website" class="languageLink lang_en" href="https://www.bundesregierung.de/Webs/Breg/EN/Homepage/_node.html" xml:lang="en" hreflang="en" lang="en">English</a></li><li ><a title="Wechsel auf die französische Webseite" class="languageLink lang_fr" href="https://www.bundesregierung.de/Webs/Breg/FR/Homepage/_node.html" xml:lang="fr" hreflang="fr" lang="fr">Français</a></li><li ><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Impressum/impressum_node.html" title="Impressum">Im­pres­s­um</a></li><li ><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Sitemap/sitemap_node.html" title="&#220;bersicht" accesskey="0">Über­sicht</a></li><li ><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Kontakt/Kontakt_node.html" title="Kontakt">Kon­takt</a></li><li  class="sign-language"><a href="https://www.bundesregierung.de/Webs/Breg/DE/GebaerdenSprache/gebaerden_node.html" title="Geb&#228;rdensprache">Ge­bär­den­spra­che</a></li><li  class="easy-language"><a href="https://www.bundesregierung.de/Webs/Breg/DE/LeichteSprache/leichteSprache_node.html" title="Leichte Sprache">Leich­te Spra­che</a></li></ul>
+      </div><!-- #navServiceMeta -->
+      <div id="search">
+        <h2><a id="Suche" class="aural" name="Suche">Suche</a></h2>
+
+<form name="solrsuche" action="SiteGlobals/Forms/Webs/Breg/Suche/DE/Suche_Solr_Servicesuche_Formular.html" method="get" enctype="application/x-www-form-urlencoded">
+  
+  <input type="hidden" name="nn" value="8988"/>
+  <input type="hidden" name="resourceId" value="709528" />
+  <input type="hidden" name="input_" value="7682" />
+  <input type="hidden" name="pageLocale" value="de" />
+  <fieldset>
+    <p>
+            
+<input id="f709528d709626" name="templateQueryString" value="Suchbegriff" alt="search_einesDieserWorte" type="text" size="26" maxlength="100"/>
+<span class="corner corner-tl"></span>
+<span class="corner corner-tr"></span>
+<span class="corner corner-bl"></span>
+<span class="corner corner-br"></span>
+            
+<span class="corner-wrapper">
+  <input class="button" type="image" src="/SiteGlobals/Forms/_components/Buttons/Servicesuche_Submit.jpg?__blob=image&amp;v=2" id="f709528d424" name="submit" alt="suchen" title="suchen" />
+  <span class="corner corner-tl"></span>
+  <span class="corner corner-tr"></span>
+  <span class="corner corner-bl"></span>
+  <span class="corner corner-br"></span>
+</span>
+    </p>
+</fieldset>
+</form>
+      </div><!-- #search -->
+    </div><!-- #branding -->
+    <div id="navPrimary">
+      <h2><a id="Hauptmenu" name="Hauptmenu">Hauptmenu</a></h2>
+
+<div class="nav-global-box">
+  <ul class="nav-global">
+<li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Bundeskanzlerin/_node.html">Bundeskanzlerin</a>
+</li>
+<li class="has-menu">
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Bundesregierung/bundesregierung.html">Bundesregierung</a>
+  <div class="menu">
+    <div class="menu-box-group">
+      <div class="menu-box">
+        <ul>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Bundesregierung/Bundeskanzleramt/_node.html">Bundeskanzleramt</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Bundesregierung/Bundeskabinett/bundeskabinett.html">Bundeskabinett</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Bundesregierung/Bundesministerien/bundesministerien.html">Bundesministerien</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Bundesregierung/Bundespresseamt/_node.html">Bundespresseamt</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Bundesregierung/BeauftragtefuerKulturundMedien/beauftragte-fuer-kultur-und-medien.html">Staatsministerin für Kultur und Medien</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Bundesregierung/BeauftragtefuerIntegration/beauftragte-fuer-integration.html">Beauftragte für Migration, Flüchtlinge und Integration</a></li>
+        </ul>
+      </div><!-- menu-box -->
+      <span class="corner corner-tl"></span>
+      <span class="corner corner-tr"></span>
+      <span class="corner corner-bl"></span>
+      <span class="corner corner-br"></span>
+    </div><!-- menu-box-group -->
+  </div>
+</li>
+<li class="has-menu">
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/_node.html">Themen</a>
+  <div class="menu">
+    <div class="menu-box-group">
+      <div class="menu-box">
+        <ul>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Fluechtlings-Asylpolitik/_node.html">Flucht und Asyl: Fakten und Hintergründe</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Europa/_node.html">Europa</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/G7G20/_node.html">G7 / G20</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Sicherheitspolitik/_node.html">Sicherheit und Verteidigung</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Freihandelsabkommen/_node.html">Freihandelsabkommen</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Innovationspolitik/_node.html">Unsere Innovationspolitik: Digitale Agenda, Energiewende, Neue Hightech-Strategie</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Nationaler-Integrationspreis/_node.html">Nationaler Integrationspreis der Bundeskanzlerin</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Tipps-fuer-Verbraucher/_node.html">Tipps für Verbraucher</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Demografiestrategie/_node.html">Demografiestrategie: Politik für alle Generationen</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Nachhaltigkeitsstrategie/_node.html">Nachhaltigkeitsstrategie</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Buerokratieabbau/_node.html">Bürokratieabbau und bessere Rechtsetzung</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Internationales-Deutschlandforum/_node.html">Internationales Deutschlandforum</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/alle_node.html">alle Themen</a></li>
+        </ul>
+      </div><!-- menu-box -->
+      <span class="corner corner-tl"></span>
+      <span class="corner corner-tr"></span>
+      <span class="corner corner-bl"></span>
+      <span class="corner corner-br"></span>
+    </div><!-- menu-box-group -->
+  </div>
+</li>
+<li class="has-menu">
+<a href="SiteGlobals/Forms/Webs/Breg/Suche/DE/Nachrichten/Nachrichtensuche2_formular.html?nn=8988" >Aktuelles</a>
+  <div class="menu">
+    <div class="menu-box-group">
+      <div class="menu-box">
+        <ul>
+          <li>
+<a href="SiteGlobals/Forms/Webs/Breg/Suche/DE/Nachrichten/Artikelsuche2_formular.html?nn=8988&doctype.HASH=069b45b88fc91fce2539&path.HASH=3d9d6cb0056836c53798&searchtype=news&path=%2Fbpainternet%2Fcontent%2Fde%2Fartikel*+%2Fbpainternet%2Fcontent%2Fde%2Fpressemitteilungen*+%2Fbpainternet%2Fcontentarchiv%2Fde%2Farchiv17%2Fartikel*+%2Fbpainternet%2Fcontentarchiv%2Fde%2Farchiv17%2Fpressemitteilungen*&doctype=basepage+pressrelease&searchtype.HASH=ed7a611f8d562224d9a6" >Artikel</a></li>
+          <li>
+<a href="SiteGlobals/Forms/Webs/Breg/Suche/DE/Nachrichten/Pressemitteilungssuche2_formular.html?nn=8988&doctype.HASH=a1e122a39a0278d6aef2&path.HASH=f2653af081536085bba3&searchtype=news&path=%2Fbpainternet%2Fcontent%2Fde%2Fpressemitteilungen*+%2Fbpainternet%2Fcontentarchiv%2Fde%2Farchiv17%2Fpressemitteilungen*&doctype=pressrelease&searchtype.HASH=8075611a090222215df2" >Pressemitteilungen</a></li>
+          <li>
+<a href="SiteGlobals/Forms/Webs/Breg/Suche/DE/Nachrichten/Pressekonferenzsuche2_formular.html?nn=8988&doctype.HASH=5c0645b8d3891fce7979&path.HASH=94245144b1970b319367&searchtype=news&path=%2Fbpainternet%2Fcontent%2Fde%2Fmitschrift%2Fpressekonferenzen*+%2Fbpainternet%2Fcontentarchiv%2Fde%2Farchiv17%2Fmitschrift%2Fpressekonferenzen*&doctype=basepage+pressrelease&searchtype.HASH=7082611af9f52221ad05" >Pressekonferenzen</a></li>
+          <li>
+<a href="SiteGlobals/Forms/Webs/Breg/Suche/DE/Nachrichten/Regierungserklaerungssuche2_formular.html?nn=8988&doctype.HASH=e15839b06cd59ee203d&path.HASH=06748d58382fd72d18df&searchtype=news&path=%2Fbpainternet%2Fcontent%2Fde%2Fregierungserklaerung*+%2Fbpainternet%2Fcontentarchiv%2Fde%2Farchiv17%2Fregierungserklaerung*&doctype=speech&searchtype.HASH=01cb611a8d152221d9e5" >Regierungserklärungen</a></li>
+          <li>
+<a href="SiteGlobals/Forms/Webs/Breg/Suche/DE/Nachrichten/Redensuche2_formular.html?nn=8988&doctype.HASH=07b06c87ecd5cbd583d&path.HASH=d622efa01f9548f2509&searchtype=news&path=%2Fbpainternet%2Fcontent%2Fde%2Frede*+%2Fbpainternet%2Fcontentarchiv%2Fde%2Farchiv17%2Frede*&doctype=speech&searchtype.HASH=fe11611fbc662224e896" >Reden</a></li>
+          <li>
+<a href="SiteGlobals/Forms/Webs/Breg/Suche/DE/Nachrichten/Interviewsuche2_formular.html?nn=8988&doctype.HASH=b30a81f6e3dddb83d32d&path.HASH=aade3092b7e597c1d8e&searchtype=news&path=%2Fbpainternet%2Fcontent%2Fde%2Finterview*+%2Fbpainternet%2Fcontentarchiv%2Fde%2Farchiv17%2Finterview*&doctype=interview&searchtype.HASH=4112611ac86522219c95" >Interviews</a></li>
+          <li>
+<a href="SiteGlobals/Forms/Webs/Breg/Suche/DE/Nachrichten/Namensbeitragssuche2_formular.html?nn=8988&doctype.HASH=7ca1e42e3e95be589865&path.HASH=58097c40bbdd26361f2d&searchtype=news&path=%2Fbpainternet%2Fcontent%2Fde%2Fnamensbeitrag*+%2Fbpainternet%2Fcontentarchiv%2Fde%2Farchiv17%2Fnamensbeitrag*&doctype=announcement&searchtype.HASH=f0a9611fec6e2224b89e" >Namensbeiträge</a></li>
+          <li>
+<a href="SiteGlobals/Forms/Webs/Breg/Suche/DE/Nachrichten/Gesetzesuche2_formular.html?nn=8988&doctype.HASH=206045bae5e91fcc4f19&path.HASH=efef3acc256860b91798&themen=Gesetzesvorhaben_Neuregelungen&searchtype=news&path=%2Fbpainternet%2Fcontent%2Fde%2Fartikel*+%2Fbpainternet%2Fcontent%2Fde%2Fpressemitteilungen*+%2Fbpainternet%2Fcontentarchiv%2Fde%2Farchiv17%2Fartikel*+%2Fbpainternet%2Fcontentarchiv%2Fde%2Farchiv17%2Fpressemitteilungen*&doctype=basepage+pressrelease&searchtype.HASH=d1b5611fcd52222499a2&themen.HASH=6fd7f381df1db0babded" >Gesetzesvorhaben und Neuregelungen</a></li>
+        </ul>
+      </div><!-- menu-box -->
+      <span class="corner corner-tl"></span>
+      <span class="corner corner-tr"></span>
+      <span class="corner corner-bl"></span>
+      <span class="corner corner-br"></span>
+    </div><!-- menu-box-group -->
+  </div>
+</li>
+<li class="has-menu">
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Mediathek/mediathek_node.html" title="Mediathek">Mediathek</a>
+  <div class="menu">
+    <div class="menu-box-group">
+      <div class="menu-box">
+        <ul>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Mediathek/Einstieg/mediathek_einstieg_fotos_node.html?cat=fotos" title="Fotos"  >Fotos</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Mediathek/Einstieg/mediathek_einstieg_videos_node.html?cat=videos" title="Videos"  >Videos</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Mediathek/Einstieg/mediathek_einstieg_podcasts_node.html?cat=podcasts" title="Die Kanzlerin direkt"  >Die Kanzlerin direkt</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Mediathek/Einstieg/mediathek_einstieg_livestream_node.html?cat=livestream" title="Live aus dem Kanzleramt"  >Live aus dem Kanzleramt</a></li>
+        </ul>
+      </div><!-- menu-box -->
+      <span class="corner corner-tl"></span>
+      <span class="corner corner-tr"></span>
+      <span class="corner corner-bl"></span>
+      <span class="corner corner-br"></span>
+    </div><!-- menu-box-group -->
+  </div>
+</li>
+<li class="has-menu">
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/_node.html">Service</a>
+  <div class="menu">
+    <div class="menu-box-group">
+      <div class="menu-box">
+        <ul>
+          <li>
+<a href="SiteGlobals/Forms/Webs/Breg/Suche/DE/Infomaterial/Solr_Infomaterial_Startseite_Formular.html?nn=8988" >Infomaterial der Bundesregierung</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Regierungs-App/_node.html">Regierungs-App</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Newsletter/_node.html">Newsletter und Abos</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/GesetzesvorhabenBundesregierung/_node.html" title="Gesetzesvorhaben der Bundesregierung">Gesetzesvorhaben der Bundesregierung</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Bulletin/_node.html">Bulletin</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Archiv/_node.html">Archiv</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Benutzerhinweise/_node.html">Benutzerhinweise</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Kontakt/Kontakt_node.html" title="Kontakt">Kontakt</a></li>
+          <li>
+<a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/datenschutz_node.html">Datenschutzerklärung</a></li>
+        </ul>
+      </div><!-- menu-box -->
+      <span class="corner corner-tl"></span>
+      <span class="corner corner-tr"></span>
+      <span class="corner corner-bl"></span>
+      <span class="corner corner-br"></span>
+    </div><!-- menu-box-group -->
+  </div>
+</li></ul>
+</div>
+    </div><!-- #navPrimary -->
+  </div><!-- #wrapperHeader -->
+<div id="stage" class="Bar">
+  <div class="nav-pageposition">
+    <ol>
+    </ol>
+  </div>
+</div><!-- #stage -->
+ <div id="wrapperDivisions">
+  <div id="wrapperContent">
+   <div id="content">
+    <h1 class="aural" id="Inhalt">Inhalt</h1>
+    <div id="main">
+
+<div class="text">
+  
+  
+  <h1 class="isFirstInSlot">HTTP Status 404</h1>
+  <div class="basepage_pages">
+    
+    
+  
+    <p>Leider konnte das System die letzte Anfrage nicht vollständig ausführen, da die aufgerufene Ressource nicht vorhanden ist. </p>
+</div>
+  <div class="sectionRelated"></div>
+  
+  
+  
+</div>
+    </div><!-- main -->
+    <div id="supplement"  >
+     <h2><a id="Zusatzinformationen" name="Zusatzinformationen">Zusatzinformationen</a></h2>
+
+
+
+
+
+              
+
+    </div><!--  -->
+   </div><!-- #content -->
+  </div><!-- #wrapperContent -->
+  <div class="clear"></div>
+ </div><!-- #wrapperDivisions -->
+</div><!-- #wrapperInner -->
+<div class="service-navigation-wrapper">
+ <div class="service-navigation">
+  <div class="service-col-1">
+    <h2>Service</h2>
+    <ul>
+      
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Newsletter/Nachrichten/_node.html" title="Gehen Sie zu &quot;Abonnements&quot;">Abonnements</a></li>
+    </ul>
+  </div><!-- .service-col-1 -->
+  <div class="service-col-2">
+    <h2>Informiert bleiben</h2>
+    <ul>
+      
+<li class="twitter">
+      <a href="http://twitter.com/#!/RegSprecher" title="Externer Link: Steffen Seibert, Regierungssprecher (Öffnet neues Fenster)" target="_blank">Twitter
+      <span>Folgen</span></a>
+</li>
+                   
+      
+<li class="facebook">
+      <a href="http://www.facebook.com/bundesregierung" title="Externer Link: Facebook (Öffnet neues Fenster)" target="_blank">Facebook
+      <span>Folgen</span></a>
+</li>
+      
+<li class="instagram">
+      <a href="https://instagram.com/bundeskanzlerin" title="Externer Link: Link auf den Instagram-Account der Bundeskanzlerin (Öffnet neues Fenster)" target="_blank">Instagram
+      <span>Folgen</span></a>
+</li>
+      
+<li class="rss">
+      <a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Newsletter/RSS-Newsfeed/_node.html" title="Gehen Sie zu &quot;RSS-Newsfeed&quot;">RSS-Feeds
+      <span>Abonnieren</span></a>
+</li>
+    </ul>
+  </div><!-- .service-col-2 -->
+  <div class="service-col-3">
+
+  </div><!-- .service-col-3 -->
+ </div><!-- .service-navigation -->
+</div><!-- .service-navigation-wrapper -->
+<div id="navBreadcrumbsWrapper">
+  <div id="navBreadcrumbs">
+    <p>Sie sind hier:</p>
+    <ol><li class="first"><a href="https://www.bundesregierung.de/Webs/Breg/DE/Startseite/startseite_node.html">Startseite</a></li><li><strong>HTTP Status 404</strong></li></ol>
+  </div><!-- #navBreadcrumbs -->
+</div><!-- #navBreadcrumbsWrapper -->
+<div id="wrapperFooter">
+  <div id="navFunctionsWrapper">
+    <ul id="navFunctions">
+      <!--<li id="navFunctionsRecommend"></li>-->
+    </ul><!-- #navFunctions -->
+  </div><!-- #navFunctionsWrapper -->
+  <div id="siteInfo">
+
+<h2>Seitenübersicht</h2>
+<div>
+  <h3>Bundesregierung</h3>
+  <ul>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Bundeskanzlerin/_node.html" title="Gehen Sie zu &quot;Bundeskanzlerin&quot;">Bundeskanzlerin</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Bundesregierung/Bundeskanzleramt/_node.html" title="Gehen Sie zu &quot;Bundeskanzleramt&quot;">Bundeskanzleramt</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Bundesregierung/Bundeskabinett/bundeskabinett.html" title="Gehen Sie zu &quot;Bundeskabinett&quot;">Bundeskabinett</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Bundesregierung/Bundesministerien/bundesministerien.html" title="Gehen Sie zu &quot;Bundesministerien&quot;">Bundesministerien</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Bundesregierung/Bundespresseamt/_node.html" title="Gehen Sie zu &quot;Bundespresseamt&quot;">Bundespresseamt</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Bundesregierung/BeauftragtefuerKulturundMedien/beauftragte-fuer-kultur-und-medien.html" title="Gehen Sie zu &quot;Staatsministerin für Kultur und Medien&quot;">Staatsministerin für Kultur und Medien</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Bundesregierung/BeauftragtefuerIntegration/beauftragte-fuer-integration.html" title="Gehen Sie zu &quot;Beauftragte für Migration, Flüchtlinge und Integration&quot;">Beauftragte für Migration, Flüchtlinge und Integration</a></li>
+  </ul>
+</div>
+<div>
+  <h3>Themen</h3>
+  <ul>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Bildung/_node.html" title="Gehen Sie zu &quot;Bildung&quot;">Bildung</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Buerokratieabbau/_node.html" title="Gehen Sie zu &quot;Bürokratieabbau und bessere Rechtsetzung&quot;">Bürokratieabbau und bessere Rechtsetzung</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Demografiestrategie/_node.html" title="Gehen Sie zu &quot;Demografiestrategie: Politik für alle Generationen&quot;">Demografiestrategie: Politik für alle Generationen</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Deutsche_Einheit/_node.html" title="Gehen Sie zu &quot;Deutsche Einheit&quot;">Deutsche Einheit</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Energiewende/_node.html" title="Gehen Sie zu &quot;Energiewende&quot;">Energiewende</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Entwicklungspolitik/_node.html" title="Gehen Sie zu &quot;Entwicklungspolitik&quot;">Entwicklungspolitik</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Gedenken/_node.html" title="Gehen Sie zu &quot;Erinnern und Gedenken&quot;">Erinnern und Gedenken</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Europa/_node.html" title="Gehen Sie zu &quot;Europa&quot;">Europa</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Fluechtlings-Asylpolitik/_node.html" title="Gehen Sie zu &quot;Flucht und Asyl: Fakten und Hintergründe&quot;">Flucht und Asyl: Fakten und Hintergründe</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Forschung/_node.html" title="Gehen Sie zu &quot;Forschung&quot;">Forschung</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Freihandelsabkommen/_node.html" title="Gehen Sie zu &quot;Freihandelsabkommen&quot;">Freihandelsabkommen</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/G7G20/_node.html" title="Gehen Sie zu &quot;G7 / G20&quot;">G7 / G20</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Nachhaltigkeitsstrategie/_node.html" title="Gehen Sie zu &quot;Nachhaltigkeitsstrategie&quot;">Nachhaltigkeitsstrategie</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Sicherheitspolitik/_node.html" title="Gehen Sie zu &quot;Sicherheit und Verteidigung&quot;">Sicherheit und Verteidigung</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Themen/Tipps-fuer-Verbraucher/_node.html" title="Gehen Sie zu &quot;Tipps für Verbraucher&quot;">Tipps für Verbraucher</a></li>
+  </ul>
+</div>
+<div>
+  <h3>Aktuelles</h3>
+  <ul>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Aktuelles/Artikel/_node.html" title="Gehen Sie zu &quot;Artikel&quot;">Artikel</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Aktuelles/Pressemitteilungen/_node.html" title="Gehen Sie zu &quot;Pressemitteilungen&quot;">Pressemitteilungen</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Aktuelles/Pressekonferenzen/_node.html" title="Gehen Sie zu &quot;Pressekonferenzen&quot;">Pressekonferenzen</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Aktuelles/Regierungserklaerungen/_node.html" title="Gehen Sie zu &quot;Regierungserklärungen&quot;">Regierungserklärungen</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Aktuelles/Reden/_node.html" title="Gehen Sie zu &quot;Reden&quot;">Reden</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Aktuelles/Interviews/_node.html" title="Gehen Sie zu &quot;Interviews&quot;">Interviews</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Aktuelles/Namensbeitraege/_node.html" title="Gehen Sie zu &quot;Namensbeiträge&quot;">Namensbeiträge</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Aktuelles/Gesetze/_node.html" title="Gehen Sie zu &quot;Gesetzesvorhaben und Neuregelungen&quot;">Gesetzesvorhaben und Neuregelungen</a></li>
+  </ul>
+</div>
+<div>
+  <h3>Publikationen</h3>
+  <ul>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Publikationen/_node.html" title="Gehen Sie zu &quot;Infomaterial&quot;">Infomaterial</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Bulletin/_node.html" title="Gehen Sie zu &quot;Bulletin&quot;">Bulletin</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Newsletter/Newsletter/_node.html" title="Gehen Sie zu &quot;Bundesregierung aktuell&quot;">Bundesregierung aktuell</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Newsletter/Infodienst/_node.html" title="Gehen Sie zu &quot;Fakten zur Regierungspolitik&quot;">Fakten zur Regierungspolitik</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Newsletter/Nachhaltigkeit/_node.html" title="Gehen Sie zu &quot;Newsletter Nachhaltigkeit&quot;">Newsletter Nachhaltigkeit</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Newsletter/Verbraucherschutz-aktuell/_node.html" title="Gehen Sie zu &quot;Newsletter &quot;Verbraucherschutz aktuell&quot;&quot;">Newsletter &#034;Verbraucherschutz aktuell&#034;</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Newsletter/RundbriefAusbildung/_node.html" title="Gehen Sie zu &quot;Rundbrief Ausbildung&quot;">Rundbrief Ausbildung</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Newsletter/Oeffentlichkeitsarbeit-Bundesregierung/_node.html" title="Gehen Sie zu &quot;Öffentlichkeitsarbeit der Bundesregierung&quot;">Öffentlichkeitsarbeit der Bundesregierung</a></li>
+  </ul>
+</div>
+<div>
+  <h3>Mediathek</h3>
+  <ul>
+    
+<li>
+  <a title="MediathekZuAllen_EinzelfotoTitle" href="$links.createFromIdentifier("mediathek.overview.fotos")">
+    Mediathek_fotos
+  </a>
+</li>
+<li>
+  <a title="MediathekZuAllen_VideoTitle" href="$links.createFromIdentifier("mediathek.overview.videos")">
+    Mediathek_videos
+  </a>
+</li>
+<li>
+  <a title="MediathekZuAllen_PodcastsTitle" href="$links.createFromIdentifier("mediathek.overview.podcasts")">
+    Mediathek_podcasts
+  </a>
+</li>
+
+<li>
+  <a title="MediathekZuAllen_liveAusDemKanzlerAmtTitle" href="$links.createFromIdentifier("mediathek.overview.livestreams")">
+    Mediathek_liveAusDemKanzlerAmt
+  </a>
+</li>
+  </ul>
+</div>
+<div class="last">
+  <h3>Service</h3>
+  <ul>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Publikationen/_node.html" title="Gehen Sie zu &quot;Infomaterial&quot;">Infomaterial</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Newsletter/_node.html" title="Gehen Sie zu &quot;Newsletter und Abos&quot;">Newsletter und Abos</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/GesetzesvorhabenBundesregierung/_node.html" title="Gehen Sie zu &quot;Gesetzesvorhaben der Bundesregierung&quot;">Gesetzesvorhaben der Bundesregierung</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Bulletin/_node.html" title="Gehen Sie zu &quot;Bulletin&quot;">Bulletin</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Archiv/_node.html" title="Gehen Sie zu &quot;Archiv&quot;">Archiv</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Benutzerhinweise/_node.html" title="Gehen Sie zu &quot;Benutzerhinweise&quot;">Benutzerhinweise</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/Kontakt/Kontakt_node.html" title="Gehen Sie zu &quot;Kontakt&quot;">Kontakt</a></li>
+    
+<li><a href="https://www.bundesregierung.de/Webs/Breg/DE/Service/datenschutz_node.html" title="Gehen Sie zu &quot;Datenschutzerklärung&quot;">Datenschutzerklärung</a></li>
+  </ul>
+</div>
+  <div class="copyright_area">
+    <div><p>© 2017 Presse- und Informationsamt der Bundesregierung</p></div>
+    <div>
+    </div>
+  </div>
+ </div>
+  </div><!-- #siteInfo -->
+</div><!-- #wrapperFooter -->
+
+<!-- Piwik Image Tracker -->
+  <!-- End Piwik -->
+</div> <!-- #wapperOuter -->
+<!--Realisiert mit dem Government Site Builder, der Content Management Lösung der Bundesverwaltung, www.government-site-builder.de -->
+  </body>
+</html>

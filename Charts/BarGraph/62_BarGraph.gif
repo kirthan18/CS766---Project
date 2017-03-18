@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+<html>
+	<head>
+		
+		<script type="text/javascript">
+			document.write("<base href='" + document.location.protocol + "//" + document.location.host + "/support/knowledgecenter/' />");
+		</script>
+		<!--[if IE]>
+        <script>
+            (function() {
+                var emptyFn = function () {};
+                var methods = ['assert','clear','count','debug','dir','dirxml','error','exception','group','groupCollapsed','groupEnd','info','log','markTimeline','profile','profileEnd','table','time','timeEnd','timeStamp','trace','warn'];
+                var l = methods.length;
+                var console = window.console = window.console || {};
+                var method;
+                while (l--) {
+                    method = methods[l];
+                    console[method] = console[method] || emptyFn;
+                }
+            }())
+        </script>
+        <![endif]-->
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="viewport" id="viewport" content="width=device-width, height=device-height,
+		  initial-scale=1.0, maximum-scale=2.0, minimal-ui" />
+		<meta name="DC.Rights" content="&copy; Copyright IBM Corp. 2015"/>
+		<meta name="Description" content="Welcome to IBM Knowledge Center: IBM's new home for technical product documentation. You can find product documentation here from over 3000 IBM products. In IBM Knowledge Center you can browse this documentation or search it to find the answers you need."/>
+		<meta name="Keywords" content="publications, information, documentation, libraries, infocenters, knowledge center"/>
+		<meta name="Security" content="Public"/>
+		<meta name="Source" content="delivery:IBM authoring:IBM" />
+		<link rel="shortcut icon" href="images/kc.ico"/>
+		<title>IBM Knowledge Center</title>
+		<link rel="stylesheet" href="/support/knowledgecenter/js/resources/internal/v18/css/www.css?v=20170217_1128">
+		<link rel="stylesheet" href="/support/knowledgecenter/css/kc.css?v=20170217_1128">
+		
+		<!-- Global variables -->
+		<script>
+			var kcGlobals = {
+				buildInfoEnabled: false,
+				buildDateTime: "20170217_1128",
+				idaEnabled: true,
+				xSellEnabled: true,
+				blueIdUrl: "https://idaas.iam.ibm.com/v1/mgmt/idaas/user/status/",
+				blueIdSignedIn: -1,
+				kcSession: undefined,
+				medalliaPopupDisabled: true,
+				isPdfExportEnabled: false
+			};
+		</script>
+		<script id="blueIdDetector" src="/support/knowledgecenter/js/resources/internal/kc/blueid_detection.js?v=20170217_1128"></script>
+		
+	</head>
+	<body id="ibm-com" class="ibm-type kc-user-unsigned" data-widgets="disabled">
+		<div id="ibm-top" class="ibm-landing-page js-frame kc-frame">
+				<div class="js-header-container kc-header"></div>
+				<div class="js-kc-main kc-main" role="main">
+					<div id="ibm-content-main">
+						<div class="js-toolbar-container kc-toolbar"></div>
+						<div id="ibm-content-wrapper" class="js-screen-container kc-screen"></div>
+					</div>
+				</div>
+				<div class="kc-contact-wrapper"></div>
+			<div class="js-footer-container kc-footer"></div>
+		</div>
+		<div class="js-dialog dialog"></div>
+	</body>
+
+
+	<script type="text/javascript">
+		window.digitalData = {
+			page: {
+				category: {
+					primaryCategory: 'ELSKCS'				//formerly IBM.WTMCategory meta tag
+				},
+				pageInfo: {
+					effectiveDate: '2014-10-24',		//formerly IBM.Effective meta tag
+					expiryDate: '2018-12-18',			//formerly IBM.Expires meta tag
+					language: 'en-US',					//formerly DC.Language meta tag
+					publishDate: '2014-10-24',			//formerly DC.Date meta tag, same as dcterms.date
+					publisher: 'IBM Corporation',		//formerly DC.Publisher meta tag
+					version: 'v18',						//version part of Source meta tag (e.g. v17)
+					ibm: {
+						contentDelivery: '',	//"delivery" portion of Source meta tag
+						contentProducer: '',	//"authoring" portion of the Source meta tag
+						country: 'US',					//formerly IBM.Country meta tag, same as geo.country
+						ibmDynamicCm: true,				//formerly the meta tag to enable dynamic contact module.
+						industry: 'ZZ',					//formerly IBM.Industry meta tag
+						owner: 'IBM Knowledge Center/Pittsburgh/IBM',	//formerly Owner meta tag
+						siteID: 'ESTKCS',				//formerly IBM.WTMSite meta tag
+						subject: 'SU400',				//formerly DC.Subject meta tag
+						type: 'CT701',					//formerly DC.Type meta tag
+						config: {
+							coremodules: {
+								enabled: false
+							},
+							contactModuleWidget: {
+								color: 'gray-80'
+							}
+							
+								//this is to disable Medallia cookie popup to appear
+								, survey: {
+										global_percent: 0
+									}	
+							
+						}
+					}
+				}
+			}
+		};
+
+		//needs to be defined empty function for IDA to be able to track
+		function bindPageViewWithAnalytics(){}
+	</script>
+
+	
+			<!-- IDA -->
+			<script src="//1.www.s81c.com/common/stats/ida_stats.js"></script>
+			<!-- end of IDA -->
+	
+	<script src="/support/knowledgecenter/js/kc.build.js?v=20170217_1128"></script>
+	<script src="/support/knowledgecenter/js/resources/internal/v18/js/www.js?v=20170217_1128"></script>
+	<script src="/support/knowledgecenter/js/resources/external/requirejs/require.js?v=20170217_1128" data-main="js/kc/main.js?v=20170217_1128"></script>
+</html>

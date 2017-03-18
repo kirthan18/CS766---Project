@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta name="robots" content="noindex,noarchive" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+
+<title>Yahoo! JAPAN</title>
+<link rel="stylesheet" href="https://s.yimg.jp/yui/jp/shtr/1.0.0/css/yjTmplCommon-min.css" type="text/css" media="all" />
+<link rel="stylesheet" href="https://s.yimg.jp/yui/jp/shtr/1.0.0/css/stLayout.css" type="text/css" />
+<!--[if lt IE 6]>
+<link rel="stylesheet" href="https://s.yimg.jp/yui/jp/tmpl/1.1.0/yjTmplIE5-min.css" type="text/css" media="all" />
+<![endif]-->
+
+</head>
+<body class="yj950-1">
+
+<div id="wrapper">
+
+<div id="header">
+<span class="yjGuid"><a name="yjPagetop" id="yjPagetop"></a><img src="https://s.yimg.jp/yui/jp/tmpl/1.1.0/clear.gif" width="1" height="1" alt="このページの先頭です" /></span>
+<span class="yjSkip"><a href="#yjContentsStart"><img src="https://s.yimg.jp/yui/jp/tmpl/1.1.0/clear.gif" alt="このページの本文へ" width="1" height="1" /></a></span>
+
+<!--/#uhd-->
+
+<div id="masthead">
+<div class="yjmth">
+<div class="yjmthproplogoarea">
+<a href="http://www.yahoo.co.jp/"><img src="https://s.yimg.jp/c/logo/f/2.0/yj_r_34.gif" alt="Yahoo! JAPAN" name="ygmhlog" width="147" height="38" border="0" id="ygmhlog" /></a></div>
+
+<div class="yjmthcmnlnkarea">
+<a href="http://www.yahoo.co.jp/">Yahoo! JAPAN</a></div>
+</div>
+
+</div><!--/#masthead-->
+
+<div id="emg3">
+<!-- SpaceID=0 robot --></div><!--/#emg3-->
+
+<div id="emg2">
+<!-- SpaceID=0 robot --></div><!--/#emg2-->
+
+<div id="emg">
+<!-- SpaceID=0 robot --></div><!--/#emg-->
+
+</div><!--/#header-->
+
+<hr class="yjSeparation" />
+
+<div id="contents">
+
+<div id="yjContentsBody">
+<span class="yjGuid"><a name="yjContentsStart" id="yjContentsStart"></a><img src="https://s.yimg.jp/yui/jp/tmpl/1.1.0/clear.gif" alt="ここから本文です" width="1" height="1" /></span>
+
+<div id="yjMain">
+<div class="yjMainGrid">
+<h1 class="svTitle yjL">ご指定のページは掲載終了もしくは削除されました。</h1>
+
+<p class="yjM">
+</p>
+
+
+</div><!--/.yjMainGrid-->
+
+
+<p class="YjTops yjM"><a href="http://www.yahoo.co.jp/">Yahoo! JAPAN</a></p>
+
+</div>
+<!--/#yjMain-->
+
+
+</div><!--/#yjContentsBody-->
+
+<div id="yjContentsFooter">
+<span class="yjGuid"><img src="https://s.yimg.jp/yui/jp/tmpl/1.1.0/clear.gif" width="1" height="1" alt="本文はここまでです" /></span>
+<span class="yjSkip">
+<a href="#yjPagetop"><img src="https://s.yimg.jp/yui/jp/tmpl/1.1.0/clear.gif" alt="このページの先頭へ" width="1" height="1" /></a></span>
+</div><!--/#yjContentsFooter-->
+
+</div><!--/#contents-->
+
+<hr class="yjSeparation" />
+
+<div id="footer">
+
+<!--/#uft-->
+
+<address><a href="http://docs.yahoo.co.jp/docs/info/terms/chapter1.html#cf2nd">プライバシーポリシー</a>&nbsp;-&nbsp;<a href="http://docs.yahoo.co.jp/docs/info/terms/">利用規約</a>&nbsp;-&nbsp;<a href="http://www.yahoo-help.jp/">ヘルプ・お問い合わせ</a><br />
+
+Copyright (C) 2017 Yahoo Japan Corporation. All Rights Reserved.</address>
+</div><!--/#footer-->
+
+</div><!--/#wrapper-->
+
+</body>
+</html>

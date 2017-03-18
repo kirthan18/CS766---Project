@@ -1,0 +1,520 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de-DE" lang="de-DE">
+   <head>
+      <title>Startseite / Kreisstadt Gro&szlig;-Gerau</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+      <meta name="keywords" content="" />
+      <meta name="description" content="" />
+      <meta name="language" content="deutsch, de" />
+      <meta name="author" content="Kreisstadt Gro&szlig;-Gerau" />
+      <meta name="publisher" content="Kreisstadt Gro&szlig;-Gerau" />
+      <meta name="designer" content="Advantic Systemhaus GmbH" />
+      <meta name="copyright" content="&copy; 2014 gross-gerau.de" />
+      <meta name="robots" content="index,follow" />
+      
+		<link rel="alternate" type="application/rss+xml" title="Aktuelle Meldungen aus der Kreisstadt Groß-Gerau" href="http://www.gross-gerau.de/media/rss/aktuelles_startseite.xml" />
+      <link rel="styleSheet" type="text/css" href="/layout/grossgerau/layout.css" />
+      <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css' />
+             <link rel="styleSheet" type="text/css" href="/layout/grossgerau/ausgabe.css" />
+      <link rel="stylesheet" type="text/css" href="/layout/grossgerau/print.css" media="print" />
+      <!--[if IE]>
+         <style>
+            #hauptnavigation .nlv_1 li:hover .dropdown {top:53px;}
+            .suchfeld, .suchfeld:hover, .suchfeld:focus, .suchfeld:active {height:25px;padding:13px 0px 5px 5px;}
+         </style>
+      <![endif]-->
+      <!--[if lte IE 9]>
+         <style>
+            #hauptnavigation .nlv_1 li a, #hauptnavigation .nlv_1 li a:visited {text-shadow:none;}
+         </style>
+      <![endif]-->
+      <!--[if lte IE 8]>
+         <style>
+            .suchfeld, .suchfeld:hover, .suchfeld:focus, .suchfeld:active {height:25px;padding:13px 0px 5px 5px;}
+         </style>
+      <![endif]-->
+      <!--[if IE 6]>
+         <style>
+            body {behavior: url("/layout/grossgerau/csshover3.htc");}
+         </style>
+      <![endif]-->
+      <link rel="stylesheet" type="text/css" href="/output/js/highslide/highslide.css" />
+      <script type="text/javascript" language="javascript" src="/output/js/highslide/highslide-with-gallery.packed.js"></script>
+      <script type="text/javascript" language="javascript" src="/output/js/highslide/hs_config.js"></script>
+      <script type="text/javascript" language="javascript" src="/output/js/ikiss/basic.js"></script>
+
+      <!-- JQuery -->
+      <script type="text/javascript" language="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+      <script type="text/javascript" language="javascript">window.jQuery || document.write('<script type="text/javascript" language="javascript" src="/output/js/jquery/jquery-1.6.min.js"><\/script>')</script>
+      <script type="text/javascript" language="javascript" src="/layout/grossgerau/js/functions.js"></script>
+
+   
+	</head>
+   <body>
+      <a name="start" id="start"></a>
+      <div class="sprungziel">
+         <h2><a name="anker_hilfsnavigation"></a>Hilfsnavigation</h2>
+         <ul>
+            <li><a href="#anker_hauptmenu">direkt zum Hauptmenu</a></li>
+            <li><a href="#anker_quickmenu">direkt zur Quickmenu</a></li>
+            <li><a href="#anker_volltextsuche">direkt zur Volltextsuche</a></li>
+            <li><a href="#anker_untermenu">direkt zum Untermenu</a></li>
+            <li><a href="#anker_seiteninhalt">direkt zum Seiteninhalt</a></li>
+         </ul>
+      </div>
+      <div class="wrapper">
+         <div class="header-optionen">
+            <div class="drucken"><a href="javascript:print()">Seite drucken</a></div>
+            <div class="quicknavigation">
+               <a name="anker_quickmenu" id="anker_quickmenu"></a>
+               
+	<ul>
+		<li class="npt_on npt_first"><a href="/Quicknavigation/Startseite" class="nlk_on npt_first">Startseite</a></li>
+		<li class="npt_off"><a href="/Quicknavigation/Kontakt" class="nlk_off">Kontakt</a></li>
+		<li class="npt_off"><a href="/Quicknavigation/%C3%9Cbersicht" class="nlk_off">Übersicht</a></li>
+		<li class="npt_off"><a href="/Quicknavigation/Impressum" class="nlk_off">Impressum</a></li>
+		<li class="npt_off npt_last"><a href="/Quicknavigation/Hilfe" class="nlk_off npt_last">Hilfe</a></li>
+	</ul>
+            </div>
+            <div class="sprache">
+               <div id="toggler_content">
+                  <div id="google_translate_element"></div>
+                  <script>
+                     function googleTranslateElementInit() {
+                        new google.translate.TranslateElement({
+                           pageLanguage: 'de',
+                           layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+                           includedLanguages: 'de,en,fr,it,nl,pl'
+                        }, 'google_translate_element');
+                     }
+                  </script>
+                  <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+               </div>
+               <a href="#" class="toggler_button">Sprache</a>
+            </div>
+            <div class="cb"></div>
+         </div>
+         <div class="header">
+            <div class="logo"><a href="/" title="zur Startseite"><img src="/layout/grossgerau/media/logo_kreisstadt-gross-gerau.gif" alt="Logo Kreisstadt Gro&szlig;-Gerau" /></a></div>
+            <div class="suche">
+               <form style="padding:0; margin:0;" name="suchform" action="/" method="get">
+                  <input type="hidden" name="ffmod" value="suche" />
+                  <input type="hidden" class="vtopt3" name="opt3" />
+                  <input type="hidden" name="NavID" value="2289.4" />
+                  <label for="such"><input type="text" name="such" id="such" onblur="(this.value == '') &amp;&amp; (this.value = 'Wonach suchen Sie?')" onfocus="(this.value == 'Wonach suchen Sie?') &amp;&amp; (this.value = '')" value="Wonach suchen Sie?" class="suchfeld" /><input type="image" src="/layout/grossgerau/media/lupe.png" title="suchen" alt="suchen" class="lupe" /></label>
+               </form>
+            </div>
+            <div class="cb"></div>
+         </div>
+         <div id="hauptnavigation" class="menu">
+            <h2 class="sprungziel"><a name="anker_hauptnavigation"></a>Hauptnavigation</h2>
+            
+	<ul id="rid_0" class="nlv_1">
+		<li id="nlt_2289_7" class="npt_off npt_first childs"><a href="/Stadt-B%C3%BCrger" id="nid_2289_7" class="nlk_off npt_first childs">Stadt &amp; Bürger</a><div class="dropdown">
+		<ul id="rid_2289_7" class="nlv_2">
+			<li id="nlt_2289_17" class="npt_off npt_first childs"><a href="/Stadt-B%C3%BCrger/Kreisstadt-Gro%C3%9F-Gerau/Stadtportrait" id="nid_2289_17" class="nlk_off npt_first childs">Kreisstadt Groß-Gerau</a></li>
+			<li id="nlt_2289_18" class="npt_off childs"><a href="/Stadt-B%C3%BCrger/Stadtverwaltung/Amtliche-Bekanntmachung" id="nid_2289_18" class="nlk_off childs">Stadtverwaltung</a></li>
+			<li id="nlt_2289_19" class="npt_off childs"><a href="/Stadt-B%C3%BCrger/St%C3%A4dtepartnerschaft/Ringpartnerschaft" id="nid_2289_19" class="nlk_off childs">Städtepartnerschaft</a></li>
+			<li id="nlt_2289_20" class="npt_off childs"><a href="/Stadt-B%C3%BCrger/Wohnen-Bauen/Baugebiete" id="nid_2289_20" class="nlk_off childs">Wohnen &amp; Bauen</a></li>
+			<li id="nlt_2289_21" class="npt_off childs"><a href="/Stadt-B%C3%BCrger/Versorgung-Verkehr/Abfallinformation" id="nid_2289_21" class="nlk_off childs">Versorgung &amp; Verkehr</a></li>
+			<li id="nlt_2289_68" class="npt_off npt_last"><a href="/Stadt-B%C3%BCrger/Kommunale-Pressemitteilungen" id="nid_2289_68" class="nlk_off npt_last">Kommunale Pressemitteilungen</a></li>
+		</ul>
+</div>		</li>
+		<li id="nlt_2289_8" class="npt_off childs"><a href="/Freizeit-Kultur" id="nid_2289_8" class="nlk_off childs">Freizeit &amp; Kultur</a><div class="dropdown">
+		<ul id="rid_2289_8" class="nlv_2">
+			<li id="nlt_2289_11" class="npt_off npt_first childs"><a href="/Freizeit-Kultur/Sehenswertes/Stadtrundgang" id="nid_2289_11" class="nlk_off npt_first childs">Sehenswertes</a></li>
+			<li id="nlt_2289_12" class="npt_off childs"><a href="/Freizeit-Kultur/Naherholung/Parks-Gr%C3%BCnfl%C3%A4chen" id="nid_2289_12" class="nlk_off childs">Naherholung</a></li>
+			<li id="nlt_2289_109" class="npt_off childs"><a href="/Freizeit-Kultur/Sport/Gro%C3%9F-Gerauer-B%C3%A4der-GmbH" id="nid_2289_109" class="nlk_off childs">Sport</a></li>
+			<li id="nlt_2289_28" class="npt_off childs"><a href="/Freizeit-Kultur/Vereine/Vereinsportal" id="nid_2289_28" class="nlk_off childs">Vereine</a></li>
+			<li id="nlt_2289_13" class="npt_off childs"><a href="/Freizeit-Kultur/Kultur-Kunst/Stadtmuseum" id="nid_2289_13" class="nlk_off childs">Kultur &amp; Kunst</a></li>
+			<li id="nlt_2289_15" class="npt_off childs"><a href="/Freizeit-Kultur/Veranstaltungen" id="nid_2289_15" class="nlk_off childs">Veranstaltungen</a></li>
+			<li id="nlt_2289_14" class="npt_off childs"><a href="/Freizeit-Kultur/Einkaufsstadt-Gro%C3%9F-Gerau/Einkaufen-Genie%C3%9Fen" id="nid_2289_14" class="nlk_off childs">Einkaufsstadt Groß-Gerau</a></li>
+			<li id="nlt_2289_16" class="npt_off npt_last"><a href="/Freizeit-Kultur/Hotels-Pensionen" id="nid_2289_16" class="nlk_off npt_last">Hotels &amp; Pensionen</a></li>
+		</ul>
+</div>		</li>
+		<li id="nlt_2289_9" class="npt_off childs"><a href="/Bildung-Soziales" id="nid_2289_9" class="nlk_off childs">Bildung &amp; Soziales</a><div class="dropdown">
+		<ul id="rid_2289_9" class="nlv_2">
+			<li id="nlt_2289_23" class="npt_off npt_first childs"><a href="/Bildung-Soziales/Bildung-Beruf" id="nid_2289_23" class="nlk_off npt_first childs">Bildung &amp; Beruf</a></li>
+			<li id="nlt_2289_24" class="npt_off childs"><a href="/Bildung-Soziales/Kinder-Familie/Kindertageseinrichtungen" id="nid_2289_24" class="nlk_off childs">Kinder &amp; Familie</a></li>
+			<li id="nlt_2289_191" class="npt_off childs"><a href="/Bildung-Soziales/Jugendarbeit" id="nid_2289_191" class="nlk_off childs">Jugendarbeit</a></li>
+			<li id="nlt_2289_25" class="npt_off childs"><a href="/Bildung-Soziales/Senioren" id="nid_2289_25" class="nlk_off childs">Senioren</a></li>
+			<li id="nlt_2289_26" class="npt_off childs"><a href="/Bildung-Soziales/Migration-Integration/Fl%C3%BCchtlinge-Asyl" id="nid_2289_26" class="nlk_off childs">Migration &amp; Integration</a></li>
+			<li id="nlt_2289_252" class="npt_off npt_last"><a href="/Bildung-Soziales/Soziale-Hilfe-Beratung" id="nid_2289_252" class="nlk_off npt_last">Soziale Hilfe &amp; Beratung</a></li>
+		</ul>
+</div>		</li>
+		<li id="nlt_2289_10" class="npt_off npt_last childs"><a href="/Wirtschaft-Handel" id="nid_2289_10" class="nlk_off npt_last childs">Wirtschaft &amp; Handel</a><div class="dropdown">
+		<ul id="rid_2289_10" class="nlv_2">
+			<li id="nlt_2289_33" class="npt_off npt_first childs"><a href="/Wirtschaft-Handel/Wirtschaftsf%C3%B6rderung/Wirtschaftsoffensive" id="nid_2289_33" class="nlk_off npt_first childs">Wirtschaftsförderung</a></li>
+			<li id="nlt_2289_32" class="npt_off childs"><a href="/Wirtschaft-Handel/Stadtmarketing" id="nid_2289_32" class="nlk_off childs">Stadtmarketing</a></li>
+			<li id="nlt_2289_30" class="npt_off childs"><a href="/Wirtschaft-Handel/Branchen-Unternehmen/Branchenschwerpunkte" id="nid_2289_30" class="nlk_off childs">Branchen &amp; Unternehmen</a></li>
+			<li id="nlt_2289_29" class="npt_off npt_last childs"><a href="/Wirtschaft-Handel/Standort-Gro%C3%9F-Gerau/Standortportrait" id="nid_2289_29" class="nlk_off npt_last childs">Standort Groß-Gerau</a></li>
+		</ul>
+</div>		</li>
+	</ul>
+         </div>
+         <div class="cb"></div>
+         <div class="header">
+                           <div class="titelfoto-slider">
+                  <script type="text/javascript" language="javascript" src="/layout/grossgerau/js/jquery.flexslider-min.js"></script>
+<script type="text/javascript">
+	$(window).load(function(){
+		$('.flexslider').flexslider({
+			animation: "fade",
+			animationLoop: true,
+			slideshow: true,
+			slideshowSpeed: 17000,
+			animationSpeed: 1000,
+			directionNav: false,
+			controlNav: true
+      		});
+      });
+</script>	
+
+<div class="flexslider">
+	<ul class="slides">
+					<li>
+				<img src="/media/custom/2289_869_1_r.JPG?1397136091" alt="A1_Historisches Rathaus Portal" title="A1_Historisches Rathaus Portal" />
+			</li>
+					<li>
+				<img src="/media/custom/2289_2647_1_r.JPG?1488280920" alt="A2_Wochenmarkt_Portal" title="A2_Wochenmarkt_Portal" />
+			</li>
+					<li>
+				<img src="/media/custom/2289_1534_1_r.JPG?1425038031" alt="A3_Natur_Portal" title="A3_Natur_Portal" />
+			</li>
+					<li>
+				<img src="/media/custom/2289_2587_1_r.JPG?1483366046" alt="A4_Museum_Portal" title="A4_Museum_Portal" />
+			</li>
+					<li>
+				<img src="/media/custom/2289_2557_1_r.JPG?1480350193" alt="A5_Wasserturm_Stadtkirche_Abend_portal" title="A5_Wasserturm_Stadtkirche_Abend_portal" />
+			</li>
+			</ul>
+</div>
+<div class="cb"></div>
+               </div>
+                        <div class="kontakt">
+               <div class="adressen_uebersicht">
+
+					<p><strong><a href="/Quicknavigation/Startseite/index.php?ModID=9&amp;object=tx%7c2289.1&amp;FID=2289.1.1&amp;NavID=2289.1" title="Detailansicht der Adresse anzeigen" style="text-decoration:none;">
+				Kreisstadt Groß-Gerau			</a></strong></p>
+		     Am Marktplatz 1<br />     64521&nbsp;Groß-Gerau<br />  	<p>
+	   				<span style="display:inline-block;width:60px;">Telefon:</span>06152 - 71 6-0 				<br />
+
+			     				<span style="display:inline-block;width:60px;">Fax:</span>06152 - 71 63 09 				<br />
+
+			     				<span style="display:inline-block;width:60px;">E-Mail:</span><a href="mailto:kreisstadt@gross-gerau.de" title="E-Mail schreiben">kreisstadt@gross-gerau.de</a>
+								<br />
+
+			  	</p>
+	
+
+</div>
+<a target="_blank" href="https://www.facebook.com/StadtGG" title="Externer Link" class="csslink_extern_img"><img src="http://www.gross-gerau.de/media/custom/2289_3_1_k.PNG?1373633343" alt="Externer Link: Facebook" class="css_linkimg mt_left" align="left" border="0" hspace="0" vspace="0" width="24" height="24" /></a><a target="_blank" href="https://www.facebook.com/StadtGG" title="Externer Link" class="csslink_extern">Facebook</a>
+<div class="cb" style="height: 6px;"></div>
+<div class="button-orange"><a target="_self" href="/Quicknavigation/Startseite/index.php?mNavID=2289.103&amp;sNavID=2289.103&amp;La=1" class="csslink_intern">&Ouml;ffnungszeiten</a></div>
+<div class="button-orange"><a target="_self" href="/Quicknavigation/Startseite/index.php?mNavID=2289.66&amp;sNavID=2289.66&amp;La=1" class="csslink_intern">Ansprechpartner</a></div>
+            </div>
+            <div class="cb"></div>
+         </div>
+                  <div class="inhalt startseite">
+                        <div class="content startseite">
+                <div class="text3"><script type="text/javascript">
+// <![CDATA[
+var such = 'images';
+var opt1 = '1';
+var opt2 = '1';
+var opt3 = '';
+var opt4 = '1';
+var opt5 = '';
+
+// ]]>
+</script><div class="suchen-finden"><form name="fulltext" action="/" method="post"> <input  value="suche" name="ffmod" type="hidden"/><h3>Suchen &amp; Finden</h3>
+<strong>Ihre Suchbegriffe:</strong> <br/><input  class="mtp_fel" name="such"/>&nbsp;&nbsp;    <input  class="mtp_fel" value="Suchen!" name="Submit" type="submit"/><div class="cb"></div>
+<br/><strong>Suchen in:</strong> <br/><select  class="mtp_fel" name="opt3"><option  value="0">Allen Inhalten</option><option  value="5">Seiten</option><option  value="10">B&uuml;rgerinfosystem</option><option  value="255">Mitteilungen</option><option  value="11">Veranstaltungen</option><option  value="7">Texten</option><option  value="9">Adressen</option><option  value="6">Medien</option></select><div class="cb"></div>
+<br/><strong>Sortierung:&nbsp; </strong> <br/><div class="mtp_fl"><input  name="opt4" value="1" type="radio"/>&nbsp;Rating</div>
+<div class="mtp_fl"><input  name="opt4" value="2" type="radio"/>&nbsp;Alphabetisch</div>
+<div class="cb"></div>
+<div class="mtp_fl"><input  name="opt4" value="3" type="radio"/>&nbsp;Datum / Alphabetisch</div>
+<div class="mtp_fl"><input  name="opt4" value="4" type="radio"/>&nbsp;System / Rating</div>
+<div class="cb"></div>
+<div class="mtp_fl"><input  name="opt4" value="5" type="radio"/>&nbsp;System / Alphabetisch</div>
+<div class="mtp_fl"><input  name="opt4" value="6" type="radio"/>&nbsp;System / Datum / Alphabetisch</div>
+<div class="cb"></div>
+<br/> Sie k&ouml;nnen&nbsp;Ihre Suchoptionen anpassen:<br/><div class="mtp_fl"><input  class="text3" value="1" name="opt1" type="radio"/>&nbsp;Suche nach Wortteilen</div>
+<div class="mtp_fl"><input  class="text3" value="2" name="opt1" type="radio"/>&nbsp;Exakte Wortsuche</div>
+<div class="cb"></div>
+<div class="mtp_fl"><input  class="text3" value="1" name="opt2" type="radio"/>&nbsp;UND (Alle W&ouml;rter)</div>
+<div class="mtp_fl"><input  class="text3" value="2" name="opt2" type="radio"/>&nbsp;ODER (Einzelne W&ouml;rter)</div>
+<div class="cb"></div>
+<hr size="1"/></form></div><div id="vt_result"><a class="vt_anchor" name="mod_7"><br/><br/><br/><b>Texte</b></a>
+<a href="/output/vt_stats.php?query=arOf6MpjDOUACSDKmwXGRrPY2gIbAb%2FtcvCroNQrNDYDdRIY5txnSmgLuAIX3pCuCxDBQxjxJiDxP9lq153I85HBjPmbcNLHj31nr4zBKtTJL5miPWztuBmt6xl8Or0h%2BUWYwPmjJrsZaX%2FH%2B5sb%2Fl1FgDwAlXZWOdD8qiNQgw95lmMBebRPSmN2ayGRqCp7CL7OdOcE8Ixtn%2BPvsCAFsGo2Fz39EEX0tI63clBThmLxkA5Z3QPqXdZr0t01l4nw" class="vt_area_3">Verfahrensablauf</a>&nbsp;&nbsp;
+<br />
+<a href="/output/vt_stats.php?query=arOf6MpjDOUACSDKmwXGRrPY2gIbAb%2FtcvCroNQrNDbZLCbEcJ8b2aZJeCUibraYNiLfyMeUiJ%2BCgOGqaGRkCpHBjPmbcNLHj31nr4zBKtTJL5miPWztuBmt6xl8Or0h%2BUWYwPmjJrsZaX%2FH%2B5sb%2Fl1FgDwAlXZWOdD8qiNQgw84DxJSkWcmgByudzZDWt9lacWeQgKdpS2WcGCDFtBj36KS6yEQg2zrmCqWMxXUCzzB3OZuhjZ6dw0U4Hf%2Fjewz" class="vt_area_3">Welche Gebühren fallen an?</a>&nbsp;&nbsp;
+<br />
+<a href="/output/vt_stats.php?query=arOf6MpjDOUACSDKmwXGRrPY2gIbAb%2FtcvCroNQrNDbZLCbEcJ8b2aZJeCUibraYNiLfyMeUiJ%2BCgOGqaGRkCpHBjPmbcNLHj31nr4zBKtTJL5miPWztuBmt6xl8Or0h%2BUWYwPmjJrsZaX%2FH%2B5sb%2Fl1FgDwAlXZWOdD8qiNQgw90zL2ygV6paCc1isTef6z98oKK%2B1q6q41g1Aj557enpKKS6yEQg2zrmCqWMxXUCzzB3OZuhjZ6dw0U4Hf%2Fjewz" class="vt_area_3">Welche Unterlagen werden benötigt?</a>&nbsp;&nbsp;
+<br />
+<a class="vt_anchor" name="mod_6"><br/><br/><br/><b>Medien</b></a>
+<span class="vt_area_3 vt_media"><a target="_blank" href="/output/vt_stats.php?query=arOf6MpjDOUACSDKmwXGRrPY2gIbAb%2FtcvCroNQrNDaZ12HmXv3rsuRAEzqFqRb4ToSsEIdO2w%2BOch87tLf76zfgCsQ5R%2Fn80CVONk5U1BsJZU7vVh4hHWnmWE%2Ffn1fK0BHSxRcjfu5L9yCbOFfsSboeswHtjjEKpQTAKcgYX8BX3tCcjMtMsay2gOeOcR9%2FFw2DQyorpXv3fpNhIMoCUg%3D%3D" title="Dateityp: PDF / Dateigr&ouml;&szlig;e: 9,9 MB">Stadtentwicklungskonzept GG 2020</a></span>&nbsp;&nbsp;
+<br />
+</div></div>	<script type="text/javascript">//<![CDATA[
+		try {
+			if (document.all) {
+				document.writeln('<div id="such_konv" style="visibility:hidden">'+such+'</div>');
+				such = document.all.such_konv.innerText;
+			}
+			if (such && (such.indexOf("&#")==-1)) document.fulltext.such.value=such;
+			if (document.fulltext.opt1) {
+				len = document.fulltext.opt1.length;
+				if ((opt1==1) && (len>0)) document.fulltext.opt1[0].checked=true;
+				else if ((opt1==2) && (len>1)) document.fulltext.opt1[1].checked=true;
+				else if ((opt1==3) && (len>2)) document.fulltext.opt1[2].checked=true;
+			}
+			if (document.fulltext.opt2) {
+				len = document.fulltext.opt2.length;
+				if ((opt2==1) && (len>0)) document.fulltext.opt2[0].checked=true;
+				else if ((opt2==2) && (len>1)) document.fulltext.opt2[1].checked=true;
+			}
+			if (document.fulltext.opt3) {
+				var i = -1;
+				var j = document.fulltext.opt3.options.length;
+				while (++i<j) if (document.fulltext.opt3.options[i].value == opt3) document.fulltext.opt3.selectedIndex = i;
+			}
+			if (document.fulltext.opt4) {
+				if (document.fulltext.opt4.options) {
+					var i = -1;
+					var j = document.fulltext.opt4.options.length;
+					while (++i<j) if (document.fulltext.opt4.options[i].value == opt4) document.fulltext.opt4.selectedIndex = i;
+				}
+				else {
+					len = document.fulltext.opt4.length;
+					for (var i = 0; i < len; ++i) {
+						if ((opt4 == (i + 1)) && (len > i)) {
+							document.fulltext.opt4[i].checked = true;
+							break;
+						}
+					}
+				}
+			}
+			if (document.fulltext.opt5) {
+				var i = -1;
+				var j = document.fulltext.opt5.options.length;
+				while (++i<j) if (document.fulltext.opt5.options[i].value == opt5) document.fulltext.opt5.selectedIndex = i;
+			}
+
+			if (document.getElementById('vt_keywords')) {
+				document.getElementById('vt_keywords').style.display = 'none';
+				document.getElementById('vt_keyword_lk').style.display = 'block';
+			}
+		} catch(e) {}
+
+		function vt_kw_display() {
+			if (document.getElementById('vt_keywords').style.display == 'none')
+				document.getElementById('vt_keywords').style.display = 'block';
+			else
+				document.getElementById('vt_keywords').style.display = 'none';
+		}
+
+		//]]>
+	</script>
+            </div>
+
+            <div class="randspalte startseite">
+
+                                 <div class="randbox">
+                     <h4>Oft gesucht</h4>
+                     <div class="randbox_inner oftgesucht">
+                        
+				<style type="text/css">
+					.tc-item { margin: 2px; display: inline-block; }
+				</style>
+				<div id="tc-cloud-2289-1" class="tc-cloud" style="padding: 5px; line-height: 1.75em; text-align: left">
+					<span style="font-size:132%;font-weight:bold;" id="tc-item-5" class="tc-item" title="Abfallinformation" rel="tag"><a title="Abfallinformation" data-weight="17" id="tc-link-5" class="tc-link" style="font-weight: bold; position:relative; " href="/tag/2289.1.1/abfallinformation" target="_self">Abfallinformation</a></span>
+
+<span style="font-size:94%;font-weight:normal;" id="tc-item-16" class="tc-item" title="Grillhütte" rel="tag"><a title="Grillhütte" data-weight="12" id="tc-link-16" class="tc-link" style="font-weight: normal; position:relative; " href="/tag/2289.1.1/grillhütte" target="_self">Grillhütte</a></span>
+
+<span style="font-size:139%;font-weight:bold;" id="tc-item-3" class="tc-item" title="Reisepass" rel="tag"><a title="Reisepass" data-weight="18" id="tc-link-3" class="tc-link" style="font-weight: bold; position:relative; " href="/tag/2289.1.1/reisepass" target="_self">Reisepass</a></span>
+
+<span style="font-size:97%;font-weight:normal;" id="tc-item-15" class="tc-item" title="Hallenbad" rel="tag"><a title="Hallenbad" data-weight="13" id="tc-link-15" class="tc-link" style="font-weight: normal; position:relative; " href="/tag/2289.1.1/hallenbad" target="_self">Hallenbad</a></span>
+
+<span style="font-size:115%;font-weight:normal;" id="tc-item-10" class="tc-item" title="Amtliche Bekanntmachungen" rel="tag"><a title="Amtliche Bekanntmachungen" data-weight="15" id="tc-link-10" class="tc-link" style="font-weight: normal; position:relative; " href="/tag/2289.1.1/bekanntmachungen" target="_self">Bekanntmachungen</a></span>
+
+<span style="font-size:190%;font-weight:bold;" id="tc-item-1" class="tc-item" title="offene Stellen" rel="tag"><a title="offene Stellen" data-weight="24" id="tc-link-1" class="tc-link" style="font-weight: bold; position:relative; " href="/tag/2289.1.1/offene-stellen" target="_self">offene Stellen</a></span>
+
+<span style="font-size:104%;font-weight:normal;" id="tc-item-13" class="tc-item" title="Kindertageseinrichtungen" rel="tag"><a title="Kindertageseinrichtungen" data-weight="13" id="tc-link-13" class="tc-link" style="font-weight: normal; position:relative; " href="/tag/2289.1.1/kitas" target="_self">Kitas</a></span>
+
+<span style="font-size:125%;font-weight:normal;" id="tc-item-7" class="tc-item" title="Satzungen" rel="tag"><a title="Satzungen" data-weight="16" id="tc-link-7" class="tc-link" style="font-weight: normal; position:relative; " href="/tag/2289.1.1/satzungen" target="_self">Satzungen</a></span>
+
+<span style="font-size:143%;font-weight:bold;" id="tc-item-2" class="tc-item" title="Fundsachen" rel="tag"><a title="Fundsachen" data-weight="18" id="tc-link-2" class="tc-link" style="font-weight: bold; position:relative; " href="/tag/2289.1.1/fundsachen" target="_self">Fundsachen</a></span>
+
+<span style="font-size:122%;font-weight:normal;" id="tc-item-8" class="tc-item" title="Stadtplan" rel="tag"><a title="Stadtplan" data-weight="16" id="tc-link-8" class="tc-link" style="font-weight: normal; position:relative; " href="/tag/2289.1.1/stadtplan" target="_self">Stadtplan</a></span>
+
+<span style="font-size:129%;font-weight:bold;" id="tc-item-6" class="tc-item" title="Kartenvorverkauf" rel="tag"><a title="Kartenvorverkauf" data-weight="17" id="tc-link-6" class="tc-link" style="font-weight: bold; position:relative; " href="/tag/2289.1.1/kartenvorverkauf" target="_self">Kartenvorverkauf</a></span>
+
+<span style="font-size:101%;font-weight:normal;" id="tc-item-14" class="tc-item" title="Senioren" rel="tag"><a title="Senioren" data-weight="13" id="tc-link-14" class="tc-link" style="font-weight: normal; position:relative; " href="/tag/2289.1.1/senioren" target="_self">Senioren</a></span>
+
+<span style="font-size:108%;font-weight:normal;" id="tc-item-12" class="tc-item" title="Bürgerservice" rel="tag"><a title="Bürgerservice" data-weight="14" id="tc-link-12" class="tc-link" style="font-weight: normal; position:relative; " href="/tag/2289.1.1/bürgerservice" target="_self">Bürgerservice</a></span>
+
+<span style="font-size:118%;font-weight:normal;" id="tc-item-9" class="tc-item" title="Bücherei-Online Findus der Stadtbücherei" rel="tag"><a title="Bücherei-Online Findus der Stadtbücherei" data-weight="15" id="tc-link-9" class="tc-link" style="font-weight: normal; position:relative; " href="/tag/2289.1.1/bücherei-online" target="_blank">Bücherei-Online</a></span>
+
+<span style="font-size:136%;font-weight:bold;" id="tc-item-4" class="tc-item" title="Formulare" rel="tag"><a title="Formulare" data-weight="17" id="tc-link-4" class="tc-link" style="font-weight: bold; position:relative; " href="/tag/2289.1.1/formulare" target="_self">Formulare</a></span>
+
+<span style="font-size:90%;font-weight:normal;" id="tc-item-17" class="tc-item" title="Flüchtlinge/Asyl" rel="tag"><a title="Flüchtlinge/Asyl" data-weight="12" id="tc-link-17" class="tc-link" style="font-weight: normal; position:relative; " href="/tag/2289.1.1/flüchtlinge" target="_self">Flüchtlinge</a></span>
+
+<span style="font-size:111%;font-weight:normal;" id="tc-item-11" class="tc-item" title="Hotels" rel="tag"><a title="Hotels" data-weight="14" id="tc-link-11" class="tc-link" style="font-weight: normal; position:relative; " href="/tag/2289.1.1/hotels" target="_self">Hotels</a></span>
+
+				</div>
+			
+                     </div>
+                  </div>
+                                       <div class="randbox weitere-infos">
+                        <h4>Veranstaltungen</h4>
+<div class="randbox_inner"><div style="display:inline"><div class="termine"><p>	
+				Mi.  8. März 2017<br />		
+				<a name="nr_1"></a>
+				<span class="titel"><a href="/Quicknavigation/Startseite/Internationaler-Frauentag-im-Stadtmuseum.php?object=tx,2289.5&amp;ModID=11&amp;FID=2289.1776.1&amp;NavID=2289.15" title="Interner Link: Zur Veranstaltung">Internationaler Frauentag im Stadtmuseum</a></span></p>
+			</div>
+			
+			<div class="termine"><p>	
+				Do.  9. März 2017<br />		
+				<a name="nr_2"></a>
+				<span class="titel"><a href="/Quicknavigation/Startseite/B%C3%BCcherwurm-Treff-f%C3%BCr-Kinder-ab-5-Jahre.php?object=tx,2289.5&amp;ModID=11&amp;FID=2289.1670.1&amp;NavID=2289.15" title="Interner Link: Zur Veranstaltung">Bücherwurm-Treff für Kinder ab 5 Jahre</a></span></p>
+			</div>
+			
+			<div class="termine"><p>	
+				Do.  9. März 2017<br />		
+				<a name="nr_3"></a>
+				<span class="titel"><a href="/Quicknavigation/Startseite/-Konzert-der-Evangelischen-Kirchengemeinde-Dornheim.php?object=tx,2289.5&amp;ModID=11&amp;FID=2289.1662.1&amp;NavID=2289.15" title="Interner Link: Zur Veranstaltung"> Konzert der Evangelischen Kirchengemeinde Dornheim</a></span></p>
+			</div>
+			
+			<div class="termine"><p>	
+				Sa. 11. März 2017<br />		
+				<a name="nr_4"></a>
+				<span class="titel"><a href="/Quicknavigation/Startseite/Alpinfahrt-der-Skiabteilung-des-Sportverein-Blau-Gelb-Gross-Gerau-.php?object=tx,2289.5&amp;ModID=11&amp;FID=2289.1636.1&amp;NavID=2289.15" title="Interner Link: Zur Veranstaltung">Alpinfahrt der Skiabteilung des Sportverein Blau-Gelb Gross-Gerau                                                       </a></span></p>
+			</div>
+<div class="alleanzeigen"><a target="_self" href="/Quicknavigation/Startseite/index.php?mNavID=2289.121&amp;sNavID=2289.121&amp;La=1" class="csslink_intern">alle Veranstaltungen anzeigen</a></div>
+</div></div>
+                     </div>
+                                       <div class="randbox weitere-infos">
+                        <h4>B&uuml;rgermeister</h4>
+<div class="randbox_inner"><div style="display:inline"><img align="left" alt="Foto B&uuml;rgmeister" hspace="0" border="0" class="mt_left" src="http://www.gross-gerau.de/media/custom/2289_4_1_k.JPG?1373633400" width="86" height="94" title="Foto B&uuml;rgmeister" />Willkommen! Sch&ouml;n, dass Sie unsere Internetseite besuchen &ndash; es lohnt sich! Gro&szlig;-Gerau ist zentraler Punkt im dynamischen, innovativen und wirtschaftsstarken Rhein-Main-Gebiet. Mit seinen 25.000 Einwohnern vereint die Kreisstadt Gro&szlig;-Gerau die Vorz&uuml;ge einer &uuml;berschaubaren und lebenswerten Stadt mit den Vorz&uuml;gen einer engen Einbindung in die Metropolregion Rhein-Main.
+<p>&nbsp;<a target="_self" href="/Quicknavigation/Startseite/index.php?mNavID=2289.201&amp;sNavID=2289.201&amp;La=1" class="csslink_intern">&raquo; zum Gru&szlig;wort von B&uuml;rgermeister Stefan Sauer</a></p>
+</div></div>
+                     </div>
+                                  <!-- Randbox für diverse Links -->
+                              <!-- Randbox für Dokumente -->
+                           </div>
+            <div class="cb"></div>
+         </div>
+                     <div class="bildergalerie"><h3>Fotogalerie</h3>
+<div class="einleitung"><div style="display:inline"><a target="_self" href="/Quicknavigation/Startseite/index.php?mNavID=2289.107&amp;sNavID=2289.107&amp;La=1" class="csslink_intern">alle Fotogalerien anzeigen</a></div></div>
+<a name="a1" id="a1"></a><a name="a2" id="a2"></a><div style="display:inline"><script type="text/javascript" src="/layout/grossgerau/js/jquery.elastislide.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('#carousel').elastislide({
+			imageW: 210,
+			minItems: 2
+		});		
+	});
+</script>	
+
+<div id="carousel" class="es-carousel-wrapper">
+	<div class="es-carousel">
+		<ul class="rslides">
+		
+			 					<li>
+						<img src="/media/custom/2289_219_1_g.JPG?1392828754" title="AA_Goetheschule" alt="AA_Goetheschule"  />
+					</li>
+				  					<li>
+						<img src="/media/custom/2289_857_1_g.JPG?1418346047" title="A_Handwerksmuseum Aussen" alt="A_Handwerksmuseum Aussen"  />
+					</li>
+				  					<li>
+						<img src="/media/custom/2289_217_1_g.JPG?1392828102" title="Europakreisel" alt="Europakreisel"  />
+					</li>
+				  					<li>
+						<img src="/media/custom/2289_226_1_g.JPG?1392830578" title="Fasanerie Sommer" alt="Fasanerie Sommer"  />
+					</li>
+				  					<li>
+						<img src="/media/custom/2289_7_1_g.JPG?1373633278" title="foto_03" alt="foto_03"  />
+					</li>
+				  					<li>
+						<img src="/media/custom/2289_5_1_g.JPG?1373633413" title="foto_wochenmarkt" alt="foto_wochenmarkt"  />
+					</li>
+				  					<li>
+						<img src="/media/custom/2289_224_1_g.JPG?1392829965" title="Freibad Kinderbecker" alt="Freibad Kinderbecker"  />
+					</li>
+				  					<li>
+						<img src="/media/custom/2289_220_1_g.JPG?1392829034" title="Gewerbepark Alte Brauerei" alt="Gewerbepark Alte Brauerei"  />
+					</li>
+				  					<li>
+						<img src="/media/custom/2289_1065_1_g.JPG?1418346050" title="GG läuft Training" alt="GG läuft Training"  />
+					</li>
+				  					<li>
+						<img src="/media/custom/2289_1212_1_g.JPG?1410440308" title="GG_NdS 2014_15" alt="GG_NdS 2014_15"  />
+					</li>
+				  					<li>
+						<img src="/media/custom/2289_1403_1_g.JPG?1418312897" title="Historisches_Rathaus_Advent" alt="Historisches_Rathaus_Advent"  />
+					</li>
+				  					<li>
+						<img src="/media/custom/2289_9_1_g.JPG?1373633453" title="Hotel" alt="Hotel"  />
+					</li>
+				  					<li>
+						<img src="/media/custom/2289_1010_1_g.JPG?1400243023" title="Kita Esch_Kinderbus 2" alt="Kita Esch_Kinderbus 2"  />
+					</li>
+				  					<li>
+						<img src="/media/custom/2289_225_1_g.JPG?1392830324" title="Mainzer Straße Fachwerk" alt="Mainzer Straße Fachwerk"  />
+					</li>
+				  					<li>
+						<img src="/media/custom/2289_223_1_g.JPG?1392829791" title="M_Altes Amtsgericht Sommer" alt="M_Altes Amtsgericht Sommer"  />
+					</li>
+				  					<li>
+						<img src="/media/custom/2289_1199_1_g.JPG?1410428599" title="NdS 2014_4" alt="NdS 2014_4"  />
+					</li>
+				    					<li>
+						<img src="/media/custom/2289_13_1_g.JPG?1455881699" title="Stadthaus im Blumenmeer" alt="Stadthaus im Blumenmeer"  />
+					</li>
+				  					<li>
+						<img src="/media/custom/2289_8_1_g.JPG?1373633443" title="Wallerstädten Apfelbauer" alt="Wallerstädten Apfelbauer"  />
+					</li>
+				  					<li>
+						<img src="/media/custom/2289_1404_1_g.JPG?1418313376" title="Z_Adventskranz_Marktplatz" alt="Z_Adventskranz_Marktplatz"  />
+					</li>
+				 		
+		</ul>	
+		<div class="cb"></div>					
+	</div>			
+</div>
+<div class="cb"></div>
+</div><a name="a3" id="a3"></a><a name="a4" id="a4"></a><a name="a5" id="a5"></a><a name="a6" id="a6"></a><a name="a7" id="a7"></a><a name="a8" id="a8"></a><a name="a9" id="a9"></a><a name="a10" id="a10"></a><a name="a11" id="a11"></a><a name="a12" id="a12"></a></div>
+                  <div class="footer">
+            <div class="logo"><a href="/?NavID=2289.71" title=""ausgezeichneter Wohnort><img src="/layout/grossgerau/media/logo_ausgezeichneter-wohnort.gif" alt="ausgezeichneter Wohnort" /></a></div>
+            <div class="optionen">
+               <a href="javascript:history.back()" title="Seite zur&uuml;ck">zur&uuml;ck</a>
+               &nbsp;|&nbsp;
+               <a href="#start" class="seitenanfang">Seitenanfang</a>
+            </div>
+            <div class="cb"></div>
+         </div>
+      </div>
+
+						<!-- Piwik -->
+						<script type="text/javascript">
+							if (window.ikiss_basic && ikiss_basic.getCookie("ikiss-tracking") == 1) ; else {
+								var _paq = _paq || [];
+								_paq.push(["trackPageView"]);
+								_paq.push(["enableLinkTracking"]);
+								(function() {
+									var u="https://piwik.advantic.de/";
+									_paq.push(["setTrackerUrl", u+"piwik.php"]);
+									_paq.push(["setSiteId", "79"]);
+									var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+									g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+								})();
+							}
+						</script>
+						<noscript>
+						<!-- Piwik Image Tracker -->
+						<img src="https://piwik.advantic.de/piwik.php?idsite=79&amp;rec=1" style="border:0" alt="" />
+						</noscript>
+						<!-- End Piwik Code -->
+					   </body>
+</html>

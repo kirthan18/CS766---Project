@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="content-script-type" content="text/javascript">
+<meta name="title" content="My docomo">
+<meta name="author" content="NTT DOCOMO">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta name="copyright" content="(c) NTT DOCOMO, INC. All Rights Reserved.">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+
+<title>My docomo（マイドコモ） | NTTドコモ</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+
+<script src="https://www.mydocomo.com/web/shared/js/urchin.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+		urchinTracker();
+	//--></script>
+
+<link href="https://www.mydocomo.com/web/shared/css/import.css" rel="stylesheet" type="text/css" media="screen,print,projection">
+<link href="https://www.mydocomo.com/web/shared/css/print.css" rel="stylesheet" type="text/css" media="print">
+<script type="text/javascript" src="https://www.mydocomo.com/web/shared/js/MYDCO-CE0001.js"></script>
+</head>
+<body id="docomo">
+
+<noscript><p id="headerNoscript">このページではJavaScriptを使用しています。</p></noscript>
+
+<!-- ヘッダー はじまり -->
+<iframe src="https://www.mydocomo.com/web/shared/html/header_docomo.html" width="100%" height="80" scrolling="no" frameborder="0" name="mydocomoheader" title="mydocomoheader" id="mydocomoheader" class="sp-b20">このページはインラインフレームを使用しております。</iframe>
+<!-- ヘッダー 終わり -->
+
+
+<!-- コンテンツ はじまり -->
+<div id="content">
+<div class="block-form">
+<div class="h1 h1-750"><h1>404　Not Found</h1></div>
+
+<div class="section">
+<div class="block-boxgrayline sp-b30">
+<div class="block-boxgraylineIn arrange-c">
+<p class="yellowocher strong sp-v0">大変申し訳ございません。</p>
+<p class="yellowocher strong sp-t0">お探しのページまたはファイルが見つかりませんでした。</p>
+<p class="sp-b0">ブックマークを登録されている場合は、お手数ですが設定の変更をお願いいたします。</p>
+<!-- /block-boxgray -->
+</div>
+</div>
+
+<div class="arrange-c">
+<table border="0" cellspacing="0" cellpadding="0" class="layout mc sp-b10">
+<tbody>
+<tr><td>
+<p><a href="https://www.mydocomo.com/web/r/common/mydocomo.html" class="mkr-link">My docomo</a>へ</p>
+</td></tr>
+</tbody>
+</table>
+</div>
+
+<!-- /section -->
+</div>
+
+
+<!-- /block-form -->
+</div>
+<!-- /content -->
+</div>
+<!-- コンテンツ 終わり -->
+
+
+<!-- フッター はじまり -->
+<iframe src="https://www.mydocomo.com/web/shared/html/footer_copyright.html" width="905" height="60" scrolling="no" frameborder="0" name="mydocomofooter" title="mydocomofooter" id="footerFrame">このページはインラインフレームを使用しております。</iframe>
+<!-- フッター 終わり -->
+
+</body>
+</html>

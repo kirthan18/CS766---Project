@@ -1,0 +1,337 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html lang="en">
+
+
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Adobe Create Magazine</title>
+    
+	<link rel="apple-touch-icon" sizes="57x57" href="/etc/designs/inspire/images/favicons/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/etc/designs/inspire/images/favicons/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/etc/designs/inspire/images/favicons/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/etc/designs/inspire/images/favicons/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/etc/designs/inspire/images/favicons/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/etc/designs/inspire/images/favicons/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/etc/designs/inspire/images/favicons/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/etc/designs/inspire/images/favicons/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/etc/designs/inspire/images/favicons/apple-touch-icon-180x180.png">
+	<link rel="icon" type="image/png" href="/etc/designs/inspire/images/favicons/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/etc/designs/inspire/images/favicons/android-chrome-192x192.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="/etc/designs/inspire/images/favicons/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="/etc/designs/inspire/images/favicons/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/etc/designs/inspire/images/favicons/manifest.json">
+	<link rel="mask-icon" href="/etc/designs/inspire/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="/etc/designs/inspire/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#000000">
+	<meta name="msapplication-TileImage" content="/etc/designs/inspire/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/etc/designs/inspire/images/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Each week, Adobe Create Magazine features innovative artists and shines a spotlight on creative work in photography, design, video, illustration, and more." />
+    <meta property="og:image" content="http://create.adobe.com/etc/designs/inspire/images/facebook_header_create.jpg" />
+    <meta http-equiv="Cache-Control" content="max-age=3600"/>
+
+
+    
+    
+<script type="text/javascript" src="/etc/designs/inspire/clientlibs.js"></script>
+<link rel="stylesheet" href="/etc/designs/inspire/clientlibs.css" type="text/css"/>
+
+
+
+<link href="/etc/designs/inspire.css" rel="stylesheet" type="text/css"/>
+
+    <script type="text/javascript" src="/etc/designs/inspire/clientlibs/js/bootstrap.min.js"></script>
+
+    <!--<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>-->
+
+    <!-- <script type="text/javascript" src="/etc/designs/inspire/clientlibs/js/inspire.home.article-list.js"></script> -->
+
+    <!--[if (gte IE 6)&(lte IE 8)]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script type="text/javascript" src="js/selectivizr-min.js"></script>
+    <script type="text/javascript" src="js/respond.min.js"></script>
+    <script type="text/javascript" src="js/rem.min.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript" src="//use.typekit.net/lvh3jos.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script src="//assets.adobedtm.com/659ec8ada5450db95675e43beaaae92399591a11/satelliteLib-46e65db5bb0c375f8f64619be31cc9b29acf4867.js"></script>
+
+    <script type="text/javascript">
+        window.pageTagOverride = "";
+    </script>
+
+    
+    
+</head>
+
+
+<body class="new-style" ng-app="inspireArticles">
+<div class="master-offset">
+	<div class="master-container" ng-controller="inspireAppController">
+		
+<div id="mobile-left-rail" class="nodesktop">
+    <!--<a href="javascript:void(0);" class="close-mobile-rail">+</a>-->
+    <section class="nav-selection">
+        <ul class="nav-selection-list">
+            <li class="topic-list">
+                <ul class="nav-menu-list">
+                    
+                    <li><a href="/graphic-design.html">Graphic Design</a></li>
+                    <li><a href="/illustration.html">Illustration</a></li>
+                    <li><a href="/motion-graphics.html">Motion Graphics</a></li>
+                    <li><a href="/photography.html">Photography</a></li>
+                    <div class="mobile-reserve-container" style="height:0px;">
+                        <li class="reserve-article-topics"><a href="/art-direction.html">Art Direction</a></li>
+                        <li class="reserve-article-topics"><a href="/audio-video.html">Audio/Video</a></li>
+                        <li class="reserve-article-topics"><a href="/branding.html">Branding</a></li>
+                        <li class="reserve-article-topics"><a href="/2015/4/30/adobe_creative_residency.html">Creative Residency</a></li>
+                        <li class="reserve-article-topics"><a href="/screen-design.html">Screen Design</a></li>
+                    </div>
+                    <li class="nav-reserve-plus"><a href="javascript:void(0)">More...</a></li>
+                    <li class="nav-reserve-minus" style="display:none;"><a href="javascript:void(0)">...Less</a></li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+    <section class="nav-sub-right">
+        <ul class="nav-icon-list">
+            <li>
+                <a href="/search.html" class="inspire-icon-search" title="Search"><span>Search</span></a>
+            </li>
+            <li>
+                <a href="https://twitter.com/adobecreate" class="inspire-icon-twitter" title="Follow" target="_blank"><span>Follow</span></a>
+            </li>
+            <li>
+                <a href="http://create.adobe.com/.rss" target="_blank" class="inspire-icon-rss" title="RSS"><span>RSS</span></a>
+            </li>
+            <li>
+                <a href="/lets_be_friends.html" class="inspire-icon-subscribe" title="Let's Be Friends - Subscribe"><span>Let's Be Friends</span></a>
+            </li>
+            <li>
+                <a href="/lets_be_friends.html" id="app-download-link" class="inspire-icon-get-app" title="Get App"><span>Get App</span></a>
+                <script type="text/javascript">
+                    if (getMobileOperatingSystem() == 'iOS')
+                        $('#app-download-link').attr('href','http://itunes.apple.com/us/app/adobe-inspire/id536737621');
+                    else if (getMobileOperatingSystem() == 'Android')
+                         $('#app-download-link').attr('href','https://play.google.com/store/apps/details?id=com.adobe.dpspubs.inspire');                
+                </script>
+            </li>
+        </ul>
+    </section>
+</div>
+<div class="page-navigation-group group">
+    <section class="page-navigation">
+        <div class="nav-header">
+            <a href="javascript:void(0);" class="nodesktop inspire-icon-menu"></a>
+            <a class="nav-create-logo" href="/">
+                <div class="inspire-icon-create"></div>
+            </a>
+            <a class="nav-adobe-logo" href="http://www.adobe.com" target="_blank">
+                <i class="inspire-icon-adobe"></i>
+            </a>
+        </div>
+        
+        <section class="nav-selection">
+            <ul class="nav-selection-list">
+                
+                <li><a href="/graphic-design.html">Graphic Design</a></li>
+                <li><a href="/illustration.html">Illustration</a></li>
+                <li><a href="/motion-graphics.html">Motion Graphics</a></li>
+                <li><a href="/photography.html">Photography</a></li>
+                <li><span>More...</span>
+                    <ul class="nav-selection-more">
+                        <li class="reserve-article-topics"><a href="/art-direction.html">Art Direction</a></li>
+                        <li class="reserve-article-topics"><a href="/audio-video.html">Audio/Video</a></li>
+                        <li class="reserve-article-topics"><a href="/branding.html">Branding</a></li>
+                        <li class="reserve-article-topics"><a href="/2015/4/30/adobe_creative_residency.html">Creative Residency</a></li>
+                        <li class="reserve-article-topics"><a href="/screen-design.html">Screen Design</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+        <div class="nav-sub">
+            <ul class="nav-icon-list">
+                <li class="search-list-item">
+                    <a href="javascript:void(0)" class="nav-icon-menu-item inspire-icon-search" title="Search"></a>
+                    <form id="site-search" name="site-search" method="get" action="/search.html" class="nav-sub-search ng-pristine ng-valid">
+                        <input id="search-input" type="text" title="Search" name="q" placeholder="Search">
+                    </form>
+                </li>
+                <li>
+                    <a href="/lets_be_friends.html" class="nav-icon-menu-item inspire-icon-subscribe" title="Let's Be Friends - Subscribe"></a>
+                </li>
+                <li>
+                    <a href="http://create.adobe.com/.rss" target="_blank" class="nav-icon-menu-item inspire-icon-rss" title="RSS"></a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/adobecreate" class="inspire-icon-twitter" title="Twitter" target="_blank"></a>
+                </li>             
+            </ul>
+        </div>
+    </section> 
+</div>
+
+
+   
+		
+
+<div class="content-area-main">
+    <div class="articles-flow-area">
+        
+        <div class="page-marquee-group group">
+            
+<section class="page-marquee">
+        <div class="page-marquee-image">
+            <a href="http://create.adobe.com/2017/2/21/ice_queen_julieanne_kost_s_adventures_in_antarctica.html">
+        	   <div id="cq-image-jsp-/content/microsites/inspire/index/jcr:content/marquee/image"><img title="" alt="file" class="cq-dd-image" src="/content/microsites/inspire/index/_jcr_content/marquee/image.img.jpg/1488777394186.jpg"/></div>
+    
+    
+<script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq-image-jsp-/content/microsites/inspire/index/jcr:content/marquee/image");
+        var imageEvars = '{ imageLink: "/", imageAsset: "", imageTitle: "" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect:  false, options: { obj: this }, componentPath: "foundation/components/image"})');
+        }
+        
+    })();
+</script>
+
+            </a>
+        </div>
+        <header class="font-small article-descriptor">
+        	<div class="page-marquee-attribution">
+                
+        	</div>
+            <h1><a href="http://create.adobe.com/2017/2/21/ice_queen_julieanne_kost_s_adventures_in_antarctica.html">Ice Queen: Julieanne Kost’s Adventures in Antarctica</a></h1>
+            <p><a href="http://create.adobe.com/2017/2/21/ice_queen_julieanne_kost_s_adventures_in_antarctica.html">Kost recounts her epic photo excursion, including how she prepared, what gear she took, and what she did with her images.</a></p>
+        </header>
+</section>
+        </div>
+        
+        <div class="secondary-marquee-group group">
+            <div class="secondary-marquee">
+                
+<article>
+    <a href="http://create.adobe.com/2017/2/24/art_as_activism_kate_deciccio_community_artist.html">
+        	<div class="hover-overlay"></div>
+        <div id="cq-image-jsp-/content/microsites/inspire/index/jcr:content/secondary-marquee-1/image"><img title="" alt="file" class="cq-dd-image" src="/content/microsites/inspire/index/_jcr_content/secondary-marquee-1/image.img.jpg/1488777518005.jpg"/></div>
+    
+    
+<script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq-image-jsp-/content/microsites/inspire/index/jcr:content/secondary-marquee-1/image");
+        var imageEvars = '{ imageLink: "/", imageAsset: "", imageTitle: "" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect:  false, options: { obj: this }, componentPath: "foundation/components/image"})');
+        }
+        
+    })();
+</script>
+
+        <header class="font-small secondary-article-descriptor">
+            <h2>Art as Activism: Kate DeCiccio, Community Artist</h2>
+            <p>Her art made a powerful and far-reaching visual statement at the Women’s March on Washington.</p>
+        </header>
+    </a>
+</article>
+            </div>
+            <div class="secondary-marquee right">
+                
+<article>
+    <a href="http://create.adobe.com/2017/2/23/fly_like_an_eagle_tobias_h_gg_s_drone_photography.html">
+        	<div class="hover-overlay"></div>
+        <div id="cq-image-jsp-/content/microsites/inspire/index/jcr:content/secondary-marquee-2/image"><img title="" alt="file" class="cq-dd-image" src="/content/microsites/inspire/index/_jcr_content/secondary-marquee-2/image.img.jpg/1488777607395.jpg"/></div>
+    
+    
+<script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq-image-jsp-/content/microsites/inspire/index/jcr:content/secondary-marquee-2/image");
+        var imageEvars = '{ imageLink: "/", imageAsset: "", imageTitle: "" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect:  false, options: { obj: this }, componentPath: "foundation/components/image"})');
+        }
+        
+    })();
+</script>
+
+        <header class="font-small secondary-article-descriptor">
+            <h2>Fly Like an Eagle: Tobias Hägg’s Drone Photography</h2>
+            <p>Let the unique viewpoint of these aerial photos transport you.</p>
+        </header>
+    </a>
+</article>
+            </div>
+        </div>
+        
+        <div articles-done ng-controller="articleController" id="article-lazyload-area" class="page-articles-group group page-content-4 page-articles">
+            <article ng-repeat="article in firstArticles | orderBy:['-date', 'ordernumber']" class="content-item">
+                <a href="{{article.path}}">
+                    <div class="hover-overlay" ng-if="article.isAd=='false'"></div>
+                    <img data-height="{{article.imageheight}}" data-width="{{article.imagewidth}}" src="{{article.imagepath}}" alt="{{article.altText}}">
+                    <header class="font-small" ng-if="article.isAd=='false'">
+                        <h3 ng-bind-html="article.headline | to_trusted" class="ng-binding">{{article.headline}}</h1>
+                        <p ng-bind-html="article.description | to_trusted" class="article-byline">{{article.description}}</p>
+                    </header>
+                </a>
+            </article>
+        </div>
+        <div class="lazy-load-button">
+            <a class="start-lazy-load"><span>more. More. MORE!</span></a>
+        </div>
+        
+<footer>
+    <div class="footer-nav-group group">
+        <div class="inspire-icon-create"></div>
+        <div class="footer-nav">
+            <ul>
+                
+                <li><a href="/lets_be_friends.html">Let's Be Friends</a></li>
+                <li><a href="/lets_talk.html">Let's Talk</a></li>
+                <li><a href="http://www.adobe.com/legal/general-terms.html" target="_blank">Terms of Use</a></li>
+                <li><a href="/help.html">Help</a></li>
+                <li><a href="http://www.adobe.com/privacy.html" target="_blank">Privacy</a></li>
+            </ul>
+        </div> 
+        <div class="footer-adobe-logo nodesktop">
+            <a href="http://www.adobe.com" target="_blank">
+                <i class="inspire-icon-adobe"></i>
+            </a>
+        </div>
+    </div>
+</footer>
+    </div>
+</div>
+	</div>
+
+	<article class="content-item lazyload-article-template">
+		<a class="isNotAd" href="">
+			<div class="hover-overlay"></div>
+			<img data-height="" src="">
+			<header>
+				<h3></h3>
+				<p class="article-byline ng-binding"></p>
+			</header>
+		</a>
+		<a class="isAd" href="">
+			<!--<div class="hover-overlay"></div>-->
+			<img data-height="" src="">
+		</a>
+	</article>
+</div>
+
+<!-- Tracking -->
+<script type="text/javascript">_satellite.pageBottom();</script>
+</body>
+</html>

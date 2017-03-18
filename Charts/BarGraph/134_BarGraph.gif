@@ -1,0 +1,271 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Page Not Found</title>
+<script language="JavaScript" type="text/javascript" src="../scripts/init.js"></script>
+<!--TypeKit-->
+<!--<script type="text/javascript" src="//use.typekit.com/gax8myw.js"></script>-->
+<!--<script type="text/javascript">    try { Typekit.load(); } catch (e) { }</script>-->
+<!--End TypeKit-->
+<link href='//fonts.googleapis.com/css?family=PT+Sans:400italic,400,700,700italic' rel='stylesheet' type='text/css'>
+ <link href="/Style%20Library/nidcr.nih.gov/CSS/common-1024-4.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body id="">
+	<div id="container">
+		<!-- BEGIN BANNER -->
+		<a name="top"></a><a href="#main_content" id="skipnav">Skip to Main Content</a>
+		<div id="bannerlogo">
+			<h2 id="bannernidcr"><a href="/"><span></span>National Institute of Dental and Craniofacial Research (NIDCR)</a></h2>
+			<p id="bannertagline"><span></span>Improving the Nation's Oral Health</p>
+			<p id="bannernih"><a href="//www.nih.gov/"><span></span>National Institutes of Health</a></p>
+		</div>
+		<div id="bannerutilities1">
+			<ul>
+				<li><a href="/Espanol/">Espa&ntilde;ol</a></li>
+				<li><a href="/AboutUs/StaffDirectoryandOrganization/">Staff Directory</a></li>
+				<li class="last"><a href="/AtoZ/">A&ndash;Z Index</a></li>
+			</ul>
+		</div>
+		<div id="bannerutilities2">
+			<div id="searchform">
+				<label for="ctl00_TopUtilities_search" style="display:none">Search</label> 
+				<input name="ctl00$TopUtilities$search" type="text" id="ctl00_TopUtilities_search" maxlength="255" size="20" onkeypress="doClick('ctl00_TopUtilities_ButtonG',event)" />
+				<input type="image" name="ctl00$TopUtilities$ButtonG" id="ctl00_TopUtilities_ButtonG" class="btnG" src="/Style%20Library/nidcr.nih.gov/Images/button_search2.gif" alt="search" style="border-width:0px;" />
+				 <script type="text/jscript" language="JavaScript">
+					<!--
+				     // Set the focus of the form to the first element.
+				     function doClick(buttonName, e) {
+				         var key;
+				         if (window.event) {
+				             key = window.event.keyCode; //IE
+				         }
+				         else {
+				             key = e.which; //firefox
+				         }
+
+				         if (key == 13) {
+				             //Get the button the user wants to have clicked
+				             var btn = document.getElementById(buttonName);
+
+				             //If we find the button click it 
+				             if (btn != null) {
+				                 window.event.keyCode = 0;
+				                 e.which = 0;
+				                 btn.click();
+				             }
+				         }
+				     }
+					//-->
+				  </script>
+			</div>
+			 <a href="#" onclick="setActiveStyleSheet('Small Text'); return false;"><img src="/Style%20Library/nidcr.nih.gov/Images/resize2_s.gif" alt="Small" width="17" height="17" style="border: 0px;" /></a><a href="#" onclick="setActiveStyleSheet('Default Text'); return false;"><img src="/Style%20Library/nidcr.nih.gov/Images/resize2_m.gif" alt="Medium" width="17" height="17" style="border: 0px;" /></a><a href="#" onclick="setActiveStyleSheet('Large Text'); return false;"><img src="/Style%20Library/nidcr.nih.gov/Images/resize2_l.gif" alt="Large" width="17" height="17" style="border: 0px;" /></a><a href="#" onclick="setActiveStyleSheet('XLarge Text'); return false;"><img src="/Style%20Library/nidcr.nih.gov/Images/resize2_xl.gif" alt="Extra-Large" width="17" height="17" style="border: 0px;" /></a></span>
+		</div>
+		<!-- END BANNER -->
+			<!-- Begin global navigation -->
+			<div id="globalnav">
+			<h2>Website Contents</h2>
+			<ul>
+				<li class="hometab"><a href="\"><span>NIDCR Home</span></a></li>
+				<li class="oralhealthtab"><a href="../oralhealth/"><span>Oral Health</span></a>
+					<div class="megamenu">
+						<div class="leftcol">
+							<h4>Diseases and Conditions</h4>
+							<ul>
+								<li><a href="/OralHealth/Topics/GumDiseases/">Gum Disease</a></li>
+								<li><a href="/OralHealth/Topics/TMJ/">TMJ Disorders</a></li>
+								<li><a href="/OralHealth/Topics/OralCancer/">Oral Cancer</a></li>
+								<li><a href="/OralHealth/Topics/DryMouth/">Dry Mouth</a></li>
+								<li><a href="/OralHealth/Topics/Burning/">Burning Mouth</a></li>
+								<li><a href="/OralHealth/Topics/ToothDecay/">Tooth Decay </a></li>
+								<li><a href="/OralHealth/" class="more">See All</a></li>
+							</ul>
+						</div>
+						<div class="centercol">
+							<h4>Oral Complications of Systemic Diseases</h4>
+							<ul>
+								<li><a href="/OralHealth/OralHealthInformation/SystemicDiseases/pages/CancerTreatmentOralHealth.aspx">Cancer Treatment</a></li>
+								<li><a href="/OralHealth/OralHealthInformation/SystemicDiseases/pages/DevelopmentalDisabilities.aspx">Developmental Disabilities</a></li>
+								<li><a href="/OralHealth/OralHealthInformation/SystemicDiseases/pages/DiabetesOralHealth.aspx">Diabetes</a></li>
+								<li><a href="/OralHealth/OralHealthInformation/SystemicDiseases/pages/HeartDiseaseOralHealth.aspx">Heart Disease</a></li>
+								<li><a href="/OralHealth/OralHealthInformation/SystemicDiseases/pages/HIVAIDS.aspx">HIV/AIDS</a></li>
+								<li><a href="/OralHealth/OralHealthInformation/SystemicDiseases/" class="more">See All</a></li>
+							</ul>
+						</div>
+						<div class="rightcol">
+							<h4>Order Publications</h4>
+							<p>English and Spanish brochures available free of charge. Limit of 50 copies online.</p>
+							<p>Need more than 50 copies? Call 1-866-232-4528 or e-mail <a href="mailto:nidcrinfo@mail.nih.gov">nidcrinfo@mail.nih.gov</a>.</p>
+							<div class="orderbutton"><a href="https://www.nidcr.nih.gov/OrderPublications/default.aspx"><span>Order Now</span></a></div>
+						</div>
+					</div>
+				</li>
+				<li class="clinicaltrialstab"><a href="../clinicaltrials/"><span>Clinical Trials</span></a>
+					<div class="megamenu">
+						<div class="leftcol">
+							<h4>What Are Clinical Trials?</h4>
+							<ul>
+								<li><a href="/ClinicalTrials/WhatareClinicalTrials/AboutClinicalTrials/">About Clinical Trials</a></li>
+								<li><a href="/Research/toolkit/">Information for Clinical Researchers</a></li>
+								<li><a href="#" class="more">See All</a></li>
+							</ul>
+						</div>
+						<div class="centercol">
+							<form name="search" method="get" action="//www.clinicaltrials.gov/ct2/results" style="margin-bottom:0.5em;">
+							<h4><label for="clinicaltrialsterm">Search Clinical Trials by Topic</label></h4>
+								<p><input type="text" name="term" id="clinicaltrialsterm" value="" size="20" maxlength="250"/> 
+								<input type="image" src="/Style%20Library/nidcr.nih.gov/images/button_search2.gif" id="clinicaltrialsbutton" alt="search" style="border-width:0px;" /></p>
+							</form>
+							<ul>
+								<li><a href="//www.clinicaltrials.gov/ct2/search/browse">Browse Studies by Topic</a></li>
+								<li><a href="/ClinicalTrials/StudiesSeekingPatients/pages/SponsoredClinicalTrials.aspx">NIDCR-Sponsored Clinical Trials</a></li>
+							</ul>
+						</div>
+						<div class="rightcol">
+							<div class="clinicaltrialsslideshow"><img src="" width="148" height="99" alt="" /></div>
+							<h4>Why are clinical trials important?</h4>
+							<p>See the slide show: <a href="/ClinicalTrials/WhatareClinicalTrials/SlideShowBasic/">The Way We Make Progress Against Disease</a></p>
+						</div>
+					</div>
+				</li>
+				<li class="researchtab"><a href="/research/"><span>Research</span></a>
+					<div class="megamenu">
+						<div class="leftcol">
+							<ul>
+								<li><a href="/Research/ResearchPriorities/StrategicPlan/">NIDCR Strategic Plan</a></li>
+								<li><a href="/Research/ResearchResults/">Research Results</a></li>
+								<li><a href="/research/ToolsforResearchers/Pages/Tools-For-Researchers.aspx">Tools for Researchers</a></li>
+							</ul>
+						</div>
+						<div class="centercol">
+							<ul>
+								<li><a href="/Research/DER/">Grant Research Programs (Extramural Research)</a></li>
+								<li><a href="/Research/NIDCRLaboratories/OverviewDIR/">NIDCR Laboratories (Intramural Research)</a></li>
+							</ul>
+						</div>
+						<div class="rightcol">
+							<div class="newsinbrief"><img src="" width="100" height="81" alt="" /></div>
+							<h4>Science News in Brief</h4>
+							<p><a href="/Research/ResearchResults/ScienceBriefs/CurrentSNIB/July/pages/SalivaryGlandTumors.aspx">Study Takes First Comprehensive Look at Methylation Patterns in Salivary Gland Tumors</a></p>
+							<p><a href="Science News In Brief" class="more">More Science News</a></p>
+						</div>
+					</div>
+				</li>
+				<li class="grantsandfundingtab"><a href="/grantsandfunding/"><span>Grants &amp; Funding</span></a>
+					<div class="megamenu">
+						<div class="leftcol">
+							<h4>Funding Opportunity Announcements</h4>
+							<ul>
+								<li><a href="/GrantsAndFunding/FundingOpportunityAnnouncements/pages/ByTopic.aspx">By Topic</a></li>
+								<li><a href="/GrantsAndFunding/See_Funding_Opportunities_Sorted_By/RFA/">RFAs</a></li>
+								<li><a href="/GrantsAndFunding/See_Funding_Opportunities_Sorted_By/PA/">PAs</a></li>
+							</ul>
+						</div>
+						<div class="centercol">
+							<h4>Application Forms and Deadlines</h4>
+							<ul>
+								<li><a href="/GrantsAndFunding/FundingOpportunityAnnouncements/pages/GrantApplicationForms.aspx">Grant Application Forms</a></li>
+								<li><a href="/GrantsAndFunding/FundingOpportunityAnnouncements/pages/Application_Receipt_Dates.aspx">Application Receipt Dates</a></li>
+								<li><a href="/GrantsAndFunding/FundingOpportunityAnnouncements/pages/EletronicSubmissionof+Applications.aspx">Electronic Submission of Applications</a></li>
+							</ul>
+						</div>
+						<div class="rightcol">
+							<h4>Grants 101 (How to Write a Grant)</h4>
+							<ul>
+								<li><a href="/GrantsAndFunding/GrantProcess/pages/Grants_Q_and_A.aspx">Questions and Answers</a></li>
+								<li><a href="/GrantsAndFunding/GrantProcess/pages/Grant_Writing_Tips.aspx">Grant Writing Tips</a></li>
+							</ul>
+							<!--<div class="grants101"><img src="../images/megamenu-grantsandfunding-grants101.jpg" width="337" height="79" alt="" /></div>-->
+						</div>
+					</div>
+				</li>
+				<li class="careersandtrainingtab"><a href="/careersandtraining/"><span>Careers &amp; Training</span></a>
+					<div class="megamenu">
+						<div class="leftcol">
+							<h4>Fellowships and Internships for...</h4>
+							<ul>
+								<li><a href="/CareersAndTraining/Fellowships/HighSchoolCollegeStudents/">High School and College Students</a></li>
+								<li><a href="/CareersAndTraining/Fellowships/RecentCollegeGraduates/">Recent College Graduates</a></li>
+								<li><a href="/CareersAndTraining/Fellowships/DentalMedicalStudents/">Dental and Medical Students</a></li>
+								<li><a href="/CareersAndTraining/Fellowships/" class="more">See All</a></li>
+							</ul>
+						</div>
+						<div class="centercol">
+							<h4>Careers &amp; Training Opportunities</h4>
+							<ul>
+								<li><a href="/CareersAndTraining/JobOpenings/PermanentPositions/">Job Openings</a></li>
+								<li><a href="/CareersAndTraining/LoanRepayment/NIHLoanRepaymentPrograms/">Loan Repayment Programs</a></li>
+								<li><a href="/CareersAndTraining/CareersinDentalResearch/">Careers in Dental Research</a></li>
+								<li><a href="/CareersAndTraining/" class="more">See All</a></li>
+							</ul>
+						</div>
+						<div class="rightcol">
+							<div class="developmental"><img src="" width="99" height="120" alt="" /></div>
+							<h4>Continuing Education</h4>
+							<p><a href="/OralHealth/Topics/DevelopmentalDisabilities/pages/ContinuingEducation.aspx">Practical Oral Care for People With Developmental Disabilities</a> &ndash; This booklet presents an overview of physical, mental, and behavioral challenges common in patients with developmental disabilities and offers strategies for providing oral care.</p>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+			<!-- End global navigation -->
+			<!-- BEGIN MAIN CONTENT -->
+			<a id="main_content"></a>
+			<div id="content">
+				<!--<div id="breadcrumbs" style="height:26px;"> <a href="../index.html">NIDCR Home</a> &nbsp;&gt;&nbsp; <a href="index.html">Oral Health</a> </div>-->
+				<h1 class="landinghead-thin generic">Page Not Found</h1>
+				<div id="leftcol" class="tight">
+                The page you are looking for has been removed or is currently unavailable. Please click the link below to return to the home page.
+                <a href="/" >NIDCR Home</a>
+					</div>
+					
+				<div id="rightcol" class="tight">
+					<div class="narrowbox">
+						<h2>Options</h2>
+						<p class="print"><a href="javascript:printCurrentPage();" >Print this page</a></p>
+						<p class="email"><a href="javascript:emailpage('Custom 404 page')">E-mail this page</a></p>
+					</div>
+				</div>
+			<!-- Begin social media bar -->
+			<div id="socialmedia">
+				<ul>
+					<li><a href="/NewsAndFeatures/ENewsletters/pages/SignUp.aspx"  class="enewsletter">Sign up for e-newsletter</a></li>
+					<li><a href="/Rss/" class="rss">Subscribe to RSS</a></li>
+					<li><a href="#" class="widgets">Get widgets</a></li>
+					<li><a href="#" class="twitter">Follow us on Twitter</a></li>
+					<li><a href="#" class="youtube">See us on YouTube</a></li>
+					<li><a href="#" class="bookmark">Bookmark &amp; share</a></li>
+				</ul>
+			</div>
+			<!-- End social media bar -->
+		</div>
+		<!-- END MAIN CONTENT -->
+		<div class="uptotop"><a href="#top">Up to top</a></div>
+		<div id="lastupdated">This page last updated: March 21, 2012</div>
+	</div>
+	<!-- BEGIN FOOTER -->
+	<div id="footer">
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/footer/pages/SiteMap.aspx">Site Map</a></li>
+			<li><a href="/footer/pages/Policies.aspx">Web Policies</a></li>
+			<li><a href="/footer/pages/PrivacyPolicy.aspx">Privacy Policy</a></li>
+			<li><a href="/footer/pages/foia.aspx">FOIA</a></li>
+			<li><a href="/footer/pages/ContactUs.aspx">Contact Us</a></li>
+			<li class="last"><a href="#">Viewers &amp; Players</a></li>
+		</ul>
+		<ul>
+		<li>National Institute of Dental and Craniofacial Research</li>
+		<li>National Institutes of Health</li>
+		<li>Bethesda, MD 20892-2190</li>
+		<li class="last">301-496-4261</li>
+	</ul>
+    <div runat="server" id="divcommon">
+        <p><em>NIH&hellip;Turning Discovery Into Health</em></p>
+        <p><a href="//www.hhs.gov"><img src="/Style%20Library/nidcr.nih.gov/images/logo_hhs.gif" alt="Department of Health and Human Services (HHS)" width="30" height="30" border="0" /></a>&nbsp;&nbsp;<a href="//www.nih.gov/"><img src="/Style%20Library/nidcr.nih.gov/images/logo_nih.png" alt="National Institutes of Health (NIH)" width="39" height="30" border="0" /></a><a href="//usa.gov/"><img src="/Style%20Library/nidcr.nih.gov/images/logo_usagov.gif" alt="USA.gov" width="89" height="30" border="0" /></a></p>
+    </div>
+	</div>
+	<!-- END FOOTER -->
+</body>
+</html>

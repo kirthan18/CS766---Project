@@ -1,0 +1,17 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="//homepage.nifty.com/move/main.css" type="text/css">
+<meta http-equiv="refresh" content="10;URL=http://godfoot.world.coocan.jp">
+<title>ページ移転のお知らせ</title>
+</head>
+<body>
+<div>
+<h1>ページ移転のお知らせ</h1>
+<span id="msg">ご指定のホームページは下記のアドレスに移動しました。<br />ブックマークなどの登録変更をお願いします。<br /><br />
+<span id="url"><a href="http://godfoot.world.coocan.jp/">http://godfoot.world.coocan.jp/</a></span>
+<br /><br />
+※10秒後に自動的に移転先のページにジャンプします。</span>
+</body>
+</html>

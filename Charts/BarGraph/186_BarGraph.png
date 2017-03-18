@@ -1,0 +1,947 @@
+<!DOCTYPE HTML>
+
+
+
+
+	
+
+<html class="no-js" lang="en" dir="ltr">
+    
+<head>
+
+    
+    
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <!-- /* Initialize custom Beans for Learn-support model */ -->
+
+
+
+<title>Learn Illustrator, get help and support | Adobe Illustrator CC</title>
+
+
+
+
+
+
+    
+    <script>
+    if (typeof (AdobeLearn) === "undefined") AdobeLearn = {};
+    if (typeof (AdobeLearn.Locale) === "undefined") AdobeLearn.Locale = {};
+    if (typeof (AdobeLearn.Config) === "undefined") AdobeLearn.Config = {};
+    AdobeLearn.Locale["pageLocale"] = 'en_US';
+    AdobeLearn.Locale["pageLanguage"] = 'en';
+    AdobeLearn.Locale["pageCountry"] = 'US';
+    AdobeLearn.Locale["nonEmptyUrlLocale"] = 'en';
+    AdobeLearn.Locale["urlLocale"] = '';
+    AdobeLearn.Locale["folderLocale"] = 'en';
+    AdobeLearn.Locale["contentUrl"] = '\/';
+    AdobeLearn.Locale["contentFolder"] = '\/content\/help\/en\/';
+    AdobeLearn.Locale["datetimeLocale"] = 'en';
+    AdobeLearn.Locale["datetimeFormat"] = 'MMM. dd, yyyy';
+    AdobeLearn.Locale["parentLocale"] = '';
+    AdobeLearn.Locale["fiveLetterLocale"] = 'en_US';
+    AdobeLearn.Locale["globalNavLocale"] = 'en_us';
+    AdobeLearn.Locale["customPageLocale"] = 'en_US';
+    AdobeLearn.Locale["customPageLanguage"] = 'en';
+    AdobeLearn.Config["tier"] = 'PROD';
+    AdobeLearn.Config["serverType"] = 'external';
+    AdobeLearn.Config["externalLoadBalancer"] = 'https:\/\/helpx.adobe.com';
+    AdobeLearn.Config["author"] = 'false';
+    AdobeLearn.Config["author-preview"] = 'false';
+    AdobeLearn.Config["authorPrefix"] = '/content/help/en';
+    AdobeLearn.Locale["relativePath"] = '/';
+    AdobeLearn.Config["isHelpx"] = 'true';
+    AdobeLearn.Config["authorLoc"] = 'false';
+</script>
+
+    
+    
+
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9,10">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="Content-Locale" content="en_US"/>
+<meta http-equiv="Content-Language" content="en"/>
+<meta http-equiv="Cache-Control" content="public"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="robots" content="noodp"/>
+
+
+<!-- SEO title / Title -->
+<meta name="title" content="Learn Illustrator, get help and support | Adobe Illustrator CC"/>
+<!-- SEO description / Description -->
+<meta name="description" content="Learn Adobe Illustrator, read answers to common questions, join our online community, or get instant help from Adobe support."/>
+<!-- Experience Level % -->
+<meta name="targetAudience"/>
+<!-- Learning Approach (content-type)  -->
+<meta name="learningApproach"/>
+<!-- Search phrases / keywords  -->
+<meta name="keywords" content="Priority"/>
+<!-- Geo  -->
+<meta name="Content-Locale" content="en_US"/>
+<!-- Language  -->
+<meta name="Content-Language" content="en"/>
+<!-- Last published date  -->
+<meta name="publishDate" content="2016-11-18T21:36:06.303Z"/>
+<!-- Published URL  -->
+<meta name="publishExternalUrl" content="https://helpx.adobe.com/illustrator.html"/>
+<!-- Landing Page -->
+<meta name="sling:resourceType" content="help/components/pages/learn-support"/>
+<!-- Salesforce Id  -->
+<meta name="sfdcId" content="helpx.adobe.com/illustrator.html"/>
+<!-- Salesforce Article Group -->
+<meta name="articleGroup" content="illustrator.html"/>
+<!-- Creative field -->
+<meta name="creativeField"/>
+<!-- Topic -->
+<meta name="topicTags"/>
+<!-- Priority  (content-strategy) -->
+<meta name="contentStrategy" content="Priority"/>
+<!-- Brand / Primary product  -->
+<meta name="primaryProduct" content="illustrator"/>
+<!-- Brand / Primary product name -->
+<meta name="primaryProductName" content="Illustrator"/>
+<!-- Product id list -->
+<meta name="product"/>
+<!-- Product names list -->
+<meta name="productNames"/>
+<!-- list of content-type tags from cq:tags -->
+<meta name="content-type"/>
+<!-- Other misc dates -->
+<meta name="creationDate" content="2014-05-13T09:52:29.675-07:00"/>
+<meta name="lastModifiedDate" content="2016-11-18T21:36:06.509Z"/>
+
+<!-- pageCreatedAt -->
+<meta name="pageCreatedAt" content="/content/help/en"/>
+<!-- translated -->
+<meta name="translated" content="false"/>
+
+    
+    
+
+<!--/* Tutorial specific * /-->
+<meta name="sp_title" content="Illustrator Learn &amp; Support"/>
+<meta name="sp_description" content="Learn Adobe Illustrator, read answers to common questions, join our online community, or get instant help from Adobe support."/>
+<meta name="duration"/>
+<meta name="featureReleaseDate" content="2016-11-18T21:36:06.303Z"/>
+<meta name="mediaType"/>
+<meta name="mediaTypeIcon"/>
+<meta name="thumbnailUrl"/>
+<meta name="learnSet"/>
+
+
+
+
+    
+    
+<link rel="canonical" href="https://helpx.adobe.com/illustrator.html"/>
+
+<link rel="icon" href="/include/img/favicon.ico" type="image/x-icon"/>
+
+
+
+	
+	
+	
+	
+	
+		
+		  <script src="//fonts.adobe.com/yoe7ink.js"></script>
+		
+		
+	
+
+	<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+
+
+
+
+
+	
+		
+			
+			
+			
+				<script src="//assets.adobedtm.com/659ec8ada5450db95675e43beaaae92399591a11/satelliteLib-46e65db5bb0c375f8f64619be31cc9b29acf4867.js">
+				</script>
+			
+		
+		
+	
+
+
+
+  
+	<!-- /shared/clickjacking.ssi -->
+
+<style id="antiClickjack">body{display:none !important;}</style>
+
+<script type="text/javascript">
+
+var domain = 'https://adobe--c.na20.visual.force.com';         // prod
+
+var inSfdc = false;
+var message = 'test-message';
+ 
+window.addEventListener('message',function(event) {
+    if(event.origin !== domain) {
+        return;
+    }
+    inSfdc = true;
+},false);
+ 
+function clickJackWrapUp() {
+  if (inSfdc == false) {
+      top.location = self.location;
+  }
+  else {
+    var d = document.getElementById('antiClickjack'); 
+    d.parentNode.removeChild(d);
+    document.body.className+=' hide-feedback';
+  }
+}
+ 
+if (self === top) {
+  var d = document.getElementById('antiClickjack'); 
+  d.parentNode.removeChild(d);
+    
+} else {
+  parent.postMessage(message,domain); //send the message and target URI
+  setTimeout(clickJackWrapUp,100);
+}
+</script>
+
+
+<style>
+body.hide-feedback .global-nav-placeholder .site-header-global-menu,
+body.hide-feedback #feedbackPod {
+	display:none !important;
+}
+</style>
+
+<style>
+.to300, .to300>img,
+.to400, .to400>img,
+.to800, .to800>img {
+    max-width: 100%;
+}
+</style>
+
+    
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://wwwimages2.adobe.com/assets/globalnav/v1.1.4/css/globalnav.css"/>
+
+
+<!-- <link data-sly-test="true" rel="stylesheet" href="/shared/reimagine/assets/base/css/products/main.css" /> -->
+<!-- link data-sly-test="true" rel="stylesheet" href="/etc/designs/help/reimagine/main.css" / -->
+
+
+
+<!-- ********* [aem61-upgrade] ********* -->
+
+    
+<link rel="stylesheet" href="/etc/designs/help/clientlibs/ccl/learn-page.min.css" type="text/css">
+
+
+
+
+<!-- Override mnemonics hardcoded in learn-page.css with values from tags -->
+<link rel="stylesheet" type="text/css" href="/services/learn-page-all-overrides.css">
+
+
+
+
+
+<!-- ********* [aem61-upgrade] ********* -->
+<!-- no longer needed because no CSS is coming from SSI's anymore -->
+<!-- <link data-sly-test="false" data-sly-call="" data-sly-unwrap /> -->
+
+
+<!--  Override for any specific Clientlibs -->
+
+
+<!-- /* Initialize custom Beans for Learn-support model */ -->
+
+
+
+
+    
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/almond.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/jquery.min.js"></script>
+
+
+
+
+<!-- /*L&S css */ -->
+
+    
+<link rel="stylesheet" href="/etc/designs/help/clientlibs/sharedclientlibs/adchoices.min.css" type="text/css">
+
+
+
+
+    
+<link rel="stylesheet" href="/etc/designs/help/learn/clientlibs/learn-support.min.css" type="text/css">
+
+
+
+
+
+<!-- product specific css */-->
+
+  <!-- ******* NOT USED ANYMORE ******* -->
+  
+
+
+<!-- product specific css, removing dependency on reimagine ssi include */-->
+
+	
+<style>
+    body {
+        background-color: black;
+        background-color: #1B0C00;
+    }
+
+    main {
+        background-color: white;
+    }
+
+    .dom-content {
+        background-color: inherit;
+    }
+
+    .dom-footer-container, footer {
+        background-color: inherit;
+    }
+
+    .dom-footer-container {
+        border-color: #333333;
+        border-color: #483c33;
+    }
+
+    .header-container--fixed {
+        background: black;
+        background: #1B0C00;
+    }
+</style>
+
+
+<link rel="icon" href="//helpx.adobe.com/include/img/favicon.ico" type="image/x-icon"/>
+
+
+	<style type="text/css">
+html.js {
+	overflow: visible !important;
+}
+</style>
+
+
+
+<script>
+var globalNavLocale = "en_US";
+</script>
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+
+
+
+
+<script src="/etc/designs/help/learn/v2/js/vendor/modernizr.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/etc/designs/help/learn/v2/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+
+
+
+<script>
+    var _appsListFromTags = {"fog":{"longName":"Adobe Fog for Creative Cloud"},"acrobatic":{"shortName":"Acrobat DC","shortNameCC":"Acrobat DC","longName":"Adobe Acrobat DC","reimagineAppId":"acrobatdc"},"after-effects":{"shortName":"After Effects","shortNameCC":"After Effects CC","longName":"Adobe After Effects CC","reimagineAppId":"aftereffects"},"creative-cloud":{"shortName":"Creative Cloud","shortNameCC":"Creative Cloud","longName":"Creative Cloud","reimagineAppId":"creativecloud"},"ccbusiness":{},"digital-publishing-solution":{"shortName":"Digital Publishing Solution","shortNameCC":"Digital Publishing Solution","longName":"Adobe Digital Publishing Solution","reimagineAppId":"digital-publishing-solution"},"dreamweaver":{"shortName":"Dreamweaver","shortNameCC":"Dreamweaver CC","longName":"Adobe Dreamweaver CC","reimagineAppId":"dreamweaver"},"flash":{"shortName":"Flash Professional","shortNameCC":"Flash Professional CC","longName":"Adobe Flash Professional CC","reimagineAppId":"flash"},"illustrator":{"shortName":"Illustrator","shortNameCC":"Illustrator CC","longName":"Adobe Illustrator CC","reimagineAppId":"illustrator"},"indesign":{"shortName":"InDesign","shortNameCC":"InDesign CC","longName":"Adobe InDesign CC","reimagineAppId":"indesign"},"ink-and-slide":{"shortName":"Ink &amp; Slide","shortNameCC":"Ink &amp; Slide","longName":"Adobe <strong>Ink<\/strong> &amp; <strong>Slide<\/strong>","reimagineAppId":"ink-and-slide"},"lightroom":{"shortName":"Adobe Photoshop Lightroom CC","shortNameCC":"Adobe Photoshop Lightroom CC","longName":"Adobe Photoshop Lightroom CC","reimagineAppId":"photoshop-lightroom"},"muse":{"shortName":"Adobe Muse","shortNameCC":"Adobe Muse CC","longName":"Adobe Muse CC","reimagineAppId":"muse"},"photoshop":{"shortName":"Photoshop","shortNameCC":"Photoshop CC","longName":"Adobe Photoshop CC","reimagineAppId":"photoshop"},"photoshop-elements":{"shortName":"Photoshop Elements","shortNameCC":"Photoshop Elements","longName":"Adobe Photoshop Elements","reimagineAppId":"photoshop-elements"},"premiere-elements":{"shortName":"Premiere Elements","shortNameCC":"Premiere Elements","longName":"Adobe Premiere Elements","reimagineAppId":"premiere-elements"},"premiere-pro":{"shortName":"Premiere Pro","shortNameCC":"Premiere Pro CC","longName":"Adobe Premiere Pro CC","reimagineAppId":"premiere"},"all":{},"character-animator":{"longName":"Adobe Character Animator CC (Beta)","reimagineAppId":"character-animator"},"animate":{"shortName":"Animate","shortNameCC":"Animate CC","longName":"Adobe Animate CC","reimagineAppId":"flash"},"experience-design":{},"project-felix":{}};
+</script>
+   
+
+</head>
+
+
+    <body>
+
+    
+    
+        <div class="mboxDefault"></div>
+        <script>
+            try{
+                var content_locale = 'en_US';
+                var sling_resourceType = 'help/components/pages/learn-support';
+                mboxCreate('adbe_helpx_TopOfBody', 'locale='+ content_locale, 'template='+ sling_resourceType);
+            }catch(e){}
+        </script>
+    
+
+	<!-- /* Global Navigation Includes*/ -->
+	
+
+
+
+
+
+
+
+
+
+
+
+    <div class="header-container illustrator">
+
+        <header class="app-header hide-on-load">
+            <div class="global-nav-placeholder"></div>
+            <br clear="both"/>
+            
+            
+            <h1 class="breadcrumb mnemonic illustrator">Adobe Illustrator CC</h1>
+
+            
+                <div class="headlinks">
+                    <a style="display:none" class="headlink" id="headlink_overview" href="//www.adobe.com/go/learn_illustrator_overview_en">Overview</a>
+                    <a style="display:none" class="headlink" id="headlink_whats-new" href="//www.adobe.com/go/learn_illustrator_whatsnew_en">What&rsquo;s New</a>
+                    <a style="display:none" class="headlink selected" id="headlink_learn-support" href="//www.adobe.com/go/learn_illustrator_support_en">Learn &amp; Support</a>
+                    <a style="display:none" class="headlink gravity-download" id="headlink_freetrial" href="//www.adobe.com/go/learn_illustrator_download_en">Free Trial</a>
+                    <a style="display:none" class="buy-button" id="headlink_how-to-buy" href="//www.adobe.com/go/learn_illustrator_howtobuy_en">Buy Now</a>
+                    
+                    <a style="display:none" class="buy-button gravity-download" id="headlink_download" href="//www.adobe.com/go/learn_illustrator_download_en">Download</a>
+                </div>
+            
+            
+            
+
+            
+
+            
+
+        </header>
+    </div>
+
+
+
+
+    <!-- /* Content Body */ -->
+    
+
+	<!-- /* Content Body */ -->
+	
+
+
+
+<!-- /* Initialize custom Beans for Learn-support model */ -->
+
+
+
+
+
+<article class="learn-support-page illustrator">
+
+    <section class="learn-section">
+        <div class="learn">
+            <img src="/etc/designs/help/learn-support/img/hand-touch.png">
+            <h1 class="features-title">Learn</h1>
+            <div class="text parbase learn-description">
+<p>Get started or go deeper with our library of tutorials, projects and articles.</p>
+
+
+
+</div>
+            <div id="LearnSupportCards">
+
+                
+                <a class="categoryCard last" href="/illustrator/topics.html">
+                    <img class="cardImage" src="/etc/designs/help/learn-support/img/manual-icon.png">
+                    <div class="cardContainer">
+                    <div class="card-title">
+<p>Illustrator Help</p>
+
+
+
+</div>
+                    <div class="card-description">
+<p>Check out the online user manual for your product.</p>
+
+
+
+</div>
+                </div>
+                </a>
+
+                <br clear="both"/>
+            </div>
+        </div>
+        
+            <div class="all-tutorials-nav">
+                <a href="/illustrator/tutorials.html">Show all tutorials</a>
+            </div>
+        
+    </section>
+
+    <!-- Support section-->
+    <section class="support-section">
+        <div class="support">
+            <img src="/etc/designs/help/learn-support/img/support-icon.png">
+            <h1 class="support-title">Support</h1>
+            <div class="text support-description parbase">
+<p>Find quick answers, engage with our vibrant community, and connect with Adobe staff.</p>
+
+
+
+</div>
+
+            <div class="support-options clearfix">
+                <div class="option">
+                    <h2>Common Questions</h2>
+                    <a href="#" id="common-questions-icon"><img src="/etc/designs/help/learn-support/img/common-questions.svg"></a>
+                    <p>Find answers to questions we hear the most</p>
+                    <article class="common-questions-link">
+<p><a href="/illustrator/faq.html" adhocenable="false">See them &gt;</a></p>
+
+
+
+</article>
+                </div>
+
+                <div class="option">
+                    <h2>Top Issues</h2>
+                    <a href="#" id="top-issues-icon"><img src="/etc/designs/help/learn-support/img/top-issues.svg"></a>
+                    <p>Get up-to-date solutions for issues and troubleshooting</p>
+                    <article class="top-issues-link">
+<p><a href="/support/illustrator.html" adhocenable="false">See them &gt;</a></p>
+
+
+
+</article>
+                </div>
+
+                <div class="option">
+                    <h2>Ask the Community</h2>
+                    <a href="#" id="ask-the-community-icon"><img src="/etc/designs/help/learn-support/img/ask-community.svg"></a>
+                    <p>Post, discuss and be part of our knowledgeable community</p>
+                    <article class="ask-the-community-link">
+<p><a href="http://forums.adobe.com/community/illustrator" adhocenable="false">Join now &gt;</a></p>
+
+
+
+</article>
+
+                </div>
+
+                <div class="option">
+                    <h2>Contact Us</h2>
+                    <a href="#" id="contact-us-icon"><img src="/etc/designs/help/learn-support/img/contact-us.svg"></a>
+                    <p>Get help from one of our awesome support people</p>
+                    <article class="contact-us-link">
+<p><a href="/contact.html?step=ILST" adhocenable="false">Start now &gt;</a></p>
+
+
+
+</article>
+
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="docs-and-feedback">
+            <div class="text parbase pdf-manuals">
+<p><a adhocenable="false" href="/illustrator/system-requirements.html">System requirements</a></p>
+
+
+
+</div>
+            <div class="text parbase release-notes">
+<p><a href="/illustrator/illustrator-releasenotes.html" adhocenable="false">Release Notes</a></p>
+
+
+
+</div>
+            <div class="bug-report text parbase">
+<p><a adhocenable="false" href="https://www.adobe.com/cfusion/mmform/index.cfm?name=wishform">Report a bug</a></p>
+
+
+
+</div>
+            <div class="text parbase contact-us">
+<p><a adhocenable="false" href="https://www.adobe.com/cfusion/mmform/index.cfm?name=wishform">Request a feature</a><br />
+</p>
+
+
+
+</div>
+        </div>
+
+
+        <div>
+
+
+
+
+
+
+
+
+
+
+
+	
+</div>
+
+    </section>
+    
+    </article>
+
+
+
+
+
+
+
+
+	<!-- /* Footer Code*/ -->
+	
+
+
+
+ 
+
+<!--googleoff: index-->
+<footer class="dom-footer-container" data-language="en">
+    <div class="row">
+        <div class="small-16 medium-7 columns">
+            <input id="regions-visible" type="checkbox" />
+            <a id="region-selector" class="dom-footer-container--link--bigger dom-footer-container--link--region" title="Change region">
+              <span class="geobats-world"></span><span class="dom-footer--changeregion">Change region</span><span class="dom-footer--region hide"><span class="dom-footer--region-country">United States</span> (<span class="dom-footer--re-changeregion">Change</span>)</span>
+            </a>
+          <div class="dom-footer--region-panel-container" data-reveal>
+
+    <div class="dom-footer--region-panel">
+        <div class="dom-footer--region-panel-header">
+            <span class="dom-footer--region-panel-title">Choose your region</span> <label for="regions-visible" id="sfRegionClose" class="dom-footer--region-panel-close icon-close"></label>
+            <p class="dom-footer--region-panel-content">Selecting a region changes the language and/or content on Adobe.com.</p>
+        </div>
+        <dl>
+          <dt class="dom-footer--region-panel-header">Americas</dt>
+          <dd lang="pt"><a href="/br/">Brasil</a></dd>
+          <dd lang="en"><a href="/ca/">Canada - English</a></dd>
+          <dd lang="fr"><a href="/ca_fr/">Canada - Fran&ccedil;ais</a></dd>
+          <dd lang="es"><a href="/la/">Latinoam&eacute;rica</a></dd>
+          <dd lang="es"><a href="/mx/">M&eacute;xico</a></dd>
+          <dd lang="en"><a href="/us/">United States</a></dd>
+          <dt class="dom-footer--region-panel-header">Europe, Middle East and Africa</dt>
+          <dd lang="en"><a href="/africa/">Africa - English</a></dd>
+          <dd lang="nl"><a href="/be_nl/">Belgi&euml;</a></dd>
+          <dd lang="fr"><a href="/be_fr/">Belgique</a></dd>
+          <dd lang="en"><a href="/be_en/">Belgium - English</a></dd>
+          <dd lang="cs"><a href="/cz/">Česk&aacute; republika</a></dd>
+          <dd lang="en"><a href="/eeurope/">Cyprus - English</a></dd>
+          <dd lang="da"><a href="/dk/">Danmark</a></dd>
+          <dd lang="de"><a href="/de/">Deutschland</a></dd>
+          <dd lang="en"><a href="/eeurope/">Eastern Europe - English</a></dd>
+          <dd lang="et"><a href="/ee/">Eesti</a></dd>
+          <dd lang="es"><a href="/es/">Espa&ntilde;a</a></dd>
+          <dd lang="fr"><a href="/fr/">France</a></dd>
+          <dd lang="en"><a href="/eeurope/">Greece - English</a></dd>
+          <dd lang="hr"><a href="/hr/">Hrvatska</a></dd>
+          <dd lang="en"><a href="/ie/">Ireland</a></dd>
+          <dd lang="en"><a href="/il_en/">Israel - English</a></dd>
+          <dd lang="it"><a href="/it/">Italia</a></dd>
+          <dd lang="lv"><a href="/lv/">Latvija</a></dd>
+          <dd lang="lt"><a href="/lt/">Lietuva</a></dd>
+          <dd lang="de"><a href="/lu_de/">Luxembourg - Deutsch</a></dd>
+          <dd lang="en"><a href="/lu_en/">Luxembourg - English</a></dd>
+          <dd lang="fr"><a href="/lu_fr/">Luxembourg - Fran&ccedil;ais</a></dd>
+          <dd lang="hu"><a href="/hu/">Magyarorsz&aacute;g</a></dd>
+          <dd lang="en"><a href="/eeurope/">Malta - English</a></dd>
+          <dd lang="en"><a href="/mena_en/">Middle East and North Africa - English</a></dd>
+          <dd lang="fr"><a href="/mena_fr/">Moyen-Orient et Afrique du Nord - Fran&ccedil;ais</a></dd>
+          <dd lang="nl"><a href="/nl/">Nederland</a></dd>
+          <dd lang="no"><a href="/no/">Norge</a></dd>
+          <dd lang="de"><a href="/at/">&Ouml;sterreich</a></dd>
+          <dd lang="pl"><a href="/pl/">Polska</a></dd>
+          <dd lang="pt"><a href="/pt/">Portugal</a></dd>
+          <dd lang="ro"><a href="/ro/">Rom&acirc;nia</a></dd>
+          <dd lang="de"><a href="/ch_de/">Schweiz</a></dd>
+          <dd lang="sl"><a href="/si/">Slovenija</a></dd>
+          <dd lang="sk"><a href="/sk/">Slovensko</a></dd>
+          <dd lang="sr"><a href="/rs/">Srbija</a></dd>
+          <dd lang="fr"><a href="/ch_fr/">Suisse</a></dd>
+          <dd lang="fi"><a href="/fi/">Suomi</a></dd>
+          <dd lang="sv"><a href="/se/">Sverige</a></dd>
+          <dd lang="it"><a href="/ch_it/">Svizzera</a></dd>
+          <dd lang="tr"><a href="/tr/">T&uuml;rkiye</a></dd>
+          <dd lang="en"><a href="/uk/">United Kingdom</a></dd>
+          <dd lang="bg"><a href="/bg/">България</a></dd>
+          <dd lang="ru"><a href="/ru/">Россия</a></dd>
+          <dd lang="uk"><a href="/ua/">Україна</a></dd>
+          <dd lang="ar"><a href="/mena_ar/">&#1575;&#1604;&#1588;&#1585;&#1602; &#1575;&#1604;&#1571;&#1608;&#1587;&#1591; &#1608;&#1588;&#1605;&#1575;&#1604; &#1571;&#1601;&#1585;&#1610;&#1602;&#1610;&#1575; - &#1575;&#1604;&#1604;&#1594;&#1577; &#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></dd>
+          <dd lang="he"><a href="/il_he/">&#1497;&#1513;&#1512;&#1488;&#1500; - &#1506;&#1489;&#1512;&#1497;&#1514;</a></dd>
+          <dt class="dom-footer--region-panel-header">Asia - Pacific</dt>
+          <dd lang="en"><a href="/au/">Australia</a></dd>
+          <dd lang="en"><a href="/hk_en/">Hong Kong S.A.R. of China</a></dd>
+          <dd lang="en"><a href="/in/">India - English</a></dd>
+          <dd lang="en"><a href="/nz/">New Zealand</a></dd>
+          <dd lang="en"><a href="/sea/">Southeast Asia (Includes Indonesia, Malaysia, Philippines, Singapore, Thailand, and Vietnam) - English</a></dd>
+          <dd lang="zh"><a href="/cn/">中国</a></dd>
+          <dd lang="zh"><a href="/hk_zh/">中國香港特別行政區</a></dd>
+          <dd lang="zh"><a href="/tw/">台灣</a></dd>
+          <dd lang="ja"><a href="/jp/">日本</a></dd>
+          <dd lang="ko"><a href="/kr/">한국</a></dd>
+          <dt class="dom-footer--region-panel-header">Commonwealth of Independent States</dt>
+          <dd><a href="/cis/">Includes Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Tajikistan, Turkmenistan, Ukraine, Uzbekistan</a></dd>
+        </dl>
+        <div class="nub"></div>
+    </div>
+</div>
+
+        <span class="footer-grouplinks">
+            
+              
+                  <a href="http://www.adobe.com/products/catalog/software.html" class="dom-footer-container--link--bigger" title="Products">
+                    Products
+                  </a>
+              
+                  <a href="http://www.adobe.com/downloads.html" class="dom-footer-container--link--bigger" title="Downloads">
+                    Downloads
+                  </a>
+              
+                  <a href="http://helpx.adobe.com/support.html" class="dom-footer-container--link--bigger" title="Learn &amp; Support">
+                    Learn &amp; Support
+                  </a>
+              
+                  <a href="http://www.adobe.com/company.html" class="dom-footer-container--link--bigger" title="Company">
+                    Company
+                  </a>
+              
+            
+        </span>
+        </div>
+        <div class="dom-footer--right-column small-16 medium-9 columns">
+            <span class="dom-footer-container--copyright">
+              Copyright © 2017 Adobe Systems Incorporated. All rights reserved.
+            </span>
+            <div class="dom-footer-container--small-links">
+              
+                
+                  <a href="http://www.adobe.com/privacy.html" class="dom-footer-container--link" title="Privacy">
+                   
+                    Privacy
+                  </a>
+                
+                  <a href="http://www.adobe.com/legal/general-terms.html" class="dom-footer-container--link" title="Terms of Use">
+                   
+                    Terms of Use
+                  </a>
+                
+                  <a href="http://www.adobe.com/privacy/cookies.html" class="dom-footer-container--link" title="Cookies">
+                   
+                    Cookies
+                  </a>
+                
+                  
+                    <a href="#" id="adchoices" data-seed-adchoices="" class="dom-footer-container--link" title="Ad Choices"> <i class="adobe-icon-adchoices"></i>
+                   
+                    Ad Choices
+                  </a>
+                 
+              
+            </div>
+        </div>
+    </div>
+
+</footer>
+<span id="Georouting"></span>
+<div id="dom-georouting-modal" class="reveal-modal dom-georouting-modal GeoroutingPanel" data-reveal>
+    <div id="dom-georouting-modal-content"></div>
+    <a class="close-reveal-modal">
+        <span class="icon-close" style="color:#C0C0C0"></span>
+    </a>
+</div>
+<!--googleon: index-->
+
+
+
+
+	
+	
+    <!-- /* Java Scripts on Bottom of page*/ -->
+    
+
+
+
+<script type="text/javascript" src="https://wwwimages2.adobe.com/assets/globalnav/v1.1.4/js/globalnav.js"></script>
+<script>
+  var adobe = window.adobe || (window.adobe = {});
+
+  if (typeof adobe.dom == 'undefined') {
+    adobe.dom = {};
+  }
+
+  var adobeid = {
+    uses_redirect_mode: true,
+    client_id: "adobedotcom2",
+    scope: "AdobeID,openid,gnav,creative_cloud,sao.creative_cloud,read_organizations,sao.cce_private,additional_info.projectedProductContext,additional_info.roles"
+  };
+  adobeid.redirect_uri = "https:" + window.location.href.substring(window.location.protocol.length);
+
+  var adobeGlobalNav = new window.AdobeGlobalNav({
+    adobeid: adobeid,
+    defaultSitemapSection: 'learn-and-support',
+    locale: 'en_us',
+    parentSelector: '.global-nav-placeholder',
+    progressiveEnhancement: false,
+    sections: ['sitemap', 'search', 'profile', 'logo']
+  });
+</script>
+<script type="text/javascript" src="https://static.adobelogin.com/imslib/imslib.min.js?client_id=adobedotcom2&locale=en_US"></script>
+
+
+
+<!-- <script src="/shared/reimagine/assets/base/js/events.js"></script> -->
+<script src="/etc/designs/help/reimagine/events.js"></script>
+
+
+
+<!-- /*Moved from headeroverride.jsp */ -->
+<script>
+	$(document).ready(
+			function() {
+				if(false) {
+				$('.docs-and-feedback div').each(function() {
+					if ($(this).html() == "")
+						$(this).hide();
+				});
+				}
+				if ($('.common-questions-link a'))
+					$('#common-questions-icon').attr('href',
+							$('.common-questions-link a').attr('href'));
+				if ($('.top-issues-link a'))
+					$('#top-issues-icon').attr('href',
+							$('.top-issues-link a').attr('href'));
+				if ($('.ask-the-community-link a'))
+					$('#ask-the-community-icon').attr('href',
+							$('.ask-the-community-link a').attr('href'));
+				if ($('.contact-us-link a'))
+					$('#contact-us-icon').attr('href',
+							$('.contact-us-link a').attr('href'));
+
+			});  
+</script>
+
+<script type="text/javascript">
+	var pageProperties = {};
+	pageProperties.pageType = "learn-support";
+	pageProperties.primaryAppId = "illustrator";
+	pageProperties.primaryAppClass = "illustrator";
+</script>
+
+
+    
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/lodash-core.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/lodash-mixins.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/event-bus.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/requirejs-domready.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/EventEmitter.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/polyfills.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/ims.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/requirejs-text.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/page-utils.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/LearningSet.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/tag-type.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/env.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/app-utils.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/learn-support.min.js"></script>
+
+
+
+
+    
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/tutorial-collection-service.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/querystring-utils.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/learn-paths.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/querystring-collection-paths.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/page-type.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/site-catalyst.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/sticky-nav-core.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/VelocityJS.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/nav-bar-search.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/js-shared/gravity.min.js"></script>
+<script type="text/javascript" src="/etc/designs/help/learn/clientlibs/learn-header-author.min.js"></script>
+
+
+
+
+
+
+
+    <!-- BEGIN userzoom.jsp -->
+<script type="text/javascript" charset="utf-8" src="https://cdn3.userzoom.com/uz.js?cuid=A88E169543F6DF1188490022196C4538"></script>
+<!-- END userzoom.jsp -->
+
+
+
+
+<script type="text/javascript">try{_satellite.pageBottom();}catch(e){}</script>
+
+
+	
+    
+    
+        <div class="mboxDefault"></div>
+            <script>
+                try{
+                    var content_locale = 'en_US';
+                    var sling_resourceType = 'help/components/pages/learn-support';
+                    mboxCreate('adbe_helpx_BottomOfBody', 'locale='+ content_locale, 'template='+ sling_resourceType);
+                }
+                catch(e){}
+            </script>
+    
+
+</body>
+
+</html>

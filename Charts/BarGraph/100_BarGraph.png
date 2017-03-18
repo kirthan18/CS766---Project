@@ -1,0 +1,743 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja">
+<head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>
+	GrapeCity Developer Tools ｜ 開発支援ツール
+</title><meta id="ctl00_tagDescription" name="description" content="グレープシティ株式会社 Developer Toolsの販売するコンポーネント製品のWebサイトです。業務システムを構築するプログラマの開発工数削減のためのソフトウェア製品のご紹介や技術情報などを掲載しています。" /><meta id="ctl00_tagKeywords" name="keywords" content="GrapeCity,グレープシティ,ソフトウェア,プログラミング,開発支援,ツール,開発支援ツール,コンポーネント,テスト,パフォーマンス,グリッド,Visual Studio,Visual Basic,C#,.NET Framework,JavaEE,Java,ユーザーインタフェース" /><meta name="verify-v1" content="LA71Jk1xzHXiJXpLeNgN4nRy/XTsON6jbQTtTVBMdDA=" /><meta property="og:image" content="http://www.grapecity.com/tools/img/common/icon-sns-grapecity.png" /><meta property="og:title" content="GrapeCity Developer Tools | 開発支援ツール" /><meta property="og:description" content="グレープシティ株式会社 Developer Toolsの販売するコンポーネント製品のWebサイトです。業務システムを構築するプログラマの開発工数削減のためのソフトウェア製品のご紹介や技術情報などを掲載しています。" /><meta property="og:url" content="http://www.grapecity.com/tools/" />
+    <!--Google Analytics Code -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-20295802-1', 'auto');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+    </script>
+    <!--End Analytics Code -->
+    <!--- For Top Button -->
+    <script language="javascript" type="text/javascript">//<!--
+        document.write(" <style type='text/css'>");
+        document.write(" #fixmetoo {");
+        document.write("     position: absolute;");
+        document.write("     right: "+ (document.documentElement.clientWidth/2 -511) +"px;");
+        document.write("     visibility:visible;");
+        document.write("     top: 450px;");
+        document.write(" }");
+        document.write(" </style>");  
+        window.onresize = function(){
+            var el = document.getElementById('fixmetoo');
+            if (document.documentElement.clientWidth<955)
+                el.style.right = '0px';
+            else
+                el.style.right=(document.documentElement.clientWidth/2 -502) +"px" ;
+        } 
+    //--></script>
+    <style type="text/css">   
+        div > div#fixmetoo {
+            position: fixed;
+        }
+        pre.fixit {
+            overflow: auto;
+            border-left: 1px dashed #000;
+            border-right: 1px dashed #000;
+            padding-left: 2px;
+        }
+    </style>
+    <!--[if gte IE 5.5]><![if lt IE 7]>
+    <style type="text/css">
+        div#fixmetoo {
+            left: auto;
+            bottom: auto;
+            right: expression( ( 0 - fixmetoo.offsetWidth + ( document.documentElement.clientWidth ? document.documentElement.clientWidth : document.body.clientWidth ) + ( ignoreMe2 = document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft ) )/2 -481 + 'px' );
+            top: expression( ( 450 + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
+        }
+    </style>
+    <![endif]><![endif]-->
+    <script type="text/javascript" language="javascript">
+          function Search() {
+          }
+          function KeyDown(keycode) {
+              if (keycode == 13) // Keycode of Enter button
+              {
+                  Search();
+                  return false;
+              }
+              else
+                  return true;
+          }
+          function backToTop() {
+              window.scrollTo(0, 0);
+          }
+    </script>
+<link type="text/css" rel="stylesheet" href="/tools/CSS/index.css" /><link type="text/css" rel="stylesheet" href="/tools/css/colorboxcss.css" /><link href="App_Themes/dsc/Default.css" type="text/css" rel="stylesheet" /><script type="text/javascript" src="/tools/JS/DSCCommon.js"></script><script type="text/javascript" src="/tools/JScript/ssl2.js"></script><script type="text/javascript" src="/tools/JScript/SpryMenuBar.js"></script><script type="text/javascript" src="/tools/JScript/iefixreplace.js"></script><script type="text/javascript" src="/tools/JScript/Jquery-1.4.2.min.js"></script><link type="text/css" rel="stylesheet" href="/tools/CSS/highslide.css" /><script type="text/javascript" src="/tools/JScript/highslide-full.js"></script></head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5J6PPC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5J6PPC');</script>
+<!-- End Google Tag Manager -->
+    <form name="aspnetForm" method="post" action="/tools/" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type='text/javascript'>$(document).ready(function() {                       var highestCol = 408; // Fixed height
+                                            $('div#centerbox:first-child').attr('id','acenterbox');
+                                            $('div#centerbox').height(highestCol);
+                                            $('div#acenterbox').attr('id','centerbox');
+                                            $('div#rightbox').height(highestCol);
+                                            $('div#left-centerbox').height(highestCol);
+                                            $('div#leftbox,div#news').height(highestCol);
+                                            $('div#bottomLinkToList').css('position', 'absolute');
+                                            $('div#bottomLinkToList').css('bottom', '0');
+                                            
+                                            isIE6Detect = navigator.userAgent.toLowerCase().indexOf('msie 6') != -1;
+
+                                            if (isIE6Detect) 
+                                                {
+                                                    $('div#iinfo').css('height','256px');
+                                                    $('div#left-centerbox').height(highestCol);
+                                                    $('div#centerbox').css('position','absolute');
+                                                };
+            if ($('#flashtoppage').length ){ $('#flashtoppage').attr('src','/tools/Media/IFrameHomeCenter/ManagerPreview/20170125_110912_main-visual/default.htm');} });</script>
+<script src="/tools/ScriptResource.axd?d=q4fAhOdiG4D9Pfz3KxGSw9g0-UAVLG2U2I_c7qFuMKZNbm1WyF5Yw4ubmH9f1aovZJXudVTofvdXFp3IkflalHqqswiDRdYCh9anX9Eu-5i2Bgk8rdKaRucVF2ihiJoXn5dvzmD9P39kGnH9GazSohpRqZHzjOtSn12PEsITNBafCDIT0&amp;t=2e2045e2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D17B9D30" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="xJ4yMGbo7g2r9ydmshDkWLfDHsziarSHZ8iQvW9AvP/UalZfW8iZiq4YF1eRSj0sF3iecDA5PV0/4xVV3C0IDcFsxeo5LOnh68bQwbxRdP5OtfX5qVn2YqsOr3x/o0e4YQcgPPPsaclgA1KAex3JVEtxo/9KgaORtn7uAvNsBDydirwfr7A8+xSOSYM+BIICwCTn/NpmFtk19UHceayVv9BkuQI=" />
+</div>
+    
+    <div id="container">
+        <!--header start tony add-->
+        <div id="header" class="clearfix">
+            
+
+            <div id="ctl00_noscript" style="position:absolute; padding-left:220px; color:Red; font-size:11px;">
+                <noscript>
+                    ※ このサイトは、JavaScriptを有効にしてご覧ください。一部の機能がご利用いただけません。  
+                    <style type="text/css">
+                    .MenuBarActive {
+                        display:block!important;
+                    }
+                    </style>
+                </noscript>
+              </div>
+            
+            
+        <div id="box">
+        <ul class="header__links">
+    <li><a href="//www.grapecity.com/tools/aboutus/contact">お問合せ</a></li>
+    <li><a href="//www.grapecity.com/jp/"><img width="80" height="12" src="/tools/Common/images/header/grapecity-logo.png" alt="GrapeCity inc." />コーポレートサイト</a></li>
+</ul>
+    
+<input type="submit" name="ctl00$masterTopContainer$Block_452$btnEditOk" value="Ok" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$masterTopContainer$Block_452$btnEditOk&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_masterTopContainer_Block_452_btnEditOk" class="Hidden" />
+
+<script type="text/javascript">
+    function clear_search(o) {
+        if (o.value == 'search') { o.value = ''; }
+    }
+
+    function set_search(o) {
+        if (o.value == '') { o.value = 'search'; }
+    }
+
+    // Function retrieved by Steven from: http://www.webtoolkit.info/javascript-url-decode-encode.html
+    function URLEncode(string) 
+    {
+		string = string.replace(/\r\n/g,"\n");
+		var utftext = "";
+ 
+		for (var n = 0; n < string.length; n++) {
+			var c = string.charCodeAt(n);
+			if (c < 128) {
+				utftext += String.fromCharCode(c);
+			}
+			else if((c > 127) && (c < 2048)) {
+				utftext += String.fromCharCode((c >> 6) | 192);
+				utftext += String.fromCharCode((c & 63) | 128);
+			}
+			else {
+				utftext += String.fromCharCode((c >> 12) | 224);
+				utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+				utftext += String.fromCharCode((c & 63) | 128);
+			}
+		}
+		return escape(utftext);
+	}
+
+    // Retrieved from: http://www.htmlcodetutorial.com/forms/index_famsupp_157.html
+    function SubmitOnEnter(field, e)
+    {
+	    var keycode;
+	    if (window.event)
+		    keycode = window.event.keyCode;
+	    else if (e)
+		    keycode = e.which;
+	    else
+		    return true;
+	    if (keycode == 13)
+	    {
+	        document.getElementById('ctl00_masterTopContainer_Block_673_btnSearch').click();
+		    return false;
+	    }
+	    else
+		    return true;
+    }
+
+    function SearchSite()
+    {
+        var keyword = document.getElementById('ctl00_masterTopContainer_Block_673_txtSearch').value;
+        if (/^\s*$/.test(keyword)) {
+            document.getElementById('ctl00_masterTopContainer_Block_673_txtSearch').focus();
+            return;
+        }
+        window.open('http://www.google.com/cse?cx=012149137107551921584%3Anypef31stuq&ie=UTF-8&q=' + URLEncode(keyword) + '&sa.x=40&sa.y=12'); 
+    }
+</script>
+<p class="search">
+    <input name="ctl00$masterTopContainer$Block_673$txtSearch" type="text" id="ctl00_masterTopContainer_Block_673_txtSearch" class="search_txt" onkeypress="return SubmitOnEnter(this,event)" />
+    <input type="image" name="ctl00$masterTopContainer$Block_673$btnSearch" id="ctl00_masterTopContainer_Block_673_btnSearch" class="search_btn" src="/tools/Img/Common/bt_search.jpg" onclick="javascript:SearchSite(); return false;WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$masterTopContainer$Block_673$btnSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" style="border-width:0px;" />
+</p></div><div style="width:500px;">
+        <h1 style="margin: 0px;"><a href="http://www.grapecity.com/tools/"><em>GrapeCity Developer Tools<br />
+</em></a></h1>
+    
+<input type="submit" name="ctl00$masterTopContainer$Block_451$btnEditOk" value="Ok" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$masterTopContainer$Block_451$btnEditOk&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_masterTopContainer_Block_451_btnEditOk" class="Hidden" />
+</div>
+    
+<input type="submit" name="ctl00$masterTopContainer$btnEditOk" value="OK" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$masterTopContainer$btnEditOk&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_masterTopContainer_btnEditOk" class="Hidden" />
+
+            <div class="Navigation_box">
+                
+        
+<script type="text/javascript">
+//<!--
+    $(document).ready(function() {
+        //show menu when document ready
+        $("ul#MenuBar1").css("display", "block");
+        var newMenuBar = new Spry.Widget.MenuBar("MenuBar1");      
+   })
+// -->
+</script>
+<!--[if !lte IE 6]><![IGNORE[--><![IGNORE[]]>
+    <link href="/tools/CSS/dropdown-menu.css" rel="stylesheet" type="text/css" />	
+<!--<![endif]-->
+<!--[if lte IE 6]>
+	<link href="/tools/CSS/dropdown-menu-IE6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<div id="menuAll" style="height:42; width:925">
+  <div id="ctl00_navigationBarContainer_Block_460_divMenu" class="Navigation_box">
+    <ul id="MenuBar1" class="MenuBarHorizontal MenuBarActive" style="display:none;">
+      <li id="products" class="top">
+        <a class="MenuBarItemSubmenu" href="http://www.grapecity.com/tools/categories"><div id="product"><span class="hidden">製品情報</span></div></a>
+        <ul class="sub" id="productsmenu">
+          <li class="sc-top IE6-li-sc-top">
+            <a href="http://www.grapecity.com/tools/categories/dotnet" style="padding-top:8px;_padding-top:0px;" tabindex="-1" id="Cat21"><span style="_padding-top:10px;" class=""><img class="blt-redbox" src="/tools/img/navi/bult-red.gif" height="5" width="5" alt="" />.NET</span></a>
+          </li>
+          <li class="sc-mid IE6-li-sc-mid">
+            <a href="http://www.grapecity.com/tools/categories/dotnet/windows" class="second-child" id="En1" tabindex="-1"><span class="arw bordertop-line">Windows Forms</span></a>
+          </li>
+          <li class="sc-mid IE6-li-sc-mid">
+            <a href="http://www.grapecity.com/tools/categories/dotnet/asp" class="second-child" id="En2" tabindex="-1"><span class="arw">ASP.NET</span></a>
+          </li>
+          <li class="sc-mid IE6-li-sc-mid">
+            <a href="http://www.grapecity.com/tools/categories/dotnet/wpf" class="second-child" id="En5" tabindex="-1"><span class="arw">WPF</span></a>
+          </li>
+          <li class="sc-mid IE6-li-sc-mid">
+            <a href="http://www.grapecity.com/tools/categories/dotnet/componentone" class="second-child" id="En19" tabindex="-1"><span class="arw">ComponentOne Studio</span></a>
+          </li>
+          <li class="sc-mid IE6-li-sc-mid">
+            <a href="http://www.grapecity.com/tools/categories/java" tabindex="-1" id="Cat22"><span style="padding-top:3px;_padding-top:8px;" class="arw bordertop-line"><img class="blt-redbox" src="/tools/img/navi/bult-red.gif" height="5" width="5" alt="" />Java</span></a>
+          </li>
+          <li class="sc-mid IE6-li-sc-mid">
+            <a href="http://www.grapecity.com/tools/categories/javascript" tabindex="-1" id="Cat84"><span style="padding-top:3px;_padding-top:8px;" class="arw bordertop-line"><img class="blt-redbox" src="/tools/img/navi/bult-red.gif" height="5" width="5" alt="" />JavaScript</span></a>
+          </li>
+          <li class="sc-mid IE6-li-sc-mid">
+            <a href="http://www.grapecity.com/tools/categories/mobile-cross" tabindex="-1" id="Cat102"><span style="padding-top:3px;_padding-top:8px;" class="arw bordertop-line"><img class="blt-redbox" src="/tools/img/navi/bult-red.gif" height="5" width="5" alt="" />モバイル／クロス開発</span></a>
+          </li>
+          <li class="sc-bot IE6-li-sc-bot">
+            <a href="http://www.grapecity.com/tools/categories/activex" tabindex="-1" id="Cat23"><span style="padding-top:5px;_padding-top:8px;" class="arw bordertop-line"><img class="blt-redbox" src="/tools/img/navi/bult-red.gif" height="5" width="5" alt="" />ActiveX</span></a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a class="MenuBarItemSubmenu" href="http://www.grapecity.com/tools/support/"><div id="support"><span class="hidden">サポート＆サービス</span></div></a>
+        <ul class="sub">
+          <li class="sb_top"><a href="http://www.grapecity.com/tools/support/technical/knowledge.asp" class="sb_bg_top" tabindex="-1">テクニカルサポート</a></li>
+          <li class="sb_middle"><a href="http://www.grapecity.com/tools/support/how-to-use/dotnet.htm" class="sb_bg_middle" tabindex="-1">ご利用の流れ</a></li>
+          <li class="sb_middle"><a href="http://www.grapecity.com/tools/support/online-help/" class="sb_bg_middle" tabindex="-1">オンラインヘルプ</a></li>
+          <li class="sb_middle"><a href="http://www.grapecity.com/tools/support/user/" class="sb_bg_middle" tabindex="-1">ユーザー登録</a></li>
+          <li class="sb_middle"><a href="http://www.grapecity.com/tools/support/code-registration.htm" class="sb_bg_middle" tabindex="-1">各種コード</a></li>
+          <li class="sb_middle"><a href="http://www.grapecity.com/tools/support/license/" class="sb_bg_middle" tabindex="-1">ライセンス認証</a></li>
+          <li class="sb_middle"><a href="http://www.grapecity.com/tools/support/migration/" class="sb_bg_middle" tabindex="-1">.NET移行情報</a></li>
+          <li class="sb_bottom"><a href="http://www.grapecity.com/tools/support/salesend.htm" class="sb_bg_bottom" tabindex="-1">各種情報</a></li>
+        </ul>
+      </li>
+      <li>
+        <a class="MenuBarItemSubmenu" href="http://www.grapecity.com/tools/purchase/"><div id="order"><span class="hidden">製品のご購入</span></div></a>
+        <ul class="sub">
+          <li class="sb_top"><a href="http://www.grapecity.com/tools/purchase/" class="sb_bg_top" tabindex="-1">ご購入方法</a></li>
+          <li class="sb_middle"><a href="http://www.grapecity.com/tools/purchase/old-version/" class="sb_bg_middle" tabindex="-1">旧バージョン</a></li>
+          <li class="sb_middle"><a href="http://www.grapecity.com/tools/purchase/license/" class="sb_bg_middle" tabindex="-1">ライセンス</a></li>
+          <li class="sb_middle"><a href="http://www.grapecity.com/tools/purchase/campaign.htm" class="sb_bg_middle" tabindex="-1">キャンペーン情報</a></li>
+          <li class="sb_middle"><a href="https://www.grapecity.com/tools/purchase/form.htm" class="sb_bg_middle" tabindex="-1">購入のご相談</a></li>
+          <li class="sb_middle"><a href="http://www.grapecity.com/tools/purchase/export/" class="sb_bg_middle" tabindex="-1">製品の輸出</a></li>
+          <li class="sb_bottom"><a href="http://www.grapecity.com/tools/purchase/antipiracy.htm" class="sb_bg_bottom" tabindex="-1">著作権保護</a></li>
+        </ul>
+      </li>
+      <li>
+        <a class="MenuBarItemSubmenu" href="http://www.grapecity.com/tools/downloads"><div id="down"><span class="hidden">ダウンロード</span></div></a>
+        <ul class="sub">
+          <li class="sb_top"><a href="http://www.grapecity.com/tools/downloads/trial" class="sb_bg_top" tabindex="-1">トライアル版</a></li>
+          <li class="sb_middle"><a href="http://www.grapecity.com/tools/downloads/update" class="sb_bg_middle" tabindex="-1">アップデート</a></li>
+          <li class="sb_bottom"><a href="http://www.grapecity.com/tools/downloads/catalog" class="sb_bg_bottom" tabindex="-1">カタログ / 資料</a></li>
+        </ul>
+      </li>
+      <li class="bside">
+        <a class="MenuBarItemSubmenu" href="http://www.grapecity.com/tools/aboutus"><div id="comp"><span class="hidden">会社情報</span></div></a>
+        <ul class="sub">
+          <li class="sb_top"><a href="http://www.grapecity.com/tools/aboutus/company" class="sb_bg_top" tabindex="-1">概要</a></li>
+          <li class="sb_middle"><a href="/tools/aboutus/case" class="sb_bg_middle" tabindex="-1">導入事例</a></li>
+          <li class="sb_middle"><a href="/tools/aboutus/solution-partner" class="sb_bg_middle" tabindex="-1">導入支援パートナー</a></li>
+          <li class="sb_middle"><a href="http://www.grapecity.com/tools/aboutus/newsrelease" class="sb_bg_middle" tabindex="-1">ニュースリリース</a></li>
+          <li class="sb_middle"><a href="/tools/aboutus/events" class="sb_bg_middle" tabindex="-1">イベント</a></li>
+          <li class="sb_bottom"><a href="http://www.grapecity.com/tools/aboutus/contact" class="sb_bg_bottom" tabindex="-1">お問合せ</a></li>
+        </ul>
+      </li>
+    </ul>
+</div>
+</div>
+
+
+    
+<input type="submit" name="ctl00$navigationBarContainer$btnEditOk" value="OK" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$navigationBarContainer$btnEditOk&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_navigationBarContainer_btnEditOk" class="Hidden" />
+
+            </div>
+        </div>
+        <!--header end-->
+        <div id="flashCenter" style="height:320px;width:922px;position:relative;">
+            
+        <div id="flashHomePageCenter" style="height:320px;width:100%;" >
+<div>
+        <div id="divFlashTopPage"><iframe height="320px" frameborder="0" scrolling="no" width="100%" src="Toppage.htm" id="flashtoppage" name="flashtoppage">
+<p> iframe no support.</p>
+</iframe></div>
+    
+<input type="submit" name="ctl00$flashHomeContainer$Block_2048$btnEditOk" value="Ok" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$flashHomeContainer$Block_2048$btnEditOk&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_flashHomeContainer_Block_2048_btnEditOk" class="Hidden" />
+ </div></div>
+
+    
+<input type="submit" name="ctl00$flashHomeContainer$btnEditOk" value="OK" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$flashHomeContainer$btnEditOk&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_flashHomeContainer_btnEditOk" class="Hidden" />
+
+        </div>
+        <!--#content start-->
+        <div id="content">
+        
+    
+<div id="ctl00_ContentPlaceHolderMain_focusNewsScm_upFocusNews">
+	
+        <div style="clear:both;width:0px;height:0px;display:none;"></div>
+    
+</div>
+    <div id="content-home">
+      <div id="left-centerbox">
+        
+          <div id="left-centerbox">
+    
+	<!--News(left) start-->
+	<div id="leftbox">
+	
+ 
+  <!--News-->
+  <div id="news" style="position:relative">
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('div#left-centerbox').css("position", "relative");
+        });
+    </script>
+    <p class="menutitle iepngfix" id="newstitle01">新着情報</p>
+	<p class="menutitle iepngfix" id="downtitle02"><a href="#" onclick="javascript:Display('no2'); return false;">新着ダウンロード</a></p>
+    <dl class="news">
+                            
+                <dt>2017/02/28：<span class="red">製品情報</span></dt>
+               <dd>
+               
+               <a class="news" href="#"  onclick="hs.maincontentText='&lt;p&gt;帳票開発ツールActiveReports for .NET（アクティブレポート）の新バージョン「ActiveReports for .NET 11.0J」を本日2017年2月28日より発売します。&lt;/p&gt;&lt;ul&gt;    &lt;li&gt;&lt;a class=linkmark href=http://www.grapecity.com/tools/products/activereportsnet11&gt;［製品情報］-［ActiveReports for .NET 11.0J］はこちら&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;';hs.creditsText ='';hs.headingText='ActiveReports for .NET 11.0Jを発売！';hs.width=500;return hs.htmlExpand(this);" target=""> ActiveReports for .NET 11.0Jを<br/>発売！  </a>
+                <div class="highslide-maincontent" id="preImagesLoad">
+                        <script type="text/javascript" >
+                            hs.graphicsDir = '/tools/Img/graphics/';
+                            hs.outlineType = 'rounded-white';
+                            hs.wrapperClassName = 'draggable-header';
+                            hs.align = 'center';
+                            hs.creditsText = '';
+                            hs.dimmingOpacity = 0.5;
+                            hs.allowSizeReduction = false;
+                            hs.allowHeightReduction = false;
+                            hs.allowWidthReduction = false;
+                        </script> 
+                        
+                        &lt;p&gt;帳票開発ツールActiveReports for .NET（アクティブレポート）の新バージョン「ActiveReports for .NET 11.0J」を本日2017年2月28日より発売します。&lt;/p&gt;&lt;ul&gt;    &lt;li&gt;&lt;a class=linkmark href=http://www.grapecity.com/tools/products/activereportsnet11&gt;［製品情報］-［ActiveReports for .NET 11.0J］はこちら&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+                        <div style="display:none"><p>帳票開発ツールActiveReports for .NET（アクティブレポート）の新バージョン「ActiveReports for .NET 11.0J」を本日2017年2月28日より発売します。</p>
+<ul>
+    <li><a class="linkmark" href="http://www.grapecity.com/tools/products/activereportsnet11">［製品情報］-［ActiveReports for .NET 11.0J］はこちら</a></li>
+</ul></div>
+               </div>
+               </dd>
+                                
+                <dt>2017/02/23：<span class="red">製品情報</span></dt>
+               <dd>
+               
+               <a class="news" href="#"  onclick="hs.maincontentText='&lt;p&gt;ActiveReports for .NET 11.0Jのトライアル版を本日2017年2月23日公開しました。&lt;/p&gt;&lt;ul&gt;    &lt;li&gt;&lt;a class=linkmark href=https://www.grapecity.com/tools/downloads/trialreg/dotnet/1019&gt;［ダウンロード］-［トライアル版］-［ActiveReports for .NET 11.0J］はこちら&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;p&gt;発売は2017年2月28日より開始します。製品の詳細は製品情報ページよりご確認ください。&lt;/p&gt;&lt;ul&gt;    &lt;li&gt;&lt;a class=linkmark href=http://www.grapecity.com/tools/products/activereportsnet11&gt;［製品情報］-［ActiveReports for .NET 11.0J］はこちら&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;';hs.creditsText ='';hs.headingText='ActiveReports for .NET 11.0J トライアル版を公開';hs.width=500;return hs.htmlExpand(this);" target=""> ActiveReports for .NET 11.0J ト<br/>ライアル版を公開  </a>
+                <div class="highslide-maincontent" id="preImagesLoad">
+                        <script type="text/javascript" >
+                            hs.graphicsDir = '/tools/Img/graphics/';
+                            hs.outlineType = 'rounded-white';
+                            hs.wrapperClassName = 'draggable-header';
+                            hs.align = 'center';
+                            hs.creditsText = '';
+                            hs.dimmingOpacity = 0.5;
+                            hs.allowSizeReduction = false;
+                            hs.allowHeightReduction = false;
+                            hs.allowWidthReduction = false;
+                        </script> 
+                        
+                        &lt;p&gt;ActiveReports for .NET 11.0Jのトライアル版を本日2017年2月23日公開しました。&lt;/p&gt;&lt;ul&gt;    &lt;li&gt;&lt;a class=linkmark href=https://www.grapecity.com/tools/downloads/trialreg/dotnet/1019&gt;［ダウンロード］-［トライアル版］-［ActiveReports for .NET 11.0J］はこちら&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;p&gt;発売は2017年2月28日より開始します。製品の詳細は製品情報ページよりご確認ください。&lt;/p&gt;&lt;ul&gt;    &lt;li&gt;&lt;a class=linkmark href=http://www.grapecity.com/tools/products/activereportsnet11&gt;［製品情報］-［ActiveReports for .NET 11.0J］はこちら&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+                        <div style="display:none"><p>ActiveReports for .NET 11.0Jのトライアル版を本日2017年2月23日公開しました。</p>
+<ul>
+    <li><a class="linkmark" href="https://www.grapecity.com/tools/downloads/trialreg/dotnet/1019">［ダウンロード］-［トライアル版］-［ActiveReports for .NET 11.0J］はこちら</a></li>
+</ul>
+<div>&nbsp;</div>
+<p>発売は2017年2月28日より開始します。製品の詳細は製品情報ページよりご確認ください。</p>
+<ul>
+    <li><a class="linkmark" href="http://www.grapecity.com/tools/products/activereportsnet11">［製品情報］-［ActiveReports for .NET 11.0J］はこちら</a></li>
+</ul></div>
+               </div>
+               </dd>
+                                
+                <dt>2017/02/23：<span class="red">メルマガ</span></dt>
+               <dd>
+               
+               <a class="news" href="#"  onclick="hs.maincontentText='&lt;div&gt;グレープシティの新製品や、プログラミングに役立つ技術コラム、ITイベントのお知らせなどソフトウェア開発者に役立つ情報が満載のメールマガジン「PowerNews」の最新号を本日配信しました。&lt;br /&gt;&lt;br /&gt;今号のイチオシ記事&lt;br /&gt;OSS採用によるお悩みをAngularとWijmo（ウィジモ）で解決！&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;ul&gt;    &lt;li&gt;&lt;a class=linkmark target=_blnak href=http://www.grapecity.com/tools/jp/?PN/Survey/&gt;&lt;span class=neww&gt;最新号のアンケートはこちら&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;    &lt;li&gt;&lt;a class=linkmark href=http://www.grapecity.com/tools/support/powernews/articles/&gt;［サポート＆サービス］-［メールマガジン］バックナンバーや過去のアンケート結果はこちら&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;';hs.creditsText ='';hs.headingText='PowerNews 465号― ActiveReports最新版を発売前にお試しできます';hs.width=500;return hs.htmlExpand(this);" target=""> PowerNews 465号― ActiveRepo<br/>rts最新版を発売前にお試しできます  </a>
+                <div class="highslide-maincontent" id="preImagesLoad">
+                        <script type="text/javascript" >
+                            hs.graphicsDir = '/tools/Img/graphics/';
+                            hs.outlineType = 'rounded-white';
+                            hs.wrapperClassName = 'draggable-header';
+                            hs.align = 'center';
+                            hs.creditsText = '';
+                            hs.dimmingOpacity = 0.5;
+                            hs.allowSizeReduction = false;
+                            hs.allowHeightReduction = false;
+                            hs.allowWidthReduction = false;
+                        </script> 
+                        
+                        &lt;div&gt;グレープシティの新製品や、プログラミングに役立つ技術コラム、ITイベントのお知らせなどソフトウェア開発者に役立つ情報が満載のメールマガジン「PowerNews」の最新号を本日配信しました。&lt;br /&gt;&lt;br /&gt;今号のイチオシ記事&lt;br /&gt;OSS採用によるお悩みをAngularとWijmo（ウィジモ）で解決！&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;ul&gt;    &lt;li&gt;&lt;a class=linkmark target=_blnak href=http://www.grapecity.com/tools/jp/?PN/Survey/&gt;&lt;span class=neww&gt;最新号のアンケートはこちら&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;    &lt;li&gt;&lt;a class=linkmark href=http://www.grapecity.com/tools/support/powernews/articles/&gt;［サポート＆サービス］-［メールマガジン］バックナンバーや過去のアンケート結果はこちら&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+                        <div style="display:none"><div>グレープシティの新製品や、プログラミングに役立つ技術コラム、ITイベントのお知らせなどソフトウェア開発者に役立つ情報が満載のメールマガジン「PowerNews」の最新号を本日配信しました。<br />
+<br />
+今号のイチオシ記事<br />
+OSS採用によるお悩みをAngularとWijmo（ウィジモ）で解決！</div>
+<div>&nbsp;</div>
+<ul>
+    <li><a class="linkmark" target="_blnak" href="http://www.grapecity.com/tools/jp/?PN/Survey/"><span class="neww">最新号のアンケートはこちら</span></a></li>
+    <li><a class="linkmark" href="http://www.grapecity.com/tools/support/powernews/articles/">［サポート＆サービス］-［メールマガジン］バックナンバーや過去のアンケート結果はこちら</a></li>
+</ul>
+<div>&nbsp;</div></div>
+               </div>
+               </dd>
+                                
+                <dt>2017/02/15：<span class="red">おしらせ</span></dt>
+               <dd>
+               
+               <a class="news" href="#"  onclick="hs.maincontentText='&lt;div&gt;Excelライクなグリッドコンポーネント&amp;nbsp;SPREADシリーズの2製品&lt;br  /&gt;・「SPREAD for Windows Forms 10.0J」&lt;br  /&gt;・「SPREAD for ASP.NET 10.0J」&lt;br  /&gt;を本日2017年2月15日（水）より発売します。&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;製品デモと無料評価版（トライアル版）も本日より公開しましたので、ぜひ新機能をお試しください。&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;p&gt;&lt;a class=linkmark href=https://www.grapecity.com/tools/products/spreadwin10/&gt;[製品情報]－[SPREAD for Windows Forms 10.0J]はこちら&lt;/a&gt;&lt;br  /&gt;&lt;a class=linkmark href=https://www.grapecity.com/tools/products/spreadasp10/&gt;[製品情報]－[SPREAD&lt;font color=#000000&gt;&amp;nbsp;&lt;/font&gt;for ASP.NET 10.0J]はこちら&lt;/a&gt;&lt;/p&gt;';hs.creditsText ='';hs.headingText='「SPREAD」2製品の新バージョン発売！';hs.width=500;return hs.htmlExpand(this);" target=""> 「SPREAD」2製品の新バージョン発<br/>売！  </a>
+                <div class="highslide-maincontent" id="preImagesLoad">
+                        <script type="text/javascript" >
+                            hs.graphicsDir = '/tools/Img/graphics/';
+                            hs.outlineType = 'rounded-white';
+                            hs.wrapperClassName = 'draggable-header';
+                            hs.align = 'center';
+                            hs.creditsText = '';
+                            hs.dimmingOpacity = 0.5;
+                            hs.allowSizeReduction = false;
+                            hs.allowHeightReduction = false;
+                            hs.allowWidthReduction = false;
+                        </script> 
+                        
+                        &lt;div&gt;Excelライクなグリッドコンポーネント&amp;nbsp;SPREADシリーズの2製品&lt;br  /&gt;・「SPREAD for Windows Forms 10.0J」&lt;br  /&gt;・「SPREAD for ASP.NET 10.0J」&lt;br  /&gt;を本日2017年2月15日（水）より発売します。&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;製品デモと無料評価版（トライアル版）も本日より公開しましたので、ぜひ新機能をお試しください。&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;p&gt;&lt;a class=linkmark href=https://www.grapecity.com/tools/products/spreadwin10/&gt;[製品情報]－[SPREAD for Windows Forms 10.0J]はこちら&lt;/a&gt;&lt;br  /&gt;&lt;a class=linkmark href=https://www.grapecity.com/tools/products/spreadasp10/&gt;[製品情報]－[SPREAD&lt;font color=#000000&gt;&amp;nbsp;&lt;/font&gt;for ASP.NET 10.0J]はこちら&lt;/a&gt;&lt;/p&gt;
+                        <div style="display:none"><div>Excelライクなグリッドコンポーネント&nbsp;SPREADシリーズの2製品<br  />
+・「SPREAD for Windows Forms 10.0J」<br  />
+・「SPREAD for ASP.NET 10.0J」<br  />
+を本日2017年2月15日（水）より発売します。</div>
+<div>&nbsp;</div>
+<div>製品デモと無料評価版（トライアル版）も本日より公開しましたので、ぜひ新機能をお試しください。</div>
+<div>&nbsp;</div>
+<p><a class="linkmark" href="https://www.grapecity.com/tools/products/spreadwin10/">[製品情報]－[SPREAD for Windows Forms 10.0J]はこちら</a><br  />
+<a class="linkmark" href="https://www.grapecity.com/tools/products/spreadasp10/">[製品情報]－[SPREAD<font color="#000000">&nbsp;</font>for ASP.NET 10.0J]はこちら</a></p></div>
+               </div>
+               </dd>
+                                
+                <dt>2017/02/14：<span class="red">製品情報</span></dt>
+               <dd>
+               
+               <a class="news" href="#"  onclick="hs.maincontentText='&lt;p&gt;［ダウンロード］-［アップデート］コーナーに「Secure iNetSuite for .NET 4.0J」のサービスパック（SP6）を公開しました。アップデートの内容はリリースノートの更新履歴でご確認いただけます。&lt;/p&gt;&lt;ul&gt;    &lt;li&gt;&lt;a class=linkmark href=http://www.grapecity.com/tools/downloads/update#219&gt;［ダウンロード］-［アップデート］はこちら&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;';hs.creditsText ='';hs.headingText='Secure iNetSuite for .NET 4.0Jのサービスパックを公開';hs.width=500;return hs.htmlExpand(this);" target=""> Secure iNetSuite for .NET 4.0Jの<br/>サービスパックを公開  </a>
+                <div class="highslide-maincontent" id="preImagesLoad">
+                        <script type="text/javascript" >
+                            hs.graphicsDir = '/tools/Img/graphics/';
+                            hs.outlineType = 'rounded-white';
+                            hs.wrapperClassName = 'draggable-header';
+                            hs.align = 'center';
+                            hs.creditsText = '';
+                            hs.dimmingOpacity = 0.5;
+                            hs.allowSizeReduction = false;
+                            hs.allowHeightReduction = false;
+                            hs.allowWidthReduction = false;
+                        </script> 
+                        
+                        &lt;p&gt;［ダウンロード］-［アップデート］コーナーに「Secure iNetSuite for .NET 4.0J」のサービスパック（SP6）を公開しました。アップデートの内容はリリースノートの更新履歴でご確認いただけます。&lt;/p&gt;&lt;ul&gt;    &lt;li&gt;&lt;a class=linkmark href=http://www.grapecity.com/tools/downloads/update#219&gt;［ダウンロード］-［アップデート］はこちら&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+                        <div style="display:none"><p>［ダウンロード］-［アップデート］コーナーに「Secure iNetSuite for .NET 4.0J」のサービスパック（SP6）を公開しました。アップデートの内容はリリースノートの更新履歴でご確認いただけます。</p>
+<ul>
+    <li><a class="linkmark" href="http://www.grapecity.com/tools/downloads/update#219">［ダウンロード］-［アップデート］はこちら</a></li>
+</ul></div>
+               </div>
+               </dd>
+            
+    </dl>
+	    <div style="clear:both;" id="bottomLinkToList">
+	    <p id="ctl00_ContentPlaceHolderMain_blockContainerMain_Block_1908_lnkAllNews" class="morenews">
+	        <a id="ctl00_ContentPlaceHolderMain_blockContainerMain_Block_1908_lnkNewsList" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolderMain$blockContainerMain$Block_1908$lnkNewsList&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">一覧へ</a>
+	        </p>
+	    </div>
+  </div>
+
+  <!--Downloads-->
+  <div id="download">
+    <p class="menutitle iepngfix" id="newstitle02"><a href="javascript:;" onclick="javascript:Display('no1')">新着情報</a></p>
+	<p class="menutitle iepngfix" id="downtitle01">新着ダウンロード</p>
+    <dl class="news">
+        
+                <dt>2017/02/14：<span class="red">アップデート公開</span></dt>
+                
+                <dd><a href="http://www.grapecity.com/tools/downloads/update/dotnet#219" target="_self">Secure iNetSuite for .NET 4.0Jの<br/>サービスパックを公開 </a></dd>
+            
+                <dt>2012/08/29：<span class="red">アップデート公開</span></dt>
+                
+                <dd><a href="http://www.grapecity.com/tools/downloads/update#226" target="_self">ActiveReports for .NET 6.0Jのサ <br/>ービスパックを公開</a></dd>
+            
+                <dt>2012/07/17：<span class="red">アップデートモジュール</span></dt>
+                
+                <dd><a href="http://www.grapecity.com/tools/downloads/update/java#245" target="_self">Elixir Report 8.4J／7.7Jのアップ<br/>デートモジュールを公開</a></dd>
+            
+                <dt>2012/06/22：<span class="red">住所ファイルを更新</span></dt>
+                
+                <dd><a href="http://www.grapecity.com/tools/downloads/update/activex#234" target="_self">InputMan Pro 7.0J／6.5Jの住所デ <br/>ータファイルを更新</a></dd>
+            
+                <dt>2012/06/05：<span class="red">アップデートモジュール</span></dt>
+                
+                <dd><a href="http://www.grapecity.com/tools/downloads/update/java#250" target="_self">JClass ServerReport 6.0Jのアッ<br/>プデートモジュールを公開</a></dd>
+            
+    </dl>
+    <div id="divAllDownload" style="display:none">
+    <p id="ctl00_ContentPlaceHolderMain_blockContainerMain_Block_1908_lnkAllDownload" class="morenews">
+	    <a onclick="return false;" id="ctl00_ContentPlaceHolderMain_blockContainerMain_Block_1908_lnkDownloadList" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolderMain$blockContainerMain$Block_1908$lnkDownloadList&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">一覧へ</a></p> 
+    
+    </div>
+	
+  </div>  
+	</div>
+	<!--News(left) end-->
+	
+	<!--Products Information(center) start-->
+                <div id="centerbox">
+                
+        <p class="menutitle iepngfix">ピックアップ</p>
+<!--topics area-->
+<div class="topicsarea"><!--topics1-->
+<div class="topicsbox | topicsbox-first">
+<div class="topics_image"><a href="/tools/aboutus/case"><img src="http://www.grapecity.com/tools/common/images/topics/home/case-ssaj.jpg" alt="" height="80" width="100" /></a></div>
+<div class="topics_content">
+<p><a href="/tools/aboutus/case">導入事例：お客様からの声を公開中</a></p>
+<p class="topics_txt">グレープシティ製品をご利用頂いているお客様から、導入のポイントや活用中の製品機能についてお話を伺いました。<br />
+（最新：一般社団法人日本舞台音響家協会様）</p>
+<p class="read-more"><a href="/tools/aboutus/case">詳しく見る</a></p>
+</div>
+</div>
+<!--topics02-->
+<div class="topicsbox">
+<div class="topics_image"><noscript>
+      <a href="//c1.grapecity.com/?route=t-tpickup" target="_blank"><img src="/tools/common/images/topics/home/componentone-studio.jpg" alt="ComponentOne Studioシリーズ" width="100" height="80" /></a>
+      </noscript>       <script type="text/javascript"><!--
+	  var bannerSet=[], bannerPick=[], time=(new Date).getTime();
+	  bannerSet[0]=['componentone-studio', '?route=t-tpickup', 'ComponentOne Studioシリーズ'];
+	  bannerSet[1]=['wijmo', '?route=t-tpickup', 'Wijmoシリーズ'];
+	  bannerSet[2]=['xuni', '?route=t-tpickup', 'Xuni'];
+	  bannerPick=bannerSet.splice(time%bannerSet.length, 1)[0];
+	  $('.topics_image noscript').replaceWith('<a href="//c1.grapecity.com/'+bannerPick[1]+'" target="_blank"><img src="/tools/common/images/topics/home/'+bannerPick[0]+'.jpg" alt="'+bannerPick[2]+'" width="100" height="80" /></a>');
+	  //-->
+      </script></div>
+<div class="topics_content">
+<p><a target="_blank" href="//c1.grapecity.com/?route=t-tpickup">あらゆる開発にこれ1つ。- コンポーネントワン -</a></p>
+<p class="topics_txt">Windowsデスクトップ/UWP、ASP.NET、JavaScript、モバイルなど、各プラットフォーム要件に応えた多機能なコンポーネントを数多く収録した「ComponentOne」。</p>
+<p class="read-more"><a target="_blank" href="//c1.grapecity.com/?route=t-tpickup">詳しく見る</a></p>
+</div>
+</div>
+<!--topics03-->
+<div class="topicsbox">
+<div class="topics_image"><a target="_blank" href="//gcsf.grapecity.com/?route=t-tpickup"><img alt="GrapeCity for Salesforce" src="//www.grapecity.com/tools/common/images/topics/home/grapecity-salesforce.png" height="80" width="100" /></a></div>
+<div class="topics_content">
+<p><a target="_blank" href="//gcsf.grapecity.com/?route=t-tpickup">バーコード自由自在。Salesforce用コンポーネントを発売</a></p>
+<p class="topics_txt">Salesforceプラットフォーム上のデータをバーコード化できるコンポーネントをリリースしました。QRコードやJANコードなど20以上の規格に対応しています。</p>
+<p class="read-more"><a target="_blank" href="//gcsf.grapecity.com/?route=t-tpickup">詳しく見る</a></p>
+</div>
+</div>
+<!--div class="topicsbox">
+    <div class="topics_image"><a target="_blank" href="http://www.grapecity.com/tools/jp/?54CC1774B9A0.clk"><img alt="" width="100" height="80" src="http://www.grapecity.com/tools/common/images/topics/home/forguncy.jpg" /></a></div>
+    <div class="topics_content">
+      <p><a target="_blank" href="http://www.grapecity.com/tools/jp/?54CC1774B9A0.clk">Forguncy Pro（フォーガンシー プロ）2月16日発売！</a></p>
+      <p class="topics_txt">&ldquo;Excel感覚でWebアプリをつくる&rdquo;Forguncyの上位ディションを発売。基幹システムとの連携、ワークフローなどの新機能を評価版でお試しください。</p>
+    </div>
+  </div--> <!--topics area end--></div>
+    
+<input type="submit" name="ctl00$ContentPlaceHolderMain$blockContainerMain$Block_1909$btnEditOk" value="Ok" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolderMain$blockContainerMain$Block_1909$btnEditOk&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ContentPlaceHolderMain_blockContainerMain_Block_1909_btnEditOk" class="Hidden" />
+
+                </div>
+                <!--Products Information(center) end-->
+	
+  </div>
+  <!--left/center block end-->
+    
+<input type="submit" name="ctl00$ContentPlaceHolderMain$blockContainerMain$btnEditOk" value="OK" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolderMain$blockContainerMain$btnEditOk&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ContentPlaceHolderMain_blockContainerMain_btnEditOk" class="Hidden" />
+        
+      </div>
+      <!--right block start-->
+      <div id="rightbox">
+        <p class="menutitle iepngfix">重要なお知らせ</p>
+        <!--important information-->
+        
+        
+<div id="iinfo">
+<div id="ctl00_ContentPlaceHolderMain_blockContainer1_Block_1910_upFocusNews">
+	
+        
+        <div>
+		<table cellspacing="0" class="gridViewTable" border="0" id="ctl00_ContentPlaceHolderMain_blockContainer1_Block_1910_grdFocusNews" style="border-collapse:collapse;">
+			<tr>
+				<td>
+				  <div class="focusnewsbox">
+				    <p class="focusnews_title"><a href="http://www.grapecity.com/tools/support/site-info.htm#info201609">メールマガジン「PowerNews」ご購読者様へ</a></p>
+				    <p class="focusnews_txt">ご登録メールアドレスの流出に関するご報告</p>
+				  </div>
+                </td>
+			</tr><tr class="alternatingrowstyle">
+				<td>
+				  <div class="focusnewsbox">
+				    <p class="focusnews_title"><a href="http://www.grapecity.com/tools/support/technical/environment/dotnet/vs2017.htm">Visual Studio 2017対応情報</a></p>
+				    <p class="focusnews_txt">.NET製品のVisual Studio 2017への対応予定についてお知らせします。</p>
+				  </div>
+                </td>
+			</tr><tr>
+				<td>
+				  <div class="focusnewsbox">
+				    <p class="focusnews_title"><a href="http://www.grapecity.com/tools/jp/?5F4AA10F58A3.clk">VB6から .NETへの移行</a></p>
+				    <p class="focusnews_txt">ActiveX製品から .NET製品への移行に関する情報です。</p>
+				  </div>
+                </td>
+			</tr>
+		</table>
+	</div>
+    
+</div>
+</div>
+        <div id="banner"><noscript><p class="banner"><a href="/tools/specific/pride/"><img src="/tools/common/images/banner/pride.jpg" alt="「グレープシティの誇り」へのリンク" width="210" height="100" /></a></p></noscript></div>
+<script type="text/javascript"><!--
+var bannerSet=[], bannerPick=[], time=(new Date).getTime();
+bannerSet[0]=['pride', 'jp/?6291FF83AF7C.clk', 'グレープシティの誇り'];
+bannerSet[1]=['pride-pride', 'jp/?E403CCF32F51.clk', 'グレープシティの誇り'];
+bannerSet[2]=['pride-message', 'jp/?49843F4CB798.clk', 'グレープシティの誇り'];
+bannerSet[3]=['pride-cooperation', 'jp/?D89B074E0058.clk', 'グレープシティの誇り'];
+bannerSet[4]=['pride-bridge', 'jp/?E5300BA30EC4.clk', 'グレープシティの誇り'];
+bannerPick=bannerSet.splice(time%bannerSet.length, 1)[0];
+$('#banner noscript').replaceWith('<p class="banner"><a href="/tools/'+bannerPick[1]+'" target="_blank" onclick="_gaq.push([\'_trackEvent\', \'Click\', \'topBanner\', \''+bannerPick[0]+'\']);"><img src="/tools/common/images/banner/'+bannerPick[0]+'.jpg" alt="「'+bannerPick[2]+'」へのリンク" width="210" height="100" /></a></p>');
+//--></script>
+    
+<input type="submit" name="ctl00$ContentPlaceHolderMain$blockContainer1$Block_1982$btnEditOk" value="Ok" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolderMain$blockContainer1$Block_1982$btnEditOk&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ContentPlaceHolderMain_blockContainer1_Block_1982_btnEditOk" class="Hidden" />
+
+    
+<input type="submit" name="ctl00$ContentPlaceHolderMain$blockContainer1$btnEditOk" value="OK" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolderMain$blockContainer1$btnEditOk&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ContentPlaceHolderMain_blockContainer1_btnEditOk" class="Hidden" />
+
+      </div>
+      <!--right block end-->
+    </div>
+
+    </div>
+    <!--#content end-->
+    <!--footer start-->
+    <div id="footer">
+        <div class="footerSection">
+            
+        
+        <div class="footer__top">
+  <div class="footer__product-site-link">
+    <h6>製品サイト</h6>
+    <ul class="column">
+      <li><a class="activereports-server" target="_blank" href="http://jp.activereportsserver.com/?route=t-ft">ActiveReports Server</a></li>
+      <li><a class="cdata" target="_blank" href="https://www.grapecity.com/tools/info/cdata/?route=t-ft">CData</a></li>
+      <li><a class="componentone-studio" target="_blank" href="http://c1.grapecity.com/?route=t-ft">ComponentOne Studio</a></li>
+    </ul>
+    <ul class="column">
+      <li><a class="dragonfly" target="_blank" href="https://www.dragonflybi.com/?route=t-ft">DragonFly</a></li>
+      <li><a class="forguncy" target="_blank" href="https://www.forguncy.com/?route=t-ft">Forguncy</a></li>
+      <li><a class="gcsf" target="_blank" href="https://gcsf.grapecity.com/?route=t-ft">GrapeCity for Salesforce</a></li>
+    </ul>
+    <ul class="column">
+      <li><a class="leadtools" target="_blank" href="https://leadtools.grapecity.com/?route=t-ft">LEADTOOLS</a></li>
+      <li><a class="masume" target="_blank" href="https://www.masume.com/?route=t-ft">Masume</a></li>
+      <li><a class="spread" target="_blank" href="http://jp.spread.grapecity.com/spreadjs/?route=t-ft">SpreadJS</a></li>
+    </ul>
+    <ul class="column">
+      <li><a class="wijmo" target="_blank" href="http://wijmo.c1.grapecity.com/?route=t-ft">Wijmo</a></li>
+      <li><a class="wikitude" target="_blank" href="https://wikitude.grapecity.com/?route=t-ft">Wikitude</a></li>
+    </ul>
+    <ul class="column">
+      <li><a class="xojo" target="_blank" href="https://xojo.grapecity.com/?route=t-ft">Xojo</a></li>
+      <li><a class="xuni" target="_blank" href="http://www.goxuni.com/jp/?route=t-ft">Xuni</a></li>
+    </ul>
+  </div>
+  <div class="footer__message"><img alt="" src="/tools/Common/images/footer/grapecluster-logo.png" width="58" height="70" />
+    <p>グレープシティの開発支援ツールは日本の業務に適したシステムを、より早く開発するためのソフトウェアです。エンドユーザーの利用しやすさ、幅広いユーザー環境への対応、そして何よりプログラマの作業を軽減することを一番に目指しています。</p>
+    <p class="read-more"><a target="_blank" href="/tools/specific/pride/">「グレープシティの誇り」を見る</a></p>
+  </div>
+</div>
+    
+<input type="submit" name="ctl00$homeBottomContainer$Block_1906$btnEditOk" value="Ok" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$homeBottomContainer$Block_1906$btnEditOk&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_homeBottomContainer_Block_1906_btnEditOk" class="Hidden" />
+<div id="ctl00_homeBottomContainer_Block_1907_divFooter"><ul id='pagelink'><li><a href='http://www.grapecity.com/jp/about/privacy/default.htm' target='_blank'>プライバシーポリシー</a></li><li><a href='/tools/purchase/antipiracy.htm'>著作権保護</a></li><li><a href='/tools/aboutus/contact'>お問合せ</a></li> <li><a href='http://www.grapecity.com/tools/siteinfo/sitemap'>サイトマップ</a></li><li><a href='http://www.grapecity.com/tools/siteinfo/news'>新着情報一覧</a></li><li><a href='/tools/support/powernews/'>メールマガジン</a></li><li id='rss'><a href='http://feeds.feedburner.com/grapecity/tools' target='_blank'>RSS</a></li><li id='copy'>Copyright © 2017 GrapeCity inc. </li></ul></div>
+    
+<input type="submit" name="ctl00$homeBottomContainer$btnEditOk" value="OK" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$homeBottomContainer$btnEditOk&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_homeBottomContainer_btnEditOk" class="Hidden" />
+
+        </div>
+    <!--footer end-->
+    </div>
+    <script type="text/javascript" src="/tools/JScript/index.js"></script>
+    <div id="fixmetoo">
+        <a onclick="backToTop(); return false" href="#"><img src='/tools/Img/Common/go_top.gif' alt='このページの先頭へ' title='このページの先頭へ' /></a>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>

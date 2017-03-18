@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+	<head>
+		<base href="http://www.kanbekasei.co.jp/__plusblue__/">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>404 Not Found</title>
+		<meta http-equiv="Content-Script-Type" content="text/javascript">
+		<meta http-equiv="Content-Style-Type" content="text/css">
+		<link rel="stylesheet" href="_common/css/set.css" type="text/css">
+	</head>
+	<body>
+		<div id="WRAPPER">
+			<div id="ICON"><img src="404.gif"></div>
+			<div id="TITLE">
+				<div class="EN TITLE">404 Not Found</div>
+				<strong>指定されたページ (URL) が見つかりません</strong>
+			</div>
+			<div id="LOGO"><a href="http://domain.plusblue.net/jp/ja/"><img src="_common/img/logo.gif" alt="+blue ドメイン＆ホスティング"></a></div>
+			<img src="_common/img/separater.gif"><br>
+			<p class="ERR_DETAIL">
+				<strong>ページが表示されない原因として、以下の状況が考えられます</strong>
+				<br>
+				・指定されたページが削除された (サーバ上に存在しない) 可能性があります。
+				<br>
+				・指定されたページのファイル名が変更されている可能性があります。
+				<br>
+				・指定されたページが現在利用できない状況にある可能性があります。
+				<br>
+				<br>
+				<br>
+			</p>
+			<p class="ERR_DETAIL">
+				<strong>以下の事をお試しください</strong>
+				<br>
+				・ページアドレス (URL) をご確認のうえ、正しいページアドレス (URL) を入力してみてください。
+				<br>
+				・ブラウザの「<a href="/company_info/sales_data/bar_graph.gif" onClick="location.reload(true); return false;">更新ボタン</a>」をクリックして、再度ページの読み込みを行ってみてください。
+				<br>
+				<br>
+				<br>
+			</p>
+			<p class="ERR_DETAIL">
+				<strong>+blue サービスをご利用中のユーザ様へ</strong>
+				<br>
+				・サイト内、あるいは外部からのリンク先アドレスをご確認ください。
+				<br>
+				・ディレクトリ名やファイル名に大文字と小文字が含まれている場合はリンク先のファイルと同じかご確認ください。
+				<br>
+				(サーバ内では、大文字と小文字は区別されます)
+				<br>
+			</p>
+			<img src="_common/img/separater.gif"><br>
+			<div id="COPYRIGHT"><img src="_common/img/copyright.gif"></div>
+		</div>
+	</body>
+</html>

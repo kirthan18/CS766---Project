@@ -1,0 +1,475 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+    
+    
+    
+    
+    
+
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="http://www.aip.de/" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        <meta content="2011-02-11T17:17:52+02:00" name="DC.date.modified" /><meta content="text/html" name="DC.format" /><meta content="Plone Site" name="DC.type" /><meta content="2011-02-11T17:17:52+02:00" name="DC.date.created" /><meta content="en" name="DC.language" />
+<link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.aip.de/" />
+
+  
+    <link rel="stylesheet" type="text/css" href="http://www.aip.de/portal_css/aip.design/base-cachekey-e54cde1e4077c9cd754bd14b28845faf.css" />
+    <style type="text/css" media="screen">@import url(http://www.aip.de/portal_css/aip.design/resourceemergencystyle-cachekey-220cdec76bea27cc612419df03c8a443.css);</style>
+    <style type="text/css" media="screen">@import url(http://www.aip.de/portal_css/aip.design/resourcejquery-ui-themessunburstjqueryui-cachekey-f526b0353b6b7713615f0457b30df177.css);</style>
+    <style type="text/css" media="screen">@import url(http://www.aip.de/portal_css/aip.design/resourcecollective.blogging.staticblogging-cachekey-4df3d7dccb61483df3cbe744b9e60293.css);</style>
+    <style type="text/css">@import url(http://www.aip.de/portal_css/aip.design/resourcecontentleadimage-cachekey-51f658c3bcc396968b98b0951580ac19.css);</style>
+    <link rel="stylesheet" type="text/css" href="http://www.aip.de/portal_css/aip.design/resourcecollective.js.fullcalendarfullcalendar-cachekey-f55cd75a71828188b1ce64e0ca0cd490.css" />
+    <style type="text/css">@import url(http://www.aip.de/portal_css/aip.design/resourcecollective.js.colorpicker-cachekey-39fd1bb292fe350d32d302ed8c8355c6.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://www.aip.de/portal_css/aip.design/resourceaip_base-cachekey-3d27453620886c8f4ad8eec786788a86.css" />
+
+  
+    <link rel="stylesheet" data-rel="kinetic-stylesheet" type="text/kss" href="http://www.aip.de/portal_kss/aip.design/resourcetinymce.ksstinymce-cachekey-f4f40f8831022a533280f8501b13194e.kss" />
+    <link rel="stylesheet" data-rel="kinetic-stylesheet" type="text/kss" href="http://www.aip.de/portal_kss/aip.design/at-cachekey-292f11388ecbc226b9624b75eae4b4d4.kss" />
+  
+    <script type="text/javascript" src="http://www.aip.de/portal_javascripts/aip.design/resourceplone.app.jquery-cachekey-f12f228a5ac966d69db7c11818bdcff4.js"></script>
+    <script type="text/javascript" src="http://www.aip.de/portal_javascripts/aip.design/resourcedropdown-menu-cachekey-af04db82de22d7e3c6433f6c288fd534.js"></script>
+    <script type="text/javascript" src="http://www.aip.de/portal_javascripts/aip.design/resourcejquery-ui.min-cachekey-2513600635efe21619c4cbdd4507683d.js"></script>
+    <script type="text/javascript" src="http://www.aip.de/portal_javascripts/aip.design/resourcecollective.blogging.staticblogging-cachekey-7f3d7849175d795a933b31c55bcf3483.js"></script>
+    <script type="text/javascript" src="http://www.aip.de/portal_javascripts/aip.design/resourcecollective.js.fullcalendarfullcalendar.min-cachekey-004a3fdaee908053f6c702a2be8135b6.js"></script>
+    <script type="text/javascript" src="http://www.aip.de/portal_javascripts/aip.design/resourcecollective.js.colorpicker.jseye-cachekey-66c8bf580dae1cc5276e9460bed44d1f.js"></script>
+    <script type="text/javascript" src="http://www.aip.de/portal_javascripts/aip.design/collective.js.jqueryui.custom.min-cachekey-b4b999ab303d4e655bd4217fd0976ae1.js"></script>
+    <script type="text/javascript" src="http://www.aip.de/portal_javascripts/aip.design/++resource++aip_calendar_tweaks.js"></script>
+    <script type="text/javascript" src="http://www.aip.de/portal_javascripts/aip.design/++resource++css_browser_selector.js"></script>
+    <script type="text/javascript" src="http://www.aip.de/portal_javascripts/aip.design/aipCustom-cachekey-6baf08ca25ae6b83182f6166eab75bea.js"></script>
+
+
+<title>AIP</title>
+        
+    <link rel="author" href="http://www.aip.de/author/" title="Author information" />
+
+
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.aip.de/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://www.aip.de/touch_icon.png" />
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+            }
+        });
+        </script>
+
+
+
+
+    <link rel="search" href="http://www.aip.de/en/@@search" title="Search this site" />
+
+
+
+        
+        
+        
+        
+        
+
+        <meta name="viewport" content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666" />
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+</head>
+
+<body class="template-default_error_message portaltype-plone-site site-LAIP icons-on" dir="ltr">
+
+<div id="visual-portal-wrapper">
+
+        <div id="portal-top" class="row">
+<div class="cell width-full position-0">
+            <div id="portal-header">
+    <div id="portal-personaltools-wrapper">
+
+<p class="hiddenStructure">Personal tools</p>
+
+
+
+<ul class="actionMenu deactivated" id="portal-personaltools">
+  <li id="anon-personalbar">
+    
+        <a href="http://www.aip.de/login" id="personaltools-login">Log in</a>
+    
+  </li>
+</ul>
+
+</div>
+
+<ul id="portal-siteactions">
+
+    <li id="siteaction-contact"><a href="http://www.aip.de/en/institute/contact" accesskey="9" title="Contact">Contact</a></li>
+    <li id="siteaction-impressum"><a href="http://www.aip.de/en/impressum" accesskey="" title="Impressum">Impressum</a></li>
+    <li id="siteaction-internal"><a href="http://intra.aip.de/verwaltung/" accesskey="" title="Internal">Internal</a></li>
+    <li id="siteaction-privacy_stmt"><a href="http://www.aip.de/en/impressum/Data-Protection-Statement" accesskey="" title="Data Protection Statement">Data Protection Statement</a></li>
+</ul>
+
+<div id="portal-searchbox">
+
+    <form id="searchGadget_form" action="http://www.aip.de/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="searchGadget">Search Site</label>
+
+        <input name="SearchableText" type="text" size="18" title="Search Site" placeholder="Search Site" accesskey="4" class="searchField" id="searchGadget" />
+
+        <input class="searchButton" type="submit" value="Search" />
+
+        <div class="searchSection">
+            <input id="searchbox_currentfolder_only" class="noborder" type="checkbox" name="path" value="/LAIP" />
+            <label for="searchbox_currentfolder_only" style="cursor: pointer">
+                only in current section
+            </label>
+        </div>
+
+        <div class="LSResult" id="LSResult"><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://www.aip.de/@@search" accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+
+<ul id="portal-languageselector">
+    
+    <li class="currentLanguage language-en">
+        <a href="http://www.aip.de/~weber/doc/jpgraph/docs/html/img/horizbarex4.png?set_language=en" title="English">English</a>
+    </li>
+    
+    
+    <li class="language-de">
+        <a href="http://www.aip.de/~weber/doc/jpgraph/docs/html/img/horizbarex4.png?set_language=de" title="Deutsch">Deutsch</a>
+    </li>
+    
+</ul>
+
+
+<a id="portal-logo" title="Home" accesskey="1" href="/LAIP">
+
+    <img src="aip_logo.png" />
+
+</a>
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav"><li id="portaltab-index_html" class="selected"><a href="http://www.aip.de" class="plain" title="">Home</a></li></ul>
+
+
+<div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <span id="breadcrumbs-home">
+        <a href="http://www.aip.de">Home</a>
+        
+    </span>
+
+</div>
+
+<span class="aipDocumentActions">
+   <a href="javascript:this.print();">
+    Print this
+   </a>
+    <img src="print_icon.png" />
+   <a href="#">
+<!--
+   |&nbsp;
+-->
+   &nbsp;
+   </a>
+<!-- wrong link (ASA)
+   <a href="/LAIP/en/news/RSS" i18n:translate="RSS feed">
+    RSS Feed 
+   </a>
+    <img src="rss.png" />
+-->
+</span>
+
+<div id="social-icons">
+    <a target="_blank" href="http://www.facebook.com/pages/Leibniz-Institut-für-Astrophysik-Potsdam-AIP/123128807768679">
+    </a>
+    <a target="_blank" href="http://twitter.com/AIP_Potsdam">
+    </a>
+</div>
+
+</div>
+
+</div>
+        </div>
+    <div id="portal-columns" class="row">
+
+        <div id="portal-column-content" class="cell width-full position-0">
+
+            <div id="viewlet-above-content"></div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+        
+
+            
+
+                
+
+                <h1 class="documentFirstHeading">These webpages are currently remodelled... </h1>
+
+                <div id="content-core">
+                    <p class="documentFirstHeading">We apologize for the inconvenience, but the page you were trying to access is not available at this address anymore.<br>All AIP webpages are currently transferred to a new system.<br>It is possible that this page is still on our old Webserver, please try:</p>
+                    <a alt="old site" href="http://old.aip.de/%7Eweber/doc/jpgraph/docs/html/img/horizbarex4.png">http://old.aip.de/%7Eweber/doc/jpgraph/docs/html/img/horizbarex4.png</a>
+
+                    <p>
+                        If you are certain you have the correct web address but are encountering an error, please
+                        contact the <span> <a href="http://www.aip.de/contact-info">Site Administration</a></span>.
+                    </p>
+
+                    <p>
+                    Thank you.
+                    </p>
+                    <!-- Offer search results for suggestions -->
+                    
+
+                        <h3>You might have been looking for&hellip;</h3>
+
+                        <dl>
+
+                        
+
+                        
+                            
+                                <dt class="contenttype-folder">
+                                  
+                                   <a href="http://www.aip.de/en/research/facilities/stella/stella-news/img" class="state-external">img</a>
+
+                                    <span class="discreet">
+                                    by tgranzer,
+                                    Apr 12, 2016 11:27 AM
+                                    </span>
+
+                                </dt>
+
+                                <dd></dd>
+
+                            
+                        
+                        
+                            
+                                <dt class="contenttype-image">
+                                  <img width="16" height="16" src="http://www.aip.de/image.png" alt="Image" />
+                                   <a href="http://www.aip.de/en/press/press-releases-2011/press-releases-until-2010/Mitt/IMG_3420.jpg/view" class="state-external">IMG 3420</a>
+
+                                    <span class="discreet">
+                                    by hanschur,
+                                    Oct 17, 2014 11:17 AM
+                                    </span>
+
+                                </dt>
+
+                                <dd></dd>
+
+                            
+                        
+                        
+                            
+                                <dt class="contenttype-news-item">
+                                  
+                                   <a href="http://www.aip.de/en/news/press/STIX" class="state-external">Closer to the Sun than ever</a>
+
+                                    <span class="discreet">
+                                    by gschoenherr,
+                                    Oct 05, 2011 05:06 PM
+                                    </span>
+
+                                </dt>
+
+                                <dd>5 October 2011. Scientists in Potsdam are preparing for the start of ESA’s “Solar Orbiter” mission</dd>
+
+                            
+                        
+                        
+                            
+                                <dt class="contenttype-file">
+                                  <img width="16" height="16" src="http://www.aip.de/pdf.png" alt="File" />
+                                   <a href="http://www.aip.de/en/institute/intern/facilities/sab-archive/sab-2009/2009-documents/a9c-harnessing-power-web.pdf/view" class="state-inhouse">A9c Harnessing Power Web</a>
+
+                                    <span class="discreet">
+                                    by hanschur,
+                                    Oct 02, 2015 10:48 AM
+                                    </span>
+
+                                </dt>
+
+                                <dd>HARNESSING THE POWER of DIGITAL DATA for SCIENCE AND SOCIETY</dd>
+
+                            
+                        
+                        
+                            
+                                <dt class="contenttype-file">
+                                  <img width="16" height="16" src="http://www.aip.de/pdf.png" alt="File" />
+                                   <a href="http://www.aip.de/en/research/research-area-cmf/cosmic-magnetic-fields/mhd/publications/03/zie03-2.pdf/view" class="state-external">Zie03 2</a>
+
+                                    <span class="discreet">
+                                    by bsa,
+                                    Jan 25, 2012 10:30 AM
+                                    </span>
+
+                                </dt>
+
+                                <dd></dd>
+
+                            
+                        
+                        
+                            
+                                <dt class="contenttype-file">
+                                  <img width="16" height="16" src="http://www.aip.de/pdf.png" alt="File" />
+                                   <a href="http://www.aip.de/en/research/research-area-cmf/cosmic-magnetic-fields/solar-physics/optical-solar-physics/publications/kummerow2015.pdf/view" class="state-external">Philipp Kummerow Master Thesis</a>
+
+                                    <span class="discreet">
+                                    by cdenker,
+                                    Mar 16, 2015 03:38 PM
+                                    </span>
+
+                                </dt>
+
+                                <dd></dd>
+
+                            
+                        
+                        
+                            
+                                <dt class="contenttype-file">
+                                  <img width="16" height="16" src="http://www.aip.de/pdf.png" alt="File" />
+                                   <a href="http://www.aip.de/en/research/research-area-cmf/cosmic-magnetic-fields/solar-physics/optical-solar-physics/publications/andrea-diercke-master-thesis/view" class="state-external">Andrea Diercke Master Thesis</a>
+
+                                    <span class="discreet">
+                                    by cdenker,
+                                    Nov 30, 2016 01:23 PM
+                                    </span>
+
+                                </dt>
+
+                                <dd></dd>
+
+                            
+                        
+                        
+                            
+                                <dt class="contenttype-file">
+                                  <img width="16" height="16" src="http://www.aip.de/pdf.png" alt="File" />
+                                   <a href="http://www.aip.de/en/institute/reports/files/jahresbericht-1998/view" class="state-external">Jahresbericht 1998</a>
+
+                                    <span class="discreet">
+                                    by hanschur,
+                                    Oct 24, 2011 02:42 PM
+                                    </span>
+
+                                </dt>
+
+                                <dd></dd>
+
+                            
+                        
+
+                        </dl>
+
+                    
+                </div>
+            
+
+        
+
+        
+        
+
+
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+</div>
+        </div>
+
+        
+        
+
+        
+        
+    </div>
+
+
+    <div id="portal-footer-wrapper" class="row">
+        <div class="cell width-full position-0">
+            <script type="text/javascript" src="http://bulk.aip.de/sys/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<div class="row">
+    <div class="cell width-full position-0">
+
+        <div id="portal-footer">
+            <ul>
+                <li>
+                    <a href="http://www.leibniz-gemeinschaft.de/" title="Leibniz-Gemeinschaft">
+                    </a>
+                </li>
+                <li class="adress de">
+                    <span>Leibniz Institute for Astrophysics, An der Sternwarte 16, 14482 Potsdam, Germany, Tel: +49-331-7499-0</span>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+</div>
+
+            <div id="kss-spinner">
+                <img alt="" src="http://www.aip.de/spinner.gif" />
+            </div>
+        </div>
+    </div>
+
+
+
+</div>
+</body>
+</html>
+
+
+

@@ -1,0 +1,280 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>AquaFold - Tools for Software & Database Professionals</title>
+    <meta name="description" content="AquaFold builds tools for Software & Database Professionals to Collaborate, Analyze and Innovate.  Over 300,000 users worldwide.">
+    <meta name="keywords" content="aqua data studio, aqua data server, aquaclusters, tools for it professionals, database tools, tools for software professionals, tools for software developers, database software, analytics software, reporting software, universal dba tools, business intelligence tools, collaboration software">
+    <meta name="robots" content="noodp,noydir" />
+    <link rel="SHORTCUT ICON" href="http://www.aquafold.com/favicon.ico" />
+    <link rel='stylesheet' href='style/bootstrap/css/bootstrap.css'>
+	<link rel='stylesheet' href='style/lightbox.css'>
+	<link rel="stylesheet" href="style/ac.css">	
+
+    <style type="text/css">
+<!--
+.style12 {font-size: 16px}
+
+
+
+-->
+
+A:visited {text-decoration: none}
+A:hover {text-decoration: underline}
+
+
+
+</style>
+<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.js"></script>
+
+
+<script type="text/javascript"  >
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-3163490-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+
+
+
+<body>
+<div class="container">
+<!--Start Header-->
+
+
+
+
+  <!-- Navbar
+    ================================================== -->
+    <div class="navbar navbar-fixed-top">
+
+      <div class="navbar-inner">
+        <div class="container">
+
+    <a class="brand" href="#" >
+	    <img src="images/aquafold_logo_blue_bubbles.png" />
+    </a>
+          <div class="nav-collapse" >
+            <ul class="nav">
+              <li class="">
+                <a href="aquadatastudio.html">Aqua Data Studio</a>
+              </li>
+              <li class="">
+                <a href="aquadataserver.html">Aqua Data Server</a>
+              </li>
+
+              <li class="">
+                <a href="aquaclusters.html">AquaClusters</a>
+              </li>
+</ul>
+<ul class="nav pull-right">
+              <li>
+                <a href="support.html">Support</a>
+              </li>
+              <li>
+                <a href="store.html">Buy</a>
+
+              </li>
+              <li>
+                <a href="company.html" class="company">Company</a>
+              </li>
+
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+<!-- END top navigation Dec 2007 -->
+
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" >
+
+<tr>
+ <td valign="top" style="background-color:whitesmoke;padding:10px 20px 10px 20px;border-bottom-left-radius:6px;border-top-left-radius:6px">
+
+    <h3>Tools for Software Professionals to Collaborate, Analyze and Innovate</h3> 
+    <p>AquaFold builds tools that help you deliver innovative solutions to real world problems using our database, collaborative and analytics products.</p>
+	<p>Our social collaboration network helps you connect with your distributed team to build software products. Our database and analytics software allows you to develop and deploy cost effective analytics and reporting solutions.</p>
+    <p>Learn more about our products</p>
+
+<a href="aquadatastudio.html" class="prodlink">Aqua Data Studio</a><span class="label label-warning">Just Released: 18.0</span>
+<br />
+<br />
+<a href="aquadataserver.html" class="prodlink">Aqua Data Server</a><span class="label label-warning">Just Released: 18.0</span>
+<br />
+<br />
+<a href="aquaclusters.html" class="prodlink">AquaClusters</a>
+<br />
+<br />
+
+</td >
+
+ <td valign="top" style="background-color:whitesmoke;padding:20px 20px 10px 20px;border-bottom-right-radius:6px;border-top-right-radius:6px;">
+ 
+ <div id="adstudioCarousel" class="carousel slide" data-interval="5000" >
+ <!-- carousel items -->
+       <div class="carousel-inner drop-shadow"  style="width:476px;">
+		   <div class="active item">
+<a href="aquadatastudio.html"><img src="images/aquadatastudio_476x300.png" style="width:476px;height:300px;border:0px;" alt="Aqua Data Studio"  title="Aqua Data Studio" />
+				<div class="carousel-caption" style="text-align:center;">
+				<p>Aqua Data Studio</p>
+				</div></a>
+		  </div> 
+		   <div class="item">
+<a href="aquadatastudio/visual_analytics.html"><img src="aquadatastudio/diagrams/screenshot_visual_analytics_476x300.png" style="width:476px;height:300px;border:0px;" alt="Aqua Data Studio - Visual Analytics"  title="Aqua Data Studio - Visual Analytics" />
+				<div class="carousel-caption" style="text-align:center;">
+				<p>Aqua Data Studio - Visual Analytics</p>
+				</div></a>
+		  </div> 
+		  <div class="item">
+<a href="aquadataserver.html"><img src="images/screenshots/aquadataserver_company_revenue_workspace_tabs_476x301.png" style="width:476px;height:300px;border:0px" alt="Aqua Data Server" title="Aqua Data Server" />
+				<div class="carousel-caption" style="text-align:center;">
+				<p>Aqua Data Server</p>
+				</div></a>
+		  </div> 
+		  <div class="item">
+<a href="aquaclusters.html"><img src="images/aquaclusters.png" style="width:476px;height:300px;border:0px" alt="AquaClusters" title="AquaClusters" />
+				<div class="carousel-caption" style="text-align:center;">
+				<p>AquaClusters</p>
+				</div></a>
+		  </div> 
+</div>
+	  
+ <!-- Carousel nav -->
+ <a class="carousel-control left" href="#adstudioCarousel" data-slide="prev" style="margin-left:408px;margin-top:182px;width:20px;height:20px;font-size:24px;line-height:17px">&lsaquo;</a>
+ <a class="carousel-control right" href="#adstudioCarousel" data-slide="next" style="margin-right:-18px;margin-top:182px;width:20px;height:20px;font-size:24px;line-height:17px">&rsaquo;</a>
+ </div>
+
+</td>
+ </tr>
+</table>
+
+<a href="company_customers.html" style="text-decoration:none;" title="AquaFold Customers">
+<div style="border:none 0px;">
+<table class="table front">
+<tr >
+  <td class="rightgutter">
+ <span style="font-size:14px;padding-bottom:0px;margin-bottom:0px;color:black;"> More than <span style="color:#5291c1">300,000 users</span> from <span style="color:#5291c1">98</span> countries use <span style="color:#5291c1">AquaFold</span> tools for collaboration and development. 
+ </span>
+  </td>
+  <td>  <img src="http://dd1.aquafold.com/images/hsbc_logo.png"  border="0" style="margin-bottom:8px;max-width:none;"/>  </td>
+  <td>  <img src="http://dd1.aquafold.com/images/royal_bank_of_scotland_logo.png"  border ="0" style="margin-bottom:2px;max-width:none;"/>  </td>
+  <td>  <img src="images/linkedin_logo_109x30.png"  border="0" style="margin-bottom:4px;max-width:none;"/>  </td>
+  
+  </tr> 
+</table>
+</div>
+</a>
+<br class="clearall">
+<div class="row">
+<div class="span3">
+<div class="well front" style="min-height:300px;">
+<strong>Replace 38 Standalone Tools with a Single Integrated Solution Suitable for</strong>
+<br><br>
+Database Administrators<br><br>
+Software Developers<br><br>
+Quality Assurance Engineers<br><br>
+Data/Business Analysts<br><br>
+Learn more about :<br> 
+<a href="aquadatastudio.html">Aqua Data Studio</a>
+</div>
+</div>
+<div class="span3">
+<div class="well front" style="min-height:300px;">
+<strong>Automate Routine Database Operations with AquaScripts</strong>
+<br><br>
+<a href ="aquadataserver/on-demand-and-automated-business-reports.html">On-Demand & Automated Business Reports</a><br><br>
+<a href ="aquadataserver/custom-business-intelligence-dashboards.html">Custom Business Intelligence Dashboards</a><br><br>
+<a href ="aquadataserver/custom-data-mining-and-analytics.html">Custom Data Mining and Analytics</a><br><br>
+<a href ="aquadataserver/scheduled-automated-unit-tests.html">Scheduled Automated Unit Tests</a>
+</div>
+</div>
+<div class="span3">
+<div class="well front" style="min-height:300px;">
+ <strong>Build Custom Database Solutions with Aqua Open APIs </strong><br><br>
+<a href ="aquadataserver/data-warehousing-etl-solutions.html">Data Warehousing ETL Solutions</a><br><br>
+<a href ="aquadataserver/scheduled-data-export-import.html">Scheduled Data Export/Import</a><br><br>
+<a href ="aquadataserver/cross-database-dbms-data-migrations.html">Cross-DBMS Data Migration</a><br><br>
+<a href ="aquadataserver/scheduled-automated-unit-tests.html">Scheduled Automated Unit Tests</a>
+</div>
+</div>
+<div class="span3">
+<div class="well front" style="min-height:300px;">
+  <strong>Explore AquaScript Potential with Code Examples and Tutorials</strong><br><br>
+<a href ="aquadataserver/financial-overlays.html">Financial Overlays and Technical Indicators</a><br><br>
+<a href ="aquadataserver/portfolio-management.html">Portfolio Management and Risk Analysis Charts</a><br><br>
+<a href ="aquaproject_solutions_examples.html">Database Schema and Data Exporter and Compare</a><br><br>
+<a href ="aquaproject_solutions_examples.html">"Hello, World!" with AquaScript</a>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+<!--Start Footer-->
+<div class="copyfooter">
+	<p style="float:left;padding-left:0px">
+		<a href="index.html">
+		Home
+		</a>
+		&#149;
+		<a href="aquadatastudio.html">
+		Aqua Data Studio
+		</a>
+		&#149;
+		<a href="aquadataserver.html">
+		Aqua Data Server
+		</a>
+		&#149;                    
+		<a href="aquaclusters.html">
+		AquaClusters
+		</a>
+		&#149;   
+		<a href="support.html">
+		Support
+		</a>
+		&#149;
+		<a href="store.html">
+		Buy
+		</a>
+
+		&#149;
+		<a href="company.html">
+		Company
+		</a>
+		&#149;
+		<a href="http://www.aquafold.com/privacy.html">
+		Privacy
+		</a>
+	</p>
+	<p style="display:block;float:right;text-align:right;padding-right:0px;">
+	Copyright &copy; 2001&ndash;2017 AquaFold, Inc. All Rights Reserved.
+	</p>
+</div>
+<br />
+<div style="clear:both;float:left">
+<p style="font-size:10px;">
+<a href="http://www.google.com/+aquadatastudio" rel="publisher">Find us on Google+</a></p>
+<!--End Footer-->
+</div>
+
+</div>
+</body>
+</html>

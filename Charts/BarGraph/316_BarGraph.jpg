@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<title>404 - nicht gefunden/not found | TU Chemnitz</title>
+<meta charset="utf-8" />
+<meta name="author" content="Webmaster" />
+<meta name="dcterms.coverage" content="Worldwide" />
+<meta name="dcterms.modified" content="2017-03-07" />
+<meta name="dcterms.rightsHolder" content="Technische Universit&auml;t Chemnitz" />
+<meta name="description" content="404 - nicht gefunden/not found" />
+<meta name="geo.country" content="de" />
+<meta name="keywords" content="TU Chemnitz, Technische Universit&auml;t Chemnitz" />
+<meta name="revisit-after" content="5 days" />
+<meta name="robots" content="index, follow" />
+<meta name="theme-color" content="#005e58">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1">
+<link rel="alternate" type="application/atom+xml" title="Uni aktuell - Die Nachrichten der TU Chemnitz" href="https://www.tu-chemnitz.de/uk/pressestelle/aktuell/aktuell.rss" />
+<link rel="shortcut icon" href="/tucal4/img/tuc.png" />
+<link rel="stylesheet" type="text/css" href="/tucal4/css/tucal4.css?201702230850" />
+<link rel="stylesheet" type="text/css" href="/tucal4/css/hs.css" />
+<noscript><link rel="stylesheet" type="text/css" href="/tucal4/css/noscript.css" /></noscript>
+<script src="https://www.tu-chemnitz.de/static/jquery/1.11/jquery.min.js" type="text/javascript"></script>
+<script src="https://www.tu-chemnitz.de/static/jquery-ui/1.11/jquery-ui.min.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="https://www.tu-chemnitz.de/static/jquery-ui/1.11/themes/smoothness/jquery-ui.min.css" />
+<!--[if lte IE 9]>
+<link rel="stylesheet" type="text/css" href="/tucal4/css/ie-fix.css" />
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="/tucal4/js/respond.min.js" type="text/javascript"></script>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('main');
+document.createElement('section');
+document.createElement('article');
+document.createElement('footer');
+</script>
+<![endif]-->
+</head>
+<body class="class-tuc">
+<header>
+	<h1 class="sr-only" id="header">Navigation</h1>
+	<a href="#top" class="sr-only">Inhalt</a>
+	<a href="#shortcuts" class="sr-only" lang="en">Hotkeys</a>
+	<div id="tucal-search">
+		<div class="container">
+			<nav>
+				<div class="row">
+					<div id="tucal-topbar" class="col-xs-8 collapse">
+						<h2 class="sr-only">Direktlinks</h2>
+						<ul class="nav navbar-nav navbar-right">
+							<li class="dropdown">
+								<a class="dropdown-toggle tucal-searchbar" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Direktlinks&nbsp;</a>
+								<ul id="tucal-shortcuts" class="dropdown-menu">
+									<li class="menu-caption"><a href="/tu/">Universit&auml;t</a></li>
+									<li><a href="/tu/lageplan/">Campusplan</a></li>
+									<li><a href="/tu/personen.html">Personen: Telefon, E-Mail</a></li>
+									<li class="extern"><a href="https://www.swcz.de/bilderspeiseplan/">Mensa-Speiseplan</a></li>
+									<li class="menu-caption"><a href="/studium/">Studium</a></li>
+									<li><a href="/studentenservice/">Studentenservice</a></li>
+									<li><a href="/beratung">Beratung und Betreuung</a></li>
+									<li><a href="/verwaltung/vlvz/">Vorlesungsverzeichnis</a></li>
+									<li><a href="/e-learning/">E-Learning</a></li>
+									<li class="extern"><a href="http://opal.sachsen.de/TUC">OPAL-Lernplattform</a></li>
+									<li><a href="/usz/">Universit&auml;tssport</a></li>
+									<li><a href="http://www.stura.tu-chemnitz.de/">Studentenrat</a></li>
+									<li class="extern"><a href="https://www.swcz.de/">Studentenwerk</a></li>
+									<li><a href="/career-service/jobboerse/">Jobb&ouml;rse</a></li>
+									<li class="menu-caption"><a href="/urz/dienste.php?group=Kommunikation">Netzdienste</a></li>
+									<li><a href="https://mail.tu-chemnitz.de/">Webmail</a></li>
+									<li><a href="http://dict.tu-chemnitz.de/">BEOLINGUS-W&ouml;rterbuch</a></li>
+									<li><a href="/urz/network/access/wlan.html">WLAN</a></li>
+								</ul>
+							</li>
+							<li><a href="https://www.tu-chemnitz.de/tu/home/wtc?prev=https://www.tu-chemnitz.de/phil/ipp/elearning/studentenprojekte/Lernprogramm_Bild/Bilder/Diagramm_1.jpg" title="Am Web-Trust-Center anmelden" rel="nofollow">Anmelden</a></li>
+							<li><a class="tucal-searchbar" href="/tu/kontakt.php" accesskey="k">Kontakt</a></li>
+						</ul>
+					</div>
+					<div id="tucal-searchxs" class="col-xs-4 collapse no-spacing"><a class="collapse-toggle collapsed" href="#tucal-searchfield" title="Suchen" data-toggle="collapse"></a>
+						<div id="tucal-searchfield" class="collapse" role="region">
+							<h2 class="sr-only">Suchen</h2>
+							<form id="tucal-searchform" class="navbar-form navbar-left collapse navbar-collapse" role="search" autocomplete="off" action="https://www.google.de/search" onsubmit="return tuc_search('tucal-searchtype', 'tucal-searchword', 'de', true);" method="get">
+							<div class="form-group"><fieldset>
+								<legend class="invisible">Suche im Online-Angebot der TU Chemnitz</legend>
+								<label class="invisible" for="tucal-searchword">Suchwort</label>
+								<input type="hidden" name="oe" value="UTF-8" />
+								<input type="hidden" name="as_sitesearch" value=".tu-chemnitz.de" />
+								<input type="hidden" name="hl" value="de" />
+								<input type="hidden" name="lr" value="lang_de" />
+								<input id="tucal-searchword" accesskey="s" class="form-control" type="text" name="as_q" placeholder="Suchwort" />
+								<ul id="tucal-searchtype" class="list-unstyled">
+                  <li>
+                    <input id="tucal-st1" name="t" type="radio" value="text" checked="checked" />
+                    <label for="tucal-st1">Volltext (via Google)</label>
+                  </li>
+                  <li>
+                    <input id="tucal-st2" name="t" type="radio" value="pers" />
+                    <label for="tucal-st2">Personen (Telefon, E-Mail)</label>
+                  </li>
+                  <li>
+                    <input id="tucal-st3" name="t" type="radio" value="uakt" />
+                    <label for="tucal-st3">Uni aktuell</label>
+                  </li>
+                  <li>
+                    <input id="tucal-st4" name="t" type="radio" value="opac" />
+                    <label for="tucal-st4">Bibliothekskatalog</label>
+                  </li>
+                  <li>
+                    <input id="tucal-st5" name="t" type="radio" value="beol" />
+                    <label for="tucal-st5">Beolingus-W&ouml;rterbuch</label>
+                  </li>
+                  <li>
+                    <input id="tucal-st6" name="t" type="radio" value="goog" />
+                    <label for="tucal-st6">Websuche mit Google</label>
+                  </li>
+								</ul>
+								<button class="btn btn-default" type="submit" name="s" title="Suchen"><span class="invisible">Suchen</span></button>
+							</fieldset></div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</nav>
+		</div>
+	</div>
+	<div id="tucal-printhead" class="visible-print">
+		<div>
+			<div>
+				<div class="tucal-printlogo">
+					<img src="/tucal4/img/logo.svg" title="Technische Universit&auml;t Chemnitz" alt="" />
+				</div>
+				<div class="tucal-printtitle">
+					<strong></strong><br />
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="tucal-head" class="hidden-print">
+		<nav class="navbar navbar-default">
+			<h2 class="sr-only">Hauptnavigation</h2>
+			<div class="container">
+				<div id="tucal-headlogoplaceholder" class="navbar-header">
+					<a id="tucal-headbutton" class="navbar-toggle" href="#" data-toggle="collapse" aria-haspopup="true" aria-expanded="false" aria-label="Schalte Hauptnavigation ein/aus" data-target="#tucal-headnavigation, #tucal-topbar, #tucal-searchform, #tucal-searchxs">
+						<div>
+							<div>
+								<div></div>
+								<div></div>
+								<div></div>
+							</div>
+						</div>
+					</a>
+					<div id="tucal-headlogoborder" class="col-sm-3">
+						<a href="/" accesskey="h"><span class="sr-only">Link zur Startseite</span><img src="/tucal4/img/logo.png" id="tucal-headlogo" alt="Logo: TU Chemnitz"></a>
+					</div>
+					<div id="tucal-headnavigation" class="col-sm-9 collapse navbar-collapse">
+						<ol class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Universit&auml;t</a><ul class="dropdown-menu">
+							<li><a href="/tu/struktur.php">Organisation</a></li>
+							<li><a href="/tu/fakten.php">Fakten und Zahlen</a></li>
+							<li><a href="/rektorat/">Rektorat</a></li>
+							<li><a href="/tu/lageplan/">Campusplan</a></li>
+							<li><a href="/uk/">Universit&auml;tskommunikation &middot; Pressestelle</a></li>
+							<li><a href="/tu/stellen.php">Stellenausschreibungen</a></li>
+							<li><a href="/verwaltung/">Zentrale Verwaltung</a></li>
+							<li><a href="/diversity/">Gender und Diversity</a></li>
+							<li><a href="/verwaltung/gremien/">Organe, Gremien, Vertretungen und Beauftragte</a></li>
+							<li><a href="/tu/familie/">Familiengerechte Hochschule</a></li>
+						</ul></li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown"  aria-expanded="false" aria-haspopup="true">Fakult&auml;ten</a><ul class="dropdown-menu">
+							<li><a href="/naturwissenschaften/">Naturwissenschaften</a></li>
+							<li><a href="/informatik/">Informatik</a></li>
+							<li><a href="/mathematik/">Mathematik</a></li>
+							<li><a href="/wirtschaft/">Wirtschaftswissenschaften</a></li>
+							<li><a href="/mb/">Maschinenbau</a></li>
+							<li><a href="/phil/">Philosophische Fakult&auml;t</a></li>
+							<li><a href="/etit/">Elektrotechnik und Informationstechnik</a></li>
+							<li><a href="/hsw/">Human- und Sozialwissenschaften</a></li>
+						</ul></li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown"  aria-expanded="false" aria-haspopup="true">Zentrale Einrichtungen</a><ul class="dropdown-menu">
+							<li><a href="/MERGE/index.php.de">Exzellenzcluster MERGE</a></li>
+							<li><a href="/hds/">Hochschuldidaktisches Zentrum Sachsen</a></li>
+							<li><a href="/international/">Internationales Universit&auml;tszentrum</a></li>
+							<li><a href="/ub/">Universit&auml;tsbibliothek</a></li>
+							<li><a href="/urz/">Universit&auml;tsrechenzentrum</a></li>
+							<li><a href="/sprachenzentrum/">Zentrum f&uuml;r Fremdsprachen</a></li>
+							<li><a href="/zlb/">Zentrum f&uuml;r Lehrerbildung</a></li>
+							<li><a href="/zfwn/">Zentrum f&uuml;r den wissenschaftlichen Nachwuchs</a></li>
+							<li><a href="/transfer/zwt/">Zentrum f&uuml;r Wissens- und Technologietransfer</a></li>
+						</ul></li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown"  aria-expanded="false" aria-haspopup="true">Studium</a><ul class="dropdown-menu">
+							<li><a href="/studentenservice/zsb/schuelerbewerber.php">Sch&uuml;ler &amp; Bewerber</a></li>
+							<li><a href="/studentenservice/zsb/studiengaenge/">Studienm&ouml;glichkeiten</a></li>
+							<li><a href="/studentenservice/zsb/studierende.php">Studierende</a></li>
+							<li><a href="/studentenservice/">Studentenservice</a></li>
+							<li><a href="/transfer/wissen/weiterbildung.php">Weiterbildungs&shy;interessierte</a></li>
+							<li><a href="/career-service/">Career Service</a></li>
+							<li><a href="/qpl/">Qualit&auml;tspakt Lehre</a></li>
+							<li><a href="/academic-integration/">Akademische Integration</a></li>
+						</ul></li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown"  aria-expanded="false" aria-haspopup="true">International</a><ul class="dropdown-menu">
+							<li><a href="/international/vernetzung/">Networking</a></li>
+							<li><a href="/international/outgoing/">Outgoing</a></li>
+							<li><a href="/international/incoming/">Incoming</a></li>
+							<li><a href="/international/wissenschaftler/welcome-center/">Gastwissenschaftler</a></li>
+							<li><a href="/ac21">AC21 International Forum 2016 <sup>[en]</sup></a></li>
+						</ul></li></ol>
+						<div id="tucal-orgtitle" class="row">
+							<div class="col-xs-12 no-spacing">
+								<div></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+	</div>
+</header>
+
+<strong class="invisible">404 - nicht gefunden/not found | TU Chemnitz</strong>
+<nav id="tucal-breadcrumbs" class="hidden-print"><h2 class="sr-only">Brotkr&uuml;melnavigation</h2>
+	<div class="container">
+		<div id="tucal-breadcrumbrow" class="row">
+			<div class="col-xs-12">
+				<ol class="tucal-breadcrumb"><li><a href="/" title="Homepage">TU Chemnitz</a></li></ol>
+			</div>
+		</div>
+	</div>
+</nav>
+<div id="tucal-content">
+	<div class="container">
+		<div class="row">
+			<div id="tucal-edge" class="col-sm-3 col-xs-12 hidden-print">
+				<nav>
+					<h2 class="sr-only">Seitennavigation</h2>
+					<div id="tucal-edgetoggle">
+						<a href="#" data-toggle="collapse" data-target="#tucal-edgemenu" aria-expanded="false" aria-label="Seitenmen&uuml; ">
+							<div>&nbsp;</div>
+							<div>
+								<div></div>
+								<div></div>
+								<div></div>
+							</div>
+						</a>
+					</div>
+					<div id="tucal-edgemenu" class="collapse">
+						<div id="tucal-pagemenu">
+							<span class="invisible">Seitenmen&uuml;</span>
+							
+						</div>
+					</div>
+				</nav>
+			</div>
+			<div class="col-sm-9 col-xs-12 tucal-canvas" id="top">
+				<div class="row hidden-print">
+					<div class="col-xs-12 page-image">
+						<div class="tucal-aspectratiobox tucal-aspectratio15box">
+							<figure class="tucal-aspectratioboxcontent imgtitle" title="">
+								<img src="https://www.tu-chemnitz.de/haystack2.jpg" alt="" />
+							</figure>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<main class="col-xs-12 page-content">
+
+
+<h1>Fehler 404: Webseite nicht gefunden&thinsp;/&thinsp; Error 404: Web page not found</h1>
+
+<div style="padding-bottom:2em;">
+ <strong>Versuchen Sie folgende Webseiten&thinsp;/&thinsp;Try these web pages:</strong>
+ <ul style="ont-size:1.2em;line-height:1.5em;padding-left:8em"><li><a href="/phil/ipp/elearning/studentenprojekte/Lernprogramm_Bild/Bilder/">/phil/ipp/elearning/studentenprojekte/Lernprogramm_Bild/Bilder</a></li><li><a href="/phil/ipp/elearning/studentenprojekte/Lernprogramm_Bild/">/phil/ipp/elearning/studentenprojekte/Lernprogramm_Bild</a></li><li><a href="/phil/ipp/elearning/studentenprojekte/">/phil/ipp/elearning/studentenprojekte</a></li><li><a href="/phil/ipp/elearning/">/phil/ipp/elearning</a></li><li><a href="/phil/ipp/">/phil/ipp</a></li><li><a href="/phil/">/phil</a></li><li><a href="/">Startseite&thinsp;/&thinsp;start page</a></li></ul>
+</div><div class="tucbox-tip-info">
+<form action="https://www.google.de/search" onsubmit="return tuc_search('404srchtype','404suchen')" method="get" tyle="margin:0px">
+<fieldset>
+ <legend style="font-weight:bold">Suche in der TU Chemnitz&thinsp;/&thinsp;Search in Technische Universit&auml;t Chemnitz</legend>
+ <input type="hidden" name="oe" value="UTF-8" />
+ <input type="hidden" name="as_sitesearch" value="tu-chemnitz.de" />
+<div style="padding:1em">
+ <label for="404suchen">nach&thinsp;/&thinsp;for</label> 
+ <input type="text" id="404suchen" name="q" value="" />
+ <input type="submit" name="suchb" value="Suchen / search" style="font-weight:bold" />
+</div>
+<div id="404srchtype" style="padding-left:5em">
+ <input name="t" type="radio" value="text" id="404st1" checked="checked" /> <label for="404st1">Webseiten (Volltext)&thinsp;/&thinsp;Web pages full text</label><br />
+ <input name="t" type="radio" value="pers" id="404st2" /> <label for="404st2">Personen (Telefon, E-Mail)&thinsp;/&thinsp;People (phone, e-mail)</label><br />
+ <input name="t" type="radio" value="uakt" id="404st3" /> <label for="404st3">Uni aktuell&thinsp;/&thinsp;Uni news</label><br />
+ <input name="t" type="radio" value="opac" id="404st4" /> <label for="404st4">Bibliothekskatalog&thinsp;/&thinsp;Library catalogue</label><br />
+ <input name="t" type="radio" value="beol" id="404st5" /> <label for="404st5">Beolingus-W&ouml;rterbuch&thinsp;/&thinsp;Beolingus dictionary</label><br />
+ <input name="t" type="radio" value="goog" id="404st6" /> <label for="404st6">Websuche mit Google&thinsp;/&thinsp;Web search by Google</label><br />
+</div>
+</fieldset>
+</form>
+</div>
+					</main>				</div>
+				<span id="bottom"></span>
+			</div>
+		</div>
+	</div>
+</div>
+<h1 class="sr-only">Presseartikel</h1>
+<section id="tucal-press" class="hidden-print" aria-label="Uni aktuell">
+	<div class="container">
+		<div class="row">
+			<div id="tucal-pressarticles" class="col-md-9 col-sm-6 col-xs-12" data-news="">
+				<div class="row">
+					<div class="col-xs-12 no-spacing">
+						<h2 class="h3 linie black"><a href="/uk/pressestelle/aktuell/">Uni aktuell</a></h2>
+					</div>
+				</div>
+				<div class="row">
+					<ul class="no-spacing">
+					<li class="col-md-6 col-sm-12 tucal-pressarticlecanvas" data-aid="7847">
+						<div class="tucal-pressarticle">
+							<article>
+								<a href="/uk/pressestelle/aktuell/7847">
+									<div class="col-sm-12 col-xm-6 col-xs-12 no-spacing">
+										<img class="tucal-pressimage" src="/tu/aktuelles/2017/1488805396_16_9-m.jpg" alt="" />
+									</div>
+									<div class="col-sm-12 col-xm-6 col-xs-12 no-spacing">
+										<h3 class="h5 tucal-pressheadline">„Maker Faire“ feiert in Chemnitz Premiere </h3>
+									</div>
+								</a>
+								<div class="col-sm-12 col-xm-6 col-xs-12 no-spacing">
+									<p class="tucal-presstext">Bei der Erfinder- und Tüftlermesse in der Stadthalle Chemnitz sind vom 22. bis 23. April 2017 auch Studierende und Mitarbeitende der TU eingeladen, Projekte und Mitmach-Angebote vorzustellen  &hellip;</p>
+								</div>
+							</article>
+						</div>
+					</li>
+					<li class="col-md-6 col-sm-12 tucal-pressarticlecanvas" data-aid="7848">
+						<div class="tucal-pressarticle">
+							<article>
+								<a href="/uk/pressestelle/aktuell/7848">
+									<div class="col-sm-12 col-xm-6 col-xs-12 no-spacing">
+										<img class="tucal-pressimage" src="/tu/aktuelles/2017/1488821797_16_9-m.jpg" alt="" />
+									</div>
+									<div class="col-sm-12 col-xm-6 col-xs-12 no-spacing">
+										<h3 class="h5 tucal-pressheadline">Mehr Rückenwind für die Wirtschaftsdidaktik </h3>
+									</div>
+								</a>
+								<div class="col-sm-12 col-xm-6 col-xs-12 no-spacing">
+									<p class="tucal-presstext">Prof. Dr. Volker Bank, Inhaber der Professur für Berufs- und Wirtschaftspädagogik, ist neuer Vorsitzender der Deutschen Gesellschaft für Ökonomische Bildung &hellip;</p>
+								</div>
+							</article>
+						</div>
+					</li>
+					<li class="col-md-6 col-sm-12 tucal-pressarticlecanvas" data-aid="7845">
+						<div class="tucal-pressarticle">
+							<article>
+								<a href="/uk/pressestelle/aktuell/7845">
+									<div class="col-sm-12 col-xm-6 col-xs-12 no-spacing">
+										<img class="tucal-pressimage" src="/tu/aktuelles/2017/1488714044_16_9-m.jpg" alt="" />
+									</div>
+									<div class="col-sm-12 col-xm-6 col-xs-12 no-spacing">
+										<h3 class="h5 tucal-pressheadline">18. Sächsische Physikolympiade an der Chemnitzer Uni</h3>
+									</div>
+								</a>
+								<div class="col-sm-12 col-xm-6 col-xs-12 no-spacing">
+									<p class="tucal-presstext">145 Gymnasiastinnen und Gymnasiasten kämpfen am 8. März 2017 um die Qualifikation zum Landesausscheid - Ab Mittag schnuppern alle Schüler Uni-Luft &hellip;</p>
+								</div>
+							</article>
+						</div>
+					</li>
+					<li class="col-md-6 col-sm-12 tucal-pressarticlecanvas" data-aid="7844">
+						<div class="tucal-pressarticle">
+							<article>
+								<a href="/uk/pressestelle/aktuell/7844">
+									<div class="col-sm-12 col-xm-6 col-xs-12 no-spacing">
+										<img class="tucal-pressimage" src="/tu/aktuelles/2017/1488548673_16_9-m.jpg" alt="" />
+									</div>
+									<div class="col-sm-12 col-xm-6 col-xs-12 no-spacing">
+										<h3 class="h5 tucal-pressheadline">Smiley für Forschungs-Poster</h3>
+									</div>
+								</a>
+								<div class="col-sm-12 col-xm-6 col-xs-12 no-spacing">
+									<p class="tucal-presstext">„Best Poster“ Award für Chemnitzer Professur Marketing und Handelsbetriebslehre &hellip;</p>
+								</div>
+							</article>
+						</div>
+					</li>
+					</ul>
+				</div>
+				<div class="row tucal-pressfooter">
+					<div class="col-xs-12 no-spacing tucal-pressall">
+						<div>
+							<a class="tucicon-nav-down" href="/uk/pressestelle/aktuell/" data-tucal="morearticles">Mehr anzeigen</a>							<a href="/uk/pressestelle/aktuell/" style="display:none">Alle Artikel</a>						</div>
+					</div>
+				</div>
+			</div>
+
+			<div id="tucal-events" class="col-md-3 col-sm-6 col-xs-12">
+				<div id="tucal-eventbk" class="col-xs-3"><div></div></div>
+				<div class="row">
+					<div class="col-xs-12 no-spacing"><h2 class="h3 linie black"><a href="/tu/termine/">Veranstaltungen &amp; Tipps</a></h2></div>
+				</div>
+				<ul class="no-spacing">
+				<li class="tucal-event tucal-mark">
+					<span class="tucal-eventdatebk"></span>
+					<a href="https://www.tu-chemnitz.de/uk/veranstaltungen/events/absolventenfeier/anmeldung/index.php">
+						<h3>
+							<span class="tucal-eventdate"><span style="font-size:1.3em">INFO</span> <span>&nbsp;</span></span>
+							<span class="tucal-eventtitle">Graduiertenfeier am 20.&nbsp;Mai 2017</span>
+						</h3>
+						<p class="tucal-eventdesc">Absolventen und Promovierte können sich hier anmelden.</p>
+					</a>
+				</li>
+				<li class="tucal-event ">
+					<span class="tucal-eventdatebk"></span>
+					<a href="https://www.tu-chemnitz.de/qpl/tu4u/studierende/phil/landah/index.php">
+						<h3>
+							<span class="tucal-eventdate"><span>07</span> <span>M&auml;r</span></span>
+							<span class="tucal-eventtitle">Schreibwoche</span>
+						</h3>
+						<p class="tucal-eventdesc">Eine Woche lang könnt ihr mit unserer Unterstützung durch Schreibberatung und Workshops eure &hellip;</p>
+					</a>
+				</li>
+				<li class="tucal-event tucal-xx">
+					<span class="tucal-eventdatebk"></span>
+					<a href="http://www.chemnitzer.linux-tage.de">
+						<h3>
+							<span class="tucal-eventdate"><span>11</span> <span>M&auml;r</span></span>
+							<span class="tucal-eventtitle">Chemnitzer Linux-Tage</span>
+						</h3>
+						<p class="tucal-eventdesc">Unter dem Motto „Barrieren einreißen“ erwarten den Besucher Vorträge, Workshops und &hellip;</p>
+					</a>
+				</li>
+				<li class="tucal-event ">
+					<span class="tucal-eventdatebk"></span>
+					<a href="https://www.tu-chemnitz.de/gleichstellung/isina/">
+						<h3>
+							<span class="tucal-eventdate"><span>13</span> <span>M&auml;r</span></span>
+							<span class="tucal-eventtitle">ISINA - Interdisziplinäres Symposium für Ingenieurinnen und &hellip;</span>
+						</h3>
+						<p class="tucal-eventdesc">ISINA dient dem fachlichen und interdisziplinären Austausch zwischen den &hellip;</p>
+					</a>
+				</li>
+				<li class="tucal-event tucal-xx">
+					<span class="tucal-eventdatebk"></span>
+					<a href="http://doodle.com/poll/ks72z3x2yngy9mw8">
+						<h3>
+							<span class="tucal-eventdate"><span>14</span> <span>M&auml;r</span></span>
+							<span class="tucal-eventtitle">&quot;Steuer meets Financial Education&quot; - Intensiver Workshop für wiss. Mitarbeiter &hellip;</span>
+						</h3>
+						<p class="tucal-eventdesc">&quot;Ein Studium kann teuer sein! Wie Ihr euch diese Kosten zurückholen könnt, &hellip;</p>
+					</a>
+				</li>
+				<li class="tucal-event tucal-xx">
+					<span class="tucal-eventdatebk"></span>
+					<a href="http://www.wtk.tu-chemnitz.de/">
+						<h3>
+							<span class="tucal-eventdate"><span>16</span> <span>M&auml;r</span></span>
+							<span class="tucal-eventtitle">19. Werkstofftechnisches Kolloquium</span>
+						</h3>
+						<p class="tucal-eventdesc">Am 16. und 17. März veranstaltet das Institut für Werkstoffwissenschaft und Werkstofftechnik &hellip;</p>
+					</a>
+				</li>
+				<li class="tucal-event ">
+					<span class="tucal-eventdatebk"></span>
+					<a href="https://www.tu-chemnitz.de/zlb/lernendigital/">
+						<h3>
+							<span class="tucal-eventdate"><span>23</span> <span>M&auml;r</span></span>
+							<span class="tucal-eventtitle">Symposium  „Lernen digital: Fachliche Lernprozesse im Elementar- und &hellip;</span>
+						</h3>
+						<p class="tucal-eventdesc">Das Symposium &quot;Lernen digital&quot; fragt, wie sich digitale Medien sinnvoll in den &hellip;</p>
+					</a>
+				</li>
+				</ul>
+				<div class="tucal-eventfooter col-md-3 col-xs-12">
+					<div><a class="tucicon-link" href="/tu/termine/">Veranstaltungskalender</a></div>
+				</div>
+			</div>
+
+			<div id="tucal-pressfooterbar" class="col-xs-12">
+				<div class="row">
+					<div class="col-sm-6 col-xm-6">
+						<div><a class="tucicon-link" href="/tu/termine/">Veranstaltungskalender</a></div>
+					</div>
+					<div class="col-sm-6 col-xm-6 tucal-pressall">
+						<div>
+							<a class="tucicon-nav-down" href="/uk/pressestelle/aktuell/" data-tucal="morearticles">Mehr anzeigen</a>							<a href="/uk/pressestelle/aktuell/" style="display:none">Alle Artikel</a>						</div>
+					</div>
+				</div>
+			</div>
+
+			<div id="tucal-socialmedia" class="col-md-9 col-sm-12 col-xs-12">
+				<div class="row">
+					<div class="col-xs-12 no-spacing"><h2 class="h3 linie black">Soziale Medien</h2></div>
+				</div>
+<div class="row">
+	<div class="col-sm-3 col-xm-6 col-xs-12">
+		<a href="https://blog.hrz.tu-chemnitz.de/botschafter/2017/03/06/die-lange-nacht-der-aufgeschobenen-hausarbeiten-der-kampf-mit-dem-schweinehund/" title="Campus TUschler: Die lange Nacht der aufgeschobenen Hausarbeiten  &ndash; der Kampf mit dem Schweinehund">
+			<img src="/tucal4/img/tuschler.png" alt="Campus TUschler" />
+			<span>Die lange Nacht der aufgeschobenen Hausarbeiten  &ndash; der Kampf mit dem Schweinehund: Am 2.3.2017 war es wieder soweit: Die lange Nacht der&hellip;</span>
+		</a>
+	</div>
+	<div class="col-sm-3 col-xm-6 col-xs-12">
+		<a href="https://twitter.com/TUChemnitz/status/838693894934122496" title="@TUChemnitz">
+			<img src="/tucal4/img/twitter.png" alt="Twitter" />
+			<span>#Schreibwoche an #TUChemnitz (#Pegasuscenter): 06.-10.3.&hellip;</span>
+		</a>
+	</div>
+	<div class="col-sm-3 col-xm-6 col-xs-12">
+		<a href="https://twitter.com/TUChemnitz/status/838659416970907649" title="@TUChemnitz">
+			<img src="/tucal4/img/twitter.png" alt="Twitter" />
+			<span>Neuer Newsletter #TUCnetwork informiert Alumni und Mitglieder der Freundesgesellschaft der #TUChemnitz. Ab sofort:&hellip;</span>
+		</a>
+	</div>
+	<div class="col-sm-3 col-xm-6 col-xs-12">
+		<a href="https://www.facebook.com/permalink.php?id=159772077440446&amp;story_fbid=1243828319034811" title="TU Chemnitz: Neuer Campus-Platz entsteht">
+			<img src="/tucal4/img/facebook.png" alt="Facebook" />
+			<span>Wir freuen uns - denn nun entsteht unser neuer #Campus-Platz zwischen &bdquo;Orangerie&ldquo;, Weinhold-Bau und Mensa der TU Chemnitz. Damit wir&hellip;</span>
+		</a>
+	</div>
+</div>
+				<div class="row tucal-pressfooter col-md-9">
+					<div><span>Verbinde dich mit uns:</span></div>
+					<div>
+						<div class="col-xs-3 tucal-sm-fb">
+							<div><a aria-label="TU Chemnitz @ Facebook" title="TU Chemnitz @ Facebook" class="tucicon-sm-fb" href="https://www.facebook.com/TUChemnitz"><span class="hide">Facebook</span></a></div>
+						</div>
+						<div class="col-xs-3 tucal-sm-tw">
+							<div><a aria-label="TUChemnitz @ Twitter" title="TUChemnitz @ Twitter" class="tucicon-sm-tw" href="https://twitter.com/TUChemnitz"><span class="hide">Twitter</span></a></div>
+						</div>
+						<div class="col-xs-3 tucal-sm-xi">
+							<div><a aria-label="Alumni TU Chemnitz @ XING" title="Alumni TU Chemnitz @ XING" class="tucicon-sm-xi" href="https://www.xing.com/net/tu_chemnitz"><span class="hide">Xing</span></a></div>
+						</div>
+						<div class="col-xs-3 tucal-sm-yt">
+							<div><a aria-label="TU Chemnitz @ YouTube" title="TU Chemnitz @ YouTube" class="tucicon-sm-yt" href="https://www.youtube.com/user/tuchemnitz"><span class="hide">YouTube</span></a></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<footer>
+	<h1 id="footer" class="sr-only">Footer</h1>
+	<section id="tucal-unilinks" class="hidden-print">
+		<h2 class="sr-only">Links</h2>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6 col-md-3 col-xs-12 tucal-footlogos"><div>
+					<a title="Familiengerechte Hochschule" href="/tu/familie/"><img alt="Logo: Familiengerechte Hochschule" src="/tu/images/logo_fam.png" /></a>
+					<a title="[EXTERN] " href="http://www.hrk.de/audit/"><img alt="Logo: [EXTERN] " src="/tu/images/2011_Siegel-Audit.png" /></a>
+				</div></div>
+				<div class="col-sm-6 col-md-9 col-xs-12 column-right">
+					<div>
+						<div class="tucal-footmenuitems"><a href="/verwaltung/bfau/notfall.php">Notfall</a></div>
+						<div class="tucal-footmenuitems"><a href="/tu/kontakt.php">Kontakt</a></div>
+						<div class="tucal-footmenuitems"><a href="/tu/lageplan/">Campusplan</a></div>
+						<div class="tucal-footmenuitems"><a href="/tu/">Universit&auml;t</a></div>
+						<div class="tucal-footmenuitems"><a href="http://www.chemnitz.de/">Chemnitz</a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<div id="tucal-printfoot" class="visible-print">
+		<hr />
+		<div class="text">
+			&copy; 2017 Technische Universit&auml;t Chemnitz<br />
+			https://www.tu-chemnitz.de/phil/ipp/elearning/studentenprojekte/Lernprogramm_Bild/Bilder/Diagramm_1.jpg<br />
+			Webmaster,  7.&nbsp;M&auml;rz 2017
+		</div>
+	</div>
+	<section id="tucal-foot" class="hidden-print"><h2 class="sr-only">Footer</h2>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6 col-md-9 col-xs-12 column-right">
+					<div class="tucal-footmenuitems"><div class="hs-modal"><a href="/urz/mail/fbf.html?1-d2VibWFzdGVyQA==" data-height="562" data-toggle="modal" data-target="#hs-modal" data-remote-frame="/urz/mail/fbfx.html?1-d2VibWFzdGVyQA==" data-title="Feedback">Feedback</a></div></div>
+					<div class="tucal-footmenuitems"><a href="https://www.tu-chemnitz.de/tu/home/wtc?prev=https://www.tu-chemnitz.de/phil/ipp/elearning/studentenprojekte/Lernprogramm_Bild/Bilder/Diagramm_1.jpg" title="Am Web-Trust-Center anmelden" rel="nofollow">Anmelden</a></div>
+					<div class="tucal-footmenuitems"><a href="/uk/sponsoring/mediadaten.php">Mediadaten</a></div>
+					<div class="tucal-footmenuitems"><a href="/tu/impressum.html">Impressum</a></div>
+				</div>
+				<div class="col-sm-6 col-md-3 col-xs-12 column-left">
+					<div>
+						&copy; 2017 Technische Universit&auml;t Chemnitz<br />
+						<div class="hs-modal"><a href="/urz/mail/adr.php?1-d2VibWFzdGVyQA==" data-height="157" data-toggle="modal" data-target="#hs-modal" data-remote-frame="/urz/mail/adrx.html?1-d2VibWFzdGVyQA==" data-title="Spam-Schutz f&uuml;r E-Mail-Adressen">Webmaster</a></div> |  7.&nbsp;M&auml;rz 2017
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+<div id="tucal-top" class="hidden-print" data-vis="hide"></div>
+
+</footer>
+<ul class="sr-only" id="shortcuts">
+	<li>[(Shift +) Alt + T] <a accesskey="t" href="#top">Springe zum Hauptinhalt</a></li>
+	<li>[(Shift +) Alt + M] <a accesskey="m" href="#tucal-headnavigation">Spring zum Hauptmen&uuml;</a></li>
+	<li>[(Shift +) Alt + S] Springe zum Suchformular</li>
+	<li>[(Shift +) Alt + L] Sprache &auml;ndern (wenn verf&uuml;gbar)</li>
+	<li>[(Shift +) Alt + K] Kontaktseite aufrufen</li>
+	<li>[(Shift +) Alt + H] Startseite aufrufen</li>
+	<li>[(Shift +) Alt + A] <a accesskey="a" href="/tu/personen.html">Auskunft der TU Chemnitz aufrufen</a></li>
+	<li>[(Shift +) Alt + I] <a accesskey="i" href="/urz/dienste.php?group=Kommunikation">Netzdienste-Seite aufrufen</a></li>
+	<li>[(Shift +) Alt + E] Seite bearbeiten (nur f&uuml;r Autoren)</li>
+</ul>
+<script src="/tucal4/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="/tucal4/js/tucal.js?201611291408" type="text/javascript"></script>
+<script src="/tucal4/js/jquery.mobile.custom.min.js" type="text/javascript"></script>
+<script src="/tucal4/js/hs.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,161 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>レポート、大学レポート、論文、書式、契約書、テンプレート、レポートの書き方、レポートの見本、検索、共有：ハッピーキャンパス</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="P3P" content='CP="ALL CURa ADMa DEVa TAIa OUR BUS IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC OTC" policyref="/w3c/p3p.xml"' />
+<meta name="title" content="レポート、大学レポート、論文、書式、契約書、テンプレート、レポートの書き方、レポートの見本、検索、共有：ハッピーキャンパス" />
+<meta name="description" content="レポート、大学レポート、論文、書式、テンプレート等、4万件以上の資料を共有するハッピーキャンパスです。会員登録はもちろん無料！１GBの個人スペースと様々な機能を提供し、より便利で資料の管理ができます。また自分の資料を直接販売することで収益を創り出すことができます。：ハッピーキャンパス" />
+<meta name="keywords" content="レポート,大学レポート,論文,卒業論文,科目最終試験,佛教大学レポート,写真,書式,会社文書,エントリシート,レポートの書き方,論文の書き方,注目資料,新着資料" />
+<meta name="subject" content="レポート、大学レポート、論文、書式、契約書、テンプレート、レポートの書き方、レポートの見本、検索、共有：ハッピーキャンパス" />
+<meta name="y_key" content="5b9a76f7500b7290" />
+<meta name="msvalidate.01" content="BB8DF121FDBECA3865EC8EDB99C98CA0" />
+<meta name="google-site-verification" content="SNeJc2WaYAK3mpj7B82o8amn0U0xKyjR5qoiFPd_RzE" />
+<link rel="SHORTCUT ICON" href="/images/happycampus.ico">
+<link rel="image_src" href="" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/common.css?v=20170228.4" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/gnb.css?v=20170228.4" />
+<script type="text/javascript" language="javascript" src="/js/jquery-1.7.1.min.js?v=20170228.4"></script>
+<script type="text/javascript" language="javascript">
+	var $HC=jQuery.noConflict();
+	var IMAGE_URL = "/images";
+	var LOGIN_URL = 'https://www.happycampus.co.jp/login/';
+</script>
+<script type="text/javascript" language="javascript" src="/js/common.js?v=20170228.4"></script>
+</head>
+<body>
+<div id="whole_wrap">
+	<form id="top_search_form" name="top_search_form" method="get" action="http://www.happycampus.co.jp/search/" onsubmit="return chkSearchFrm();">
+	<div class="top_area_wrap">
+		<div class="top_area">
+			<h1>
+			<a href="http://www.happycampus.co.jp/?__a=gnb"><img src="/images/common/2010/top_logo.gif" alt="日本最大のレポートサイト HAPPYCAMPUS" align="absmiddle" /></a>
+			
+			</h1>
+			<!-- Search Bar Start -->
+			<div class="search_bar_wrap">
+				<input type="hidden" name="category" value="docs" />
+				<input name="__a" type="hidden" value="gnb_search">
+					<div class="main_search_form"></div>
+					<input class="s_out2" type="text" id="main_search_form_kwd" name="kwd" value="検索ワード入力" onMousedown="clearFrm();" onblur="fillFrm();"  />
+					<input type="image" id="search01" src="/images/common/2010/top_search_btn.gif" class="search_btn" alt="検索" onmouseout="this.src='/images/common/2010/top_search_btn.gif'" onmouseover="this.src='/images/common/2010/top_search_btn.gif'" border="0">
+					<input type="hidden" id="top_search_form_target" name="target" value="docs" />
+					<div class="search_option">
+						<label><input type="radio" class="radio" name="search_type" value="all" checked onClick_k="form.submit();" /> すべて</label>
+						<label><input type="radio" class="radio" name="search_type" value="tag" onClick_k="form.submit();" /> タグ</label>
+						<a href="http://www.happycampus.co.jp/search/advanced/index.html">検索オプション</a>
+				</div>
+			</div>
+			<div class="sub_menu_wrap">
+				<p class="member_login">
+					<a href="https://www.happycampus.co.jp/login/?__a=gnb"><img src="/images/common/2010/login_btn.gif" border="0" align="absmiddle" alt="ログイン"></a>
+					<a href="http://www.happycampus.co.jp/mem_reg/?__a=gnb" style="font-weight:bold;">会員登録</a>
+					<a href="https://www.happycampus.co.jp/login/guest/?__a=gnb" style="margin-left:5px;font-weight:bold;">非会員購入確認</a>
+					<a href="http://www.happycampus.co.jp/pay/charge/?__a=gnb"><img src="/images/common/2010/top_submenu05.gif" alt="チャージする" style="vertical-align:middle">チャージする</a>
+				</p>
+				<p class="help"><a href="http://www.happycampus.co.jp/help/?__a=gnb">へルプ</a>
+				<a href="http://www.happycampus.co.jp/guide/?__a=gnb">初心者ガイド</a></p>
+			</div>
+			<ul class="top_menu_wrap">
+				<li><a href="http://www.happycampus.co.jp/mypage/?__a=gnb"><img src="/images/common/2010/top_menu01.gif" alt="私のホーム" id="mmimg1" onload="setGnbImageChangeNew(this,1);" /></a></li>
+				<li><a href="http://www.happycampus.co.jp/docs/?__a=gnb"><img src="/images/common/2010/top_menu02.gif" alt="私の資料" id="mmimg2" onload="setGnbImageChangeNew(this,2);" /></a></li>
+				<li><a href="http://www.happycampus.co.jp/memo/?__a=gnb"><img src="/images/common/2010/top_menu06.gif" alt="私のＭＥＭＯ" id="mmimg4" onload="setGnbImageChangeNew(this,6);" /></a></li>
+				<li><a href="http://www.happycampus.co.jp/public/?__a=gnb"><img src="/images/common/2010/top_menu04.gif" alt="資料広場" id="mmimg4" onload="setGnbImageChangeNew(this,4);" /></a></li>
+				<li><a href="http://www.happycampus.co.jp/upload/?__a=gnb"><img src="/images/common/2010/top_menu05.gif" alt="アップロード" id="mmimg5" onload="setGnbImageChangeNew(this,5);" /></a></li>
+			</ul>
+		</div>
+
+	</div>
+
+</form>
+
+    <div id="content_wrap_C">
+      <div style="width:970px; text-align:center; margin:0 auto;">
+        <dl style="width:398px; margin:0 auto; margin-top:45px;">
+          <dt><img src="/images/common/404_error_japanese.gif" alt="ページが見つかりません!!" /></dt>
+          <dd style=" text-align:left; font-size:14px; line-height:25px; padding-top:25px;">
+          - 入力したアドレスのつづりを確認してください。<br />
+          - 引き続き問題が発生する場合は、<a href="/help/ask.html">お問い合わせ</a>をご利用ください。</dd>
+        </dl>
+      </div>
+    </div>
+<div id="Footer_Hspace" class="Footer_Hspace"><!-- space --></div>
+	<div id="footer_wrap">
+		<div class="footer_area">
+			<div class="Hspace15"><!-- space --></div>
+
+			<dl>
+				<dt>私の資料室</dt>
+				<dd class="fst"><a href="http://www.happycampus.co.jp/login/?__a=foot">ログイン</a></dd>
+				<dd><a href="http://www.happycampus.co.jp/mem_reg/?__a=foot">会員登録</a></dd>
+			</dl>
+
+			<dl>
+				<dt>資料一覧</dt>
+				<dd class="fst"><a href="http://www.happycampus.co.jp/public/?__a=foot">最新資料</a></dd>
+				<dd><a href="http://www.happycampus.co.jp/public/?m=5&__a=foot">ベストセラー</a></dd>
+				<dd><a href="http://www.happycampus.co.jp/public/?m=2&__a=foot">人気資料</a></dd>
+				<dd><a href="http://www.happycampus.co.jp/public/tags/?__a=foot">人気タグ</a></dd>
+				<dd><a href="http://www.happycampus.co.jp/public/poweruser/?__a=foot">パワーユーザー</a></dd>
+				<dd><a href="http://www.happycampus.co.jp/search/index_none.html?__a=foot">検索</a></dd>
+			</dl>
+
+			<dl>
+				<dt>ヘルプ</dt>
+				<dd class="fst"><a href="http://www.happycampus.co.jp/guide/?__a=foot">初心者ガイド</a></dd>
+				<dd><a href="http://www.happycampus.co.jp/help/?__a=foot">FAQ</a></dd>
+				<dd><a href="http://www.happycampus.co.jp/help/ask.html?__a=foot">お問い合わせ</a></dd>
+				<dd><a href="http://www.happycampus.co.jp/help/report.html?__a=foot">著作権に関するご意見</a></dd>
+			</dl>
+
+			<div class="Hspace10"><!-- space --></div>
+			<ul>
+				<li class="fst"><a href="http://www.happycampus.co.jp/notice/?__a=foot">お知らせ</a></li>
+				<li><a href="http://www.happycampus.co.jp/groups/happycampus/?__a=foot">会社概要</a></li>
+				<li><a href="http://www.happycampus.co.jp/help/ask.html?access_type=corporation&__a=foot">業務提携について</a></li>
+				<li><a href="http://www.happycampus.co.jp/info/agreement.html?__a=foot">利用規約</a></li>
+				<li><a href="http://www.happycampus.co.jp/info/privacy.html?__a=foot">プライバシーポリシー</a></li>
+				<li><a href="http://www.happycampus.co.jp/info/copyright.html?__a=foot">著作権規定</a></li>
+				<li><a href="http://www.happycampus.co.jp/info/commercial.html?__a=foot">特定商取引法に基づく表示</a></li>
+				<li><a href="http://www.happycampus.co.jp/help/ask.html?__a=foot">お問合せ</a></li>
+				<li class="logo"><img src="/images/common/logo_thawte.gif" class="vm" border="0" /></li>
+			</ul>
+
+			<div class="copy">ⓒ Agentsoft Co., Ltd.</div>
+		<p class="qr"><img src="/images/common/mobile_qr.gif" alt="" /></p>
+		</div>
+	</div>
+</div>
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-3123257-2', 'happycampus.co.jp');
+	ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+document.imgCacheImages = new Array();
+IMAGE_URL = "/images";
+for(var i=0; i <= 2; i++){
+
+	document.imgCacheImages[i] = new Image();
+
+	if(i == 0){
+		document.imgCacheImages[i].src=IMAGE_URL + '/common/btn_arrow_down.gif';
+	}
+	else if(i == 1){
+		document.imgCacheImages[i].src=IMAGE_URL + '/common/btn_arrow_up.gif';
+	}
+	else if(i == 2){
+		document.imgCacheImages[i].src=IMAGE_URL + '/common/ajax_loading.gif';
+	}
+}
+var _id = '';
+var _GCD = 10;
+</script>
+<script type="text/javascript" src="/js/acecounter_V70.js"></script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+<html>
+<head>
+  <title>Error 404 - Datei nicht gefunden</title>
+  <link rel="stylesheet" type="text/css" href="http://portale.web.de/css/style.css">
+</head>
+<body bgcolor="#FFFFFF" link="#0033CC" vlink="#3366FF" alink="#3366FF" text="#000000" topmargin="1" marginheight="1">
+<center>
+
+<table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td valign="middle" align="center">
+
+		<!-- Box Header -->
+		<table width="640" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff">
+		<tr>
+			<td bgcolor="#0370be" colspan="2"><img src="http://img.web.de/v/dsl/content/error/ecke_oli_blau_weiss.gif" width="9" height="20" border="0" alt=""></td>
+			<td class="b2" width="622" bgcolor="#0370be"><b>Server Error!</b></td>
+			<td bgcolor="#0370be" align="right" colspan="2"><img src="http://img.web.de/v/dsl/content/error/ecke_ore_blau_weiss.gif" width="9" height="20" border="0" alt=""></td>
+		</tr>
+		</table>
+		<!-- Box Header ENDE -->
+		<!-- Box Inhalt -->
+		<table width="640" cellspacing="0" cellpadding="0" border="0" bgcolor="#E2F3FF">
+		<tr>
+			<td valign="top" rowspan="3" width="126" height="95"><img src="http://img.web.de/v/dsl/content/error/grfr_server_errror_01.gif" width="126" height="95" border="0" alt=""></td>
+			<td width="513" height="86" valign="top">
+				<!-- Fehlermeldung -->
+				<table width="100%" cellpadding="0" cellspacing="0">
+				<tr><td height="5"></td></tr>
+				<tr><td class="bt"><div class="bh"><b>Error 404 - Datei nicht gefunden</b></div>
+Die angeforderte URL konnte auf dem Server nicht gefunden werden.
+</td></tr>
+				</table>
+				<!-- Fehlermeldung ENDE -->
+
+			</td>
+			<td width="8"><img src="http://img.web.de/v/p.gif" width="8" height="1" border="0" alt=""></td>
+			<td width="1" bgcolor="#0370be"><img src="http://img.web.de/v/p.gif" width="1" height="1" border="0" alt=""></td>
+		</tr>
+		<tr>
+			<td width="513" height="8"><img src="http://img.web.de/v/p.gif" width="1" height="8" border="0" alt=""></td>
+			<td align="right" rowspan="2" valign="bottom" colspan="2"><img src="http://img.web.de/v/dsl/content/error/rundungen_error_rechts.gif" width="9" height="9" border="0" alt=""></td>
+		</tr>
+		<tr><td height="1" bgcolor="#0370be"><img src="http://img.web.de/v/p.gif" width="1" height="1" border="0" alt=""></td></tr>
+		</table>
+		<!-- Box Inhalt ENDE -->
+</td></tr></table>
+</center>
+<script type="text/javascript">
+    /* <![CDATA[ */
+    document.write('<img src="//img.web.de/ivw/CP/maildomain/error404/?ts='+(Math.random()*100000)+'" alt="" width="1" height="1">');
+    /* ]]> */
+</script>
+<noscript>
+    <img src="//img.web.de/ivw/CP/maildomain/error404/?ts=" alt="" width="1" height="1">
+</noscript>
+
+</body>
+</html>

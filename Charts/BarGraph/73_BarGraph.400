@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+                    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+                                    <title>image (spagobi_server.image) - XWiki</title>
+                <meta http-equiv="Content-Script-Type" content="text/javascript" />
+                        <meta http-equiv="imagetoolbar" content="no"/>
+                                <link rel="canonical" href="/xwiki/bin/view/spagobi_server/image" />
+                            <meta name="document" content="spagobi_server.image"/>
+    <meta name="wiki" content="spagobiwiki"/>
+    <meta name="space" content="spagobi_server"/>
+    <meta name="page" content="image"/>
+    <meta name="version" content="109.1"/>
+    <meta name="restURL" content="/xwiki/rest/wikis/spagobiwiki/spaces/spagobi_server/pages/image"/>
+                <meta name="gwt:property" content="locale=en" />
+                <meta name="revisit-after" content="7 days" />
+<meta name="description" content="image" />
+<meta name="keywords" content="wiki" />
+<meta name="distribution" content="GLOBAL" />
+<meta name="rating" content="General" />
+<meta name="author" content="gvalenti" />
+<meta http-equiv="reply-to" content="" />
+<meta name="language" content="en" />
+<link rel="alternate" type="application/rss+xml" title="Wiki Feed RSS" href="/xwiki/bin/view/Main/WebRss?xpage=rdf" />
+<link rel="alternate" type="application/rss+xml" title="Blog RSS Feed" href="/xwiki/bin/view/Blog/GlobalBlogRss?xpage=plain" />
+
+                <!-- com.xpn.xwiki.plugin.skinx.LinkExtensionPlugin -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+<link href="/xwiki/bin/skin/Custom/SpagoBISkin/style.css?colorTheme=ColorThemes.DefaultColorTheme" rel="stylesheet" type="text/css" media="all" />
+<link href="/xwiki/bin/skin/skins/albatross/print.css" rel="stylesheet" type="text/css" media="print" />
+        <!--[if IE]>
+  <link href="/xwiki/bin/skin/skins/toucan/ie%2Dall.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 6]>
+  <link href="/xwiki/bin/skin/skins/albatross/ie%2D6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!-- com.xpn.xwiki.plugin.skinx.CssSkinExtensionPlugin -->
+<!-- com.xpn.xwiki.plugin.skinx.CssSkinFileExtensionPlugin -->
+
+    
+    <link href="/xwiki/bin/skin/resources/js/xwiki/suggest/ajaxSuggest.css" rel="stylesheet" type="text/css" />
+<link href="/xwiki/bin/skin/resources/js/xwiki/lightbox/lightbox.css" rel="stylesheet" type="text/css" />
+<!--[if IE]>
+  <link href="/xwiki/bin/skin/resources/js/xwiki/lightbox/lightboxIE.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/xwiki/resources/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="/xwiki/bin/skin/resources/js/xwiki/xwiki.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+XWiki.webapppath = "xwiki/";
+XWiki.servletpath = "bin/";
+XWiki.contextPath = "/xwiki";
+XWiki.mainWiki = "xwiki";
+XWiki.currentWiki = "spagobiwiki";
+XWiki.currentSpace = "spagobi_server";
+XWiki.currentPage = "image";
+XWiki.editor = "";
+XWiki.viewer = "";
+XWiki.contextaction = "download";
+XWiki.docisnew = false;
+XWiki.docsyntax = "xwiki/2.0";
+XWiki.blacklistedSpaces = [ "Import","Panels","Scheduler","Stats","XAppClasses","XAppSheets","XAppTemplates","XWiki","WatchCode","WatchSheets","XApp","WatchAdmin","Watch","ColorThemes","AnnotationCode" ];
+XWiki.hasEdit = false;
+XWiki.hasProgramming = false;
+XWiki.hasBackupPackImportRights = false;
+window.docviewurl = "/xwiki/bin/view/spagobi_server/image";
+window.docediturl = "/xwiki/bin/edit/spagobi_server/image";
+window.docsaveurl = "/xwiki/bin/save/spagobi_server/image";
+window.docgeturl = "/xwiki/bin/get/spagobi_server/image";
+// ]]>
+</script>
+<!-- com.xpn.xwiki.plugin.skinx.JsSkinFileExtensionPlugin -->
+<!-- com.xpn.xwiki.plugin.skinx.JsSkinExtensionPlugin -->
+<script type="text/javascript" src="/xwiki/resources/js/xwiki/compatibility.js" defer="defer"></script>
+
+  </head>
+  <body id="body" class="wiki-spagobiwiki space-spagobi_server downloadbody hideleft">
+<div id="xwikimaincontainer">
+<div id="xwikimaincontainerinner">
+
+  <div id="menuview">
+    <div id="actionmenu" class="layoutsubsection">
+<strong id="xwikimenutitle" class="hidden">Top Menu</strong>
+<div class="rightmenu">
+</div>
+<div class="leftmenu">
+<div id="tmShow" class="tmShow topmenuentry dropdownmenuentry  " onmouseover="showsubmenu(this);" onmouseout="hidesubmenu(this);">
+<span class="tme-extensible">
+   <a class="tme" href="/xwiki/bin/view/spagobi_server/image?viewer=code"><strong>View</strong></a>
+    <span class="menuarrow">&#9660;</span><span class="hidden menucolon">: </span>
+</span><span class="submenu hidden">
+<span class="submenuitem "><a href="/xwiki/bin/view/spagobi_server/image?viewer=comments" id="tmShowComments" class="tmShowComments">Comments</a></span>
+<span class="submenuitem "><a href="/xwiki/bin/view/spagobi_server/image?viewer=attachments" id="tmShowAttachments" class="tmShowAttachments">Attachments</a></span>
+<span class="submenuitem "><a href="/xwiki/bin/view/spagobi_server/image?viewer=history" id="tmShowHistory" class="tmShowHistory">History</a></span>
+<span class="submenuitem "><a href="/xwiki/bin/view/spagobi_server/image?viewer=information" id="tmShowInformation" class="tmShowInformation">Information</a></span>
+</span></div>
+ <div id="tmPrint" class="tmPrint topmenuentry dropdownmenuentry  " onmouseover="showsubmenu(this);" onmouseout="hidesubmenu(this);">
+<span class="tme-extensible">
+   <a class="tme" href="javascript:window.print()"><strong>Print</strong></a>
+    <span class="menuarrow">&#9660;</span><span class="hidden menucolon">: </span>
+</span><span class="submenu hidden">
+<span class="submenuitem "><a href="/xwiki/bin/view/spagobi_server/image?xpage=print" id="tmPrintPreview" class="tmPrintPreview">Print preview</a></span>
+<span class="submenuseparator">&nbsp;</span>
+<span class="submenuitem "><a href="/xwiki/bin/export/spagobi_server/image?format=pdf" id="tmExportPdf" class="tmExportPdf">Export as PDF</a></span>
+<span class="submenuitem "><a href="/xwiki/bin/export/spagobi_server/image?format=rtf" id="tmExportRtf" class="tmExportRtf">Export as RTF</a></span>
+<span class="submenuitem "><a href="/xwiki/bin/export/spagobi_server/image?format=html" id="tmExportHtml" class="tmExportHtml">Export as HTML</a></span>
+<span class="submenuitem "><a href="/xwiki/bin/export/spagobi_server/image?format=xar&amp;name=spagobi_server.image&amp;pages=spagobi_server.image" id="tmExportXar" class="tmExportXar">Export as XAR</a></span>
+</span></div>
+</div>
+</div>
+
+  </div>
+ <div id="headerglobal" class="layoutsection">
+<div class="minwidthd"></div>
+  <div id="company">
+  <div id="companylogo">
+    <a href="/xwiki/bin/view/Main/" title="Home" rel="home">
+    <img src="/xwiki/bin/download/Custom/SpagoBISkin/logo.png" alt="Wiki Logo"/>
+    </a>
+  </div>   </div>   <div id="globaldoctitle">
+    <h1><a href='/xwiki/bin/view/spagobi_server/image'>image</a></h1>
+  </div>
+  <div id="globallinks">
+    <div id="globalmenu">
+        <a class="glink" href="/xwiki/bin/login/XWiki/XWikiLogin?xredirect=http%3A%2F%2Fwiki.spagobi.org%2Fxwiki%2Fbin%2Fdownload%2Fspagobi_server%2Fimage%2FSimpleBarChart.bmp%253Fheight%3D400%26width%3D400" id="headerlogin">Log-in</a><span class="separator"> | </span>
+      </div>   </div> </div> 
+ <div id="headerspace" class="layoutsection">
+<div class="minwidth"></div>
+<hr/>
+  <div id="breadcrumbs">
+    <span class="breadcrumbspace"><a href="/xwiki/bin/view/spagobi_server/">spagobi_server</a>: </span>
+<a href='/xwiki/bin/view/spagobi_server/image'>image</a>
+  </div>
+  <hr/>
+</div>
+
+
+<div class="contenthideleft" id="contentcontainer">
+<div id="contentcontainerinner">
+<div class="leftsidecolumns">
+  <div id="contentcolumn"> 
+<div class="main layoutsubsection">
+<div id="mainContentArea">
+    <div class="centered">
+    <fieldset class="xwikimessage">
+      <legend><span>Error</span></legend>
+      <p class="xwikimessage">This template does not exist</p>
+
+    </fieldset>
+    </div>
+<div class="clearfloats"></div>
+</div></div>    </div>
+  </div><div id="rightPanels" class="panels right">
+                  <div class="panel expanded Search">
+<h1 class="xwikipaneltitle hidden">Search</h1>
+<div class="xwikipanelcontents">
+<form action="/xwiki/bin/view/Main/Search">
+<div class="globalsearch">
+<label class="hidden" for="globalsearchinput">Search query</label>
+<input class="globalsearchinput" id="globalsearchinput" name="text" onblur="if (this.value == '') value='search...'; this.blur()" onfocus="if (this.value == 'search...') value=''; this.select();" size="15" type="text" value="search..."></input>
+&nbsp;
+<input alt="Go" class="button" src="/xwiki/skins/albatross/go.png" type="image" value="Go"></input>
+</div>
+</form>
+</div>
+</div>
+                        
+<div class="panel expanded QuickLinksSBI">
+<h1 class="xwikipaneltitle" onclick="XWiki.togglePanelVisibility(this.parentNode, 'XWiki.XWikiGuest_Panels.QuickLinksSBI');">Quick Links</h1>
+<div class="xwikipanelcontents"><p/>
+<ul class="star">
+<li><span class="wikilink"><a href="/xwiki/bin/view/Main/">Wiki Dashboard</a></span></li>
+<li><span class="wikilink"><a href="/xwiki/bin/view/spagobi_server/">SpagoBI Server</a></span></li>
+<li><span class="wikilink"><a href="/xwiki/bin/view/spagobi_sdk/">SpagoBI SDK</a></span></li>
+<li><span class="wikilink"><a href="/xwiki/bin/view/spagobi_french/FrenchHomePage">Documentation in French</a></span></li>
+</ul>
+</div>
+</div>
+                        
+                        
+      </div>
+
+<div class="clearfloats"></div>
+  </div></div><div id="footerglobal" class="layoutsection">
+<div class="minwidth"></div>
+<hr/>
+  <div id="xwikilicence">This wiki is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/2.0/">Creative Commons 2.0</a> license</div>
+          <div id="xwikiplatformversion">XWiki Enterprise 2.7.33694 - <a onclick="openURL('http://enterprise.xwiki.org/xwiki/bin/view/Main/Documentation', '_blank'); return false;" href="http://www.xwiki.org/xwiki/bin/view/Main/Documentation">Documentation</a></div>
+<hr/>
+</div>
+
+</div></div></body>
+</html>

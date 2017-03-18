@@ -1,0 +1,413 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="de" xml:lang="de" xmlns="http://www.w3.org/1999/xhtml">
+	
+  <head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<!-- InstanceBeginEditable name="head" -->
+    <title>Error 404 - Internetangebot</title>
+    <meta name="comment_ID1" content="382" />
+    <meta name="keytomain" content="0" />
+    <meta name="authority" content="Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit" />
+    <meta name="date" content="2011-11-09" />
+    <meta name="update-date" content="2011-11-09" />
+    <meta name="copyright" content="Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit 2016" />
+    <meta name="web" content="lgl-internet" />
+    <meta name="lang" content="de" />
+    <meta name="authority_ID" content="48" />
+    <meta name="copyright_ID" content="114" />
+    <meta name="ConfigHeader" content="11000111" />
+    <meta name="ConfigFooter" content="101101100010" />
+    <meta name="ConfigConvertTor" content="001" />
+    <meta name="robots" content="index, follow" />
+    <meta name="template_header_data" content="internet_web" />
+    <meta name="template_footer_stamp" content="20111021142018944" />
+    <meta name="template_header_stamp" content="20120624233735657" />
+    <meta name="template_metainfo" content="standard" />
+    <meta name="template_header" content="standard" />
+    <meta name="template_footer" content="standard" />
+    <meta name="DC.TITLE" content="Error 404 - Internetangebot" />
+    <meta name="DC.DATE.CREATION" content="2011-11-09" />
+    <meta name="DC.DATE.MODIFIED" content="2011-11-09" />
+    <meta name="DC.RIGHTS" content="Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit 2016" />
+    <meta name="DC.LANGUAGE" content="de" />
+    <meta name="DC.CREATOR.CORPORATE" content="Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit" />
+    <link href="http://www.lgl.bayern.de/global/css/global_2010.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="http://www.lgl.bayern.de/style/css/lokal_2010.css" rel="stylesheet" type="text/css" media="all" />
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <link type="text/css" href="http://www.lgl.bayern.de/global/css/jquery_ui/ui-lightness/jquery-ui-1.8.1.custom.css" rel="stylesheet" />
+    <script type="text/javascript" src="http://www.lgl.bayern.de/global/script/jquery_ui/jquery-1.4.2.min.js">
+    </script>
+    <script type="text/javascript" src="http://www.lgl.bayern.de/global/script/jquery_ui/jquery-ui-1.8.1.custom.min.js">
+    </script>
+    <script type="text/javascript"> 
+			// Default Unternavigation horizontal zweite Ebene; 0 = keine
+			var show_sub = 1;
+		</script>
+    <script type="text/javascript" src="http://www.lgl.bayern.de/global/script/global.js">
+    </script>
+    <script src="/urchin.js" type="http://www.lgl.bayern.de/text/javascript">
+    </script>
+    <script src="/ga_anonym.js" type="http://www.lgl.bayern.de/text/javascript">
+    </script>
+    <script type="text/javascript">
+       if( gaanonym.switcher.isActive() ) {
+        urchinTracker();
+       }
+      </script>
+  </head>
+  <body id="funktion">
+    <div id="center">
+      <div id="kopf">
+        <img src="http://www.lgl.bayern.de/style/layout/baum.gif" id="baum" width="162" height="123" alt="Lebensbaumlogo Geschäftsbereich lebensministerium.bayern.de" />
+        <div id="schriftzug">
+          <div id="navi_meta">
+            <ul>
+              <li>
+                <a title="zur Rubrik Das LGL" href="http://www.lgl.bayern.de/das_lgl/index.htm">Das LGL</a>
+              </li>
+              <li>
+                <a title="zur Rubrik Inhaltsverzeichnis" href="http://www.lgl.bayern.de/presse/index.htm">Presse</a>
+              </li>
+              <li>
+                <a title="zur Rubrik Stichwortregister" href="http://www.lgl.bayern.de/az/index.htm">A-Z</a>
+              </li>
+              <li>
+                <span lang="en">
+                  <a title="zur Rubrik Inhaltsverzeichnis" href="http://www.lgl.bayern.de/sitemap/index.htm">Sitemap</a>
+                </span>
+              </li>
+              <li>
+                <a title="zur Rubrik Kontakt zum LGL" href="http://www.lgl.bayern.de/kontakt/index.htm">Kontakt</a>
+              </li>
+              <li>
+                <a title="zur Rubrik Impressum-Datenschutz-Barrierefreiheit-Benutzerhinweise" href="http://www.lgl.bayern.de/impressum/index.htm">Impressum</a>
+              </li>
+            </ul>
+          </div>
+          <h1>Bayerisches Landesamt für<br />
+							Gesundheit und Lebensmittelsicherheit</h1>
+        </div>
+        <div id="kopfgrafik">
+          <img src="http://www.lgl.bayern.de/style/layout/kopfgrafiken/head_funktion.jpg" width="879" height="110" alt="" />
+        </div>
+        <div id="navi_horizontal_container">
+          <div id="navi_horizontal">
+            <ul>
+              <li class="nav_h" id="nav_startseite">
+                <a href="http://www.lgl.bayern.de/index.htm" title="Startseite der Website des Bayerischen Landesamtes für Gesundheit und Lebensmittelsicherheit">Startseite</a>
+              </li>
+              <li class="nav_h" id="nav_arbeitsschutz">
+                <a href="http://www.lgl.bayern.de/arbeitsschutz/index.htm" title="zur Rubrik Arbeitsschutz">Arbeitsschutz</a>
+              </li>
+              <li class="nav_h" id="nav_lebensmittel">
+                <a href="http://www.lgl.bayern.de/lebensmittel/index.htm" title="zur Rubrik Lebensmittel">Lebensmittel</a>
+              </li>
+              <li class="nav_h" id="nav_produkte">
+                <a href="http://www.lgl.bayern.de/produkte/index.htm" title="zur Rubrik Produkte">Produkte</a>
+              </li>
+              <li class="nav_h" id="nav_gesundheit">
+                <a href="http://www.lgl.bayern.de/gesundheit/index.htm" title="zur Rubrik Gesundheit">Gesundheit</a>
+              </li>
+              <li class="nav_h" id="nav_tiergesundheit">
+                <a href="http://www.lgl.bayern.de/tiergesundheit/index.htm" title="zur Rubrik Tiergesundheit">Tiergesundheit</a>
+              </li>
+              <li class="nav_h" id="nav_weiterbildung">
+                <a href="http://www.lgl.bayern.de/aus_fort_weiterbildung/index.htm" title="zur Rubrik Aus-, Fort- und Weiterbildung">Aus-/Fort-/Weiterbildung</a>
+              </li>
+            </ul>
+          </div>
+          <div id="navi_horizontal_sub">
+            <ul id="nav_hs_2">
+              <li class="no_border">
+                <a href="http://www.lgl.bayern.de/arbeitsschutz/technischer_arbeitsschutz/index.htm" title="zur Rubrik Technischer Arbeisschutz">Technischer Arbeitsschutz</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/arbeitsschutz/stofflicher_arbeitsschutz/index.htm" title="zur Rubrik Stofflicher Arbeitsschutz">Stofflicher Arbeitsschutz</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/arbeitsschutz/sozialer_arbeitsschutz/index.htm" title="zur Rubrik Sozialer Arbeitsschutz">Sozialer Arbeitsschutz</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/arbeitsschutz/arbeitsmedizin/index.htm" title="zur Rubrik Arbeitsmedizin">Arbeitsmedizin</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/arbeitsschutz/praevention/index.htm" title="zur Rubrik Prävention">Prävention</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/arbeitsschutz/managementsysteme/index.htm" title="zur Rubrik Managementsysteme">Managementsysteme</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/arbeitsschutz/rechtsgrundlagen/index.htm" title="zur Rubrik Rechtsgrundlagen">Rechtsgrundlagen</a>
+              </li>
+            </ul>
+            <ul id="nav_hs_3">
+              <li class="no_border">
+                <a href="http://www.lgl.bayern.de/lebensmittel/warengruppen/index.htm" title="zur Rubrik ">Warengruppen</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/lebensmittel/chemie/index.htm" title="zur Rubrik Chemie">Chemie</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/lebensmittel/hygiene/index.htm" title="zur Rubrik Hygiene">Hygiene</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/lebensmittel/technologien/index.htm" title="zur Rubrik Technologien">Technologien</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/lebensmittel/kennzeichnung/index.htm" title="zur Rubrik Kennzeichnung">Kennzeichnung</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/lebensmittel/ueberwachung/index.htm" title="zur Rubrik Überwachung">Überwachung</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/lebensmittel/az/index.htm" title="zur Rubrik Lebensmittel A-Z">Lebensmittel A-Z</a>
+              </li>
+            </ul>
+            <ul id="nav_hs_4">
+              <li class="no_border">
+                <a href="http://www.lgl.bayern.de/produkte/bedarfsgegenstaende/index.htm" title="zur Rubrik Bedarfsgegenstände">Bedarfsgegenstände</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/produkte/kosmetika/index.htm" title="zur Rubrik Kosmetika">Kosmetika</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/produkte/chemikalien/index.htm" title="zur Rubrik Chemikalien">Chemikalien</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/produkte/spielzeug/index.htm" title="zur Rubrik Spielzeug">Spielzeug</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/produkte/technische_geraete/index.htm" title="zur Rubrik Technische Geräte">Technische Geräte</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/produkte/medizinprodukte/index.htm" title="zur Rubrik Medizinprodukte">Medizinprodukte</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/produkte/tabak/index.htm" title="zur Rubrik Tabak">Tabak</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/produkte/ueberwachung/index.htm" title="zur Rubrik Überwachung">Überwachung</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/produkte/az/index.htm" title="zur Rubrik Produkte A-Z">Produkte A-Z</a>
+              </li>
+            </ul>
+            <ul id="nav_hs_5">
+              <li class="no_border">
+                <a href="http://www.lgl.bayern.de/gesundheit/hygiene/index.htm" title="zur Rubrik Hygiene">Hygiene</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/gesundheit/infektionsschutz/index.htm" title="zur Rubrik Infektionsschutz">Infektionsschutz</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/gesundheit/arzneimittel/index.htm" title="zur Rubrik Arzneimittel">Arzneimittel</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/gesundheit/praevention/index.htm" title="zur Rubrik Prävention">Prävention</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/gesundheit/arbeitsplatz_umwelt/index.htm" title="zur Rubrik Arbeitsplatz und Umwelt">Arbeitsplatz &amp; Umwelt</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/gesundheit/sozialmedizin/index.htm" title="zur Rubrik Sozialmedizin">Sozialmedizin</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/gesundheit/gesundheitsberichterstattung/index.htm" title="zur Rubrik Gesundheitsberichterstattung">Gesundheitsberichterstattung</a>
+              </li>
+            </ul>
+            <ul id="nav_hs_6">
+              <li class="no_border">
+                <a href="http://www.lgl.bayern.de/tiergesundheit/tierkrankheiten/index.htm" title="zur Rubrik Tierkrankheiten">Tierkrankheiten</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/tiergesundheit/tierschutz/index.htm" title="zur Rubrik Tierschutz">Tierschutz</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/tiergesundheit/tierarzneimittel/index.htm" title="zur Rubrik Tierarzneimittel">Tierarzneimittel</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/tiergesundheit/futtermittel/index.htm" title="zur Rubrik Futtermittel">Futtermittel</a>
+              </li>
+            </ul>
+            <ul id="nav_hs_7">
+              <li class="no_border">
+                <a href="http://www.lgl.bayern.de/aus_fort_weiterbildung/ausbildung/index.htm" title="zur Rubrik Ausbildung">Ausbildung</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/aus_fort_weiterbildung/fortbildung/index.htm" title="zur Rubrik Fortbildung">Fortbildung</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/aus_fort_weiterbildung/weiterbildung/index.htm" title="zur Rubrik Weiterbildung">Weiterbildung</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/aus_fort_weiterbildung/lgl_inhouse/index.htm" title="zur Rubrik LGL-Inhouse">LGL-<span lang="en">Inhouse</span></a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/aus_fort_weiterbildung/praktika/index.htm" title="zur Rubrik Praktika">Praktika</a>
+              </li>
+              <li>
+                <a href="http://www.lgl.bayern.de/aus_fort_weiterbildung/veranstaltungen/index.htm" title="zur Rubrik Veranstaltungen">Veranstaltungen</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="content">
+        <!-- InstanceBeginEditable name="header" -->
+        <!-- Janus Header Start -->
+        <div id="surfpfad">
+          <ul>
+            <li>
+              <a href="index.htm">Startseite</a>
+            </li>
+          </ul>
+          <div id="kopfsymbole">
+            <form id="FormName" action="suche/index.php" method="post" name="FormName">
+              <p>
+                <label for="suche">Volltextsuche</label>
+                <input onclick="if(this.value=='Suchbegriff') this.value='';" type="text" name="searchstring" id="suche" value="Suchbegriff" size="21" maxlength="128" />
+                <input id="search_submit" title="Suche starten" type="image" value="suchen" src="style/layout/sent.gif" alt="suchen" />
+              </p>
+            </form>
+            <ul>
+              <li>
+                <a title="Ansicht vergr??ern/verkleinern" href="../../../global/script/xxl.php?www.lgl.bayern.de/error_404.htm?">
+                  <img alt="Ansicht vergr??ern/verkleinern" src="style/symbole/zoom_normal.gif" height="15" width="27" />
+                </a>
+              </li>
+              <li>
+                <a title="Link dieser Seite versenden" href="style/script/versenden.php?titel=Error 404&amp;url=www.lgl.bayern.de/error_404.htm?">
+                  <img alt="Link dieser Seite versenden" src="style/symbole/versenden.gif" height="15" width="17" />
+                </a>
+              </li>
+              <li>
+                <a title="Druckversion dieser Seite" href="../../../global/script/drucken.php?www.lgl.bayern.de/error_404.htm?">
+                  <img alt="Druckversion" src="style/symbole/drucken.gif" height="15" width="17" />
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- Janus Header End -->
+        <!-- InstanceEndEditable -->
+        <div id="content_2c">
+          <!-- #BeginEditable "HierstehtderCont" -->
+          <h1>Dokument nicht gefunden (Fehler 404)</h1>
+          <h2>Die von Ihnen gewählte Adresse / URL ist auf unserem Server nicht bzw. nicht mehr vorhanden.</h2>
+          <p>Möglicherweise haben Sie einen veralteten Link bzw. ein altes Lesezeichen/ <span lang="en">Bookmark</span> verwendet. Wahrscheinlich befindet sich die gesuchte Seite oder das gesuchte Dokument an einer anderen Stelle im Internetauftritt des Bayerischen Landesamtes für Gesundheit und Lebensmittelsicherheit (LGL).</p>
+          <p>Bitte versuchen Sie, den von Ihnen gewünschten Inhalt über folgende Möglichkeiten zu finden:</p>
+          <ul>
+            <li class="intern">
+              <a title="interner Link" href="http://www.lgl.bayern.de/index.htm">Startseite</a>
+            </li>
+            <li class="intern">
+              <a title="interner Link" href="http://www.lgl.bayern.de/sitemap/index.htm">Inhaltsverzeichnis (Sitemap</a>)</li>
+            <li class="intern">
+              <a title="interner Link" href="http://www.lgl.bayern.de/suche/index.htm">Suchfunktion</a>
+            </li>
+          </ul>
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <!-- #EndEditable -->
+          <!-- id = content_2c -->
+        </div>
+        <div id="navi_rechts_2c">
+          <!-- InstanceBeginEditable name="rechte Marginalienspalte" -->
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <!-- InstanceEndEditable -->
+          <!-- id = navi_rechts_2c -->
+        </div>
+        <!-- id = content_2c -->
+        <!-- InstanceBeginEditable name="footer" -->
+        <!-- Janus Footer Start -->
+        <div id="footer">
+          <hr />
+          <ul>
+            <li>Dokument aktualisiert am: 09.11.2011</li>
+            <li>
+              <a href="style/script/kommentieren.php?titel=60697114111421111114603250525048505200038706&amp;url=111911195119704691085103810850469098309751213101311421105046410081015047710181148114111141144095705280489052404611046116910900166879&amp;autoren=711291147101311521152101211531169101210831086101109510954097211630951095610821037108704640982097512131012114411060463100310100124153">Kommentar zur Seite an Autor senden</a>
+            </li>
+          </ul>
+          <div id="seitenabschluss">
+            <span id="seitenabschlusstxt">© Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit 2016</span>
+          </div>
+        </div>
+        <!-- Janus Footer End -->
+        <!-- InstanceEndEditable -->
+      </div>
+      <!-- id = center -->
+    </div>
+  </body>
+</html>
+
+
+
+
+
+
+
+

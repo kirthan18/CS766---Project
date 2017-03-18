@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Page Not Found</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=Shift_JIS">
+<META content="MSHTML 6.00.2900.2838" name=GENERATOR></HEAD>
+<BODY text=#000000 bgColor=#ffffff leftMargin=0 topMargin=0 marginheight="0" marginwidth="0">
+
+
+
+<TABLE cellSpacing=0 width="100%" border=0>
+	  <TBODY>
+	  <TR>
+	    <TD background="/images/page_not_found_bg.gif">
+			<IMG src="/images/page_not_found_bar.gif">
+		</TD>
+	</TR>
+	</TBODY>
+</TABLE>
+
+<TABLE cellSpacing=0 cellPadding=2 width="100%" border=0>
+	  <TBODY>
+		  <TR><br>
+		  </TR>
+		  <TR>
+			<TD>
+			</TD>
+		    <TD colSpan=2>
+				<font size="4"><b>指定されたページがみつかりませんでした。</b></font>
+	<BR>
+	<BR>
+			</TD>
+		</TR>
+		<TR>
+			<TD width=20 rowSpan=2>
+			</TD>
+			<TD>
+				<FONT color=#cc0000 size=-1>以下の項目をご確認のうえ、再度アクセスしてください。</FONT>
+			</TD>
+		</TR>
+		<TR>
+			<TD>
+		      <UL>
+		        <LI><FONT size=-1>ホームページのアドレスをもう一度ご確認ください。</FONT> 
+		        <LI><FONT size=-1>アドレスが正しい場合は、ページが削除されている可能性があります。</FONT> 
+		        <LI><FONT size=-1>サーバーが混み合っている可能性がありますので、しばらく時間をおいてからアクセスしてみてください。</FONT> 
+				</LI>
+			</UL>
+			</TD>
+		</TR>
+	</TBODY>
+</TABLE>
+
+</BODY>
+</HTML>

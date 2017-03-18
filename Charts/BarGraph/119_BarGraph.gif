@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="ja"><!-- InstanceBegin template="/Templates/lightstone.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="format-detection" content="telephone=no">
+<!-- InstanceBeginEditable name="EditRegion1" -->
+<meta http-equiv="Refresh" content="3;URL=http://www.lightstone.co.jp/">
+<title>ファイルが見つかりません | ライトストーン</title>
+<!-- InstanceEndEditable -->
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!-- InstanceBeginEditable name="head" -->
+<script type="text/javascript" src="/analytics.js"></script>
+<!-- InstanceEndEditable -->
+</head>
+
+<body> 
+<!-- Begin Wrapper -->
+<div id="wrapper">  
+
+<!-- header -->
+<div id="header">
+    <h1><a href="index.html" title="ライトストーン トップ"><img src="images/obj_sitetitle.gif" alt="Light Stone Corp."></a></h1>
+    <!-- InstanceBeginEditable name="EditRegion2" -->
+    <div id="search">
+      <form method="GET" action="http://www.google.co.jp/search" target="_self">
+        <small style="color: #656565; font-size: 9pt;">サイト内検索　powered by Google</small><br>
+        <input type="text" name="q" size="31" maxlength="200" value="" style="width:160px;">
+        <input type="submit" name="btnG" value="検索">
+        <input type="hidden" name="sitesearch" value="www.lightstone.co.jp">
+        <input type="hidden" name="domains" value="www.lightstone.co.jp">
+        <input type="hidden" name="hl" value="ja">
+        <input type="hidden" name="num" value="20">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+      </form>
+    </div>
+    <!-- InstanceEndEditable -->
+    <div id="smallnav">
+       <ul>
+       <li><a href="https://www.lightstone.co.jp/userinfo/" title="ユーザ情報変更">ユーザ情報変更</a></li>
+       <li><a href="http://www.lightstone.co.jp/sitemap.html" title="サイトマップ">サイトマップ</a></li>
+       <li><a href="http://www.lightstone.co.jp/lsieng.html" title="English">English</a></li>
+       </ul>
+    </div>
+    <div id="nav" class="clear">
+    	<ul>
+		<li><a href="http://www.lightstone.co.jp/product.html" title="製品一覧">製品一覧</a></li>
+        <li><a href="http://www.lightstone.co.jp/develop.html" title="開発">開発</a></li>
+		<li><a href="http://www.lightstone.co.jp/learning.html" title="ラーニング">ラーニング</a></li>
+        <li><a href="http://www.lightstone.co.jp/user/index.html" title="事例">事例</a></li>
+		<li><a href="http://www.lightstone.co.jp/buy_main.html" title="見積／購入">見積／購入</a></li>
+		<li><a href="http://www.lightstone.co.jp/companyprofile.html" title="会社情報">会社情報</a></li>
+		<li><a href="https://www.lightstone.co.jp/mailform/" title="お問合せ">お問合せ</a></li>
+        <li><a href="https://www.lightstone.co.jp/cart/cart" title="カート">
+        <img src="http://www.lightstone.co.jp/images/cart.png" alt="cart">&nbsp;カート</a></li>
+		</ul>
+    </div>
+    <section id="banner">
+	  <div id="topicPath">
+	<a href="https://www.lightstone.co.jp/mailform/"><img src="/images/mail.png" alt="お問合せフォーム" style="float: right; margin-left:1em"></a>
+   <img src="/images/tel.png" alt="お問合せ：03-3864-5211" style="float: right;">
+	<!-- InstanceBeginEditable name="EditRegion3" -->
+      <ul>
+      	<li><a href="/index.html">ライトストーン トップ</a></li>
+        <li>ファイルが見つかりません</li>
+      </ul>
+   <!-- InstanceEndEditable -->
+        </div>
+	  <!-- InstanceBeginEditable name="EditRegion6" -->
+	  <!-- InstanceEndEditable -->
+	  </section>
+	</div>
+<!-- //header -->
+  
+<!-- Begin Contents -->
+<div id="contents">
+<!-- Begin Main Column -->
+<div id="main">
+
+<section id="mainframe"><!-- InstanceBeginEditable name="EditRegion4" -->
+				<p>&#xa0;</p>
+				<p>&#xa0;</p>
+				<p>ファイルが見つかりません。既に削除されているかURLが変更になっている可能性があります。</p>
+                <p>トップページからお探しください。 3秒後に<a href="/index.html">トップページに移動</a>します。</p>
+				<p>&#xa0;</p>
+<!-- InstanceEndEditable --></section>
+</div>
+<!-- End Main Column -->
+    
+</div>
+<!--End Contents-->
+   
+   
+        <!-- Begin Footer -->
+        <div id="footer">
+        <div id="foot_wrap">
+    
+        <div class="foot_menu1">
+        <dl>
+        <dt>科学技術系</dt>
+        <dd><a href="http://www.lightstone.co.jp/origin/index.html">Origin</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/flexpde/index.html">FlexPDE</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/soilvision/index.html">SV Office</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/aquaveo/index.html">GMS / SMS / WMS</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/goldensoftware/index.html">Golden SOftware</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/hearne/index.html">CLIMEX / DYMEX</a></dd>
+        </dl>
+        </div>
+        
+        <div class="foot_menu1">
+        <dl>
+        <dt>結晶構造解析系</dt>
+        <dd><a href="http://www.lightstone.co.jp/jade/index.html">JADE</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/icdd/index.html">ICDD PDF-4/PDF-2</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/crystal/index.html">Crystal Impact</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/pearsonscd/index.html">Pearson's Crystal Data</a></dd>
+        </dl>
+        </div>
+        
+        <div class="foot_menu1">
+        <dl>
+        <dt>統計・計量経済系</dt>
+        <dd><a href="http://www.lightstone.co.jp/stata/index.html">Stata</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/eviews/index.html">EViews</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/gauss/index.html">GAUSS</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/limdep/index.html">LIMDEP / NLOGIT</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/estima/index.html">RATS / CATS</a></dd>
+        </dl>
+        </div>
+        
+        <div class="foot_menu1">
+        <dl>
+        <dt>その他</dt>
+        <dd><a href="http://www.lightstone.co.jp/latex/index.html">Scientific WorkPlace</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/maxqda/index.html">MAXQDA</a></dd>  
+        <dd><a href="http://www.lightstone.co.jp/aicharts/index.html">aiCharts</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/extreme_optimization/index.html">Extreme Optimization</a></dd>
+        </dl>
+        </div>
+        </div>
+        
+        <div id="foot_wrap">
+        <a href="http://www.lightstone.co.jp/security_policy.html">
+        <div class="foot_menu4" id="menu4-1">
+        <dl>
+        <dd><img alt="ISO(JIS Q)27001認証マーク" src="http://www.lightstone.co.jp/images/SGS_27001_JIPDEC_small.jpg"></dd>
+        <dd>ISO27001 (ISMS) 認証</dd>
+        <dd>情報セキュリティ・マネジメントシステム</dd>
+        </dl>
+        </div>
+        </a>
+        
+        <div class="foot_menu2">
+        <dl>
+        <dt></dt>
+        <dd><a href="http://www.lightstone.co.jp/companyprofile.html" title="会社情報">&middot;&nbsp;会社情報</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/map.html" title="アクセス">&middot;&nbsp;アクセス</a></dd>
+        <dd><a href="https://www.lightstone.co.jp/userinfo/" title="ユーザ情報変更">&middot;&nbsp;ユーザ情報変更</a></dd>
+        <dd><a href="https://www.lightstone.co.jp/mailform/" title="お問合せ">&middot;&nbsp;お問合せ</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/sitemap.html" title="サイトマップ">&middot;&nbsp;サイトマップ</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/lsieng.html" title="English">&middot;&nbsp;English</a></dd>
+        </dl>
+        </div>
+        
+        <div class="foot_menu2">
+        <dl>
+        <dt></dt>
+        <dd><a href="http://www.lightstone.co.jp/product.html" title="製品一覧">&middot;&nbsp;製品一覧</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/develop.html" title="開発">&middot;&nbsp;開発</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/learning.html" title="ラーニング">&middot;&nbsp;ラーニング</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/user/index.html" title="事例">&middot;&nbsp;事例</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/buy_main.html" title="見積／購入">&middot;&nbsp;見積／購入</a></dd>
+        </dl>
+        </div>
+
+        <div class="foot_menu4">
+        <dl>
+        <dt></dt>
+        <dd><a href="http://www.lightstone.co.jp/privacy.html">&middot;&nbsp;プライバシー</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/copyright.html">&middot;&nbsp;著作権／リンク</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/security_policy.html">&middot;&nbsp;情報セキュリティ基本方針</a></dd>
+        <dd><a href="http://www.lightstone.co.jp/law.html">&middot;&nbsp;特定商取引法に基づく表示</a></dd>
+        </dl>
+        </div>
+        </div>
+        
+        
+        <div class="copyrights">
+        <p>&#169;2017 Lightstone Corp. All rights reserved.</p>
+        </div>
+        
+        <div style="clear:both;"></div>   
+        </div>
+        <!-- End Footer -->
+         
+</div>
+<!-- End Wrapper -->
+         
+
+<script type="text/javascript" src="http://www.lightstone.co.jp/analytics.js"></script>
+
+</body>
+<!-- InstanceEnd --></html>

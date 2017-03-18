@@ -1,0 +1,154 @@
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      lang="de"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+<head>
+ <title>Seite nicht gefunden</title>
+ <meta name="robots" content="noindex,nofollow" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3"/>
+  <link rel="stylesheet" type="text/css" href="/CSS_scr-base.css" media="screen, print" charset="UTF-8"/>
+  <link rel="stylesheet" type="text/css" href="/CSS_print-base.css" media="print" charset="UTF-8"/>
+  <link rel="stylesheet" type="text/css" href="/jquery.autocomplete.css" media="screen, print"/>
+  <link rel="search" type="application/opensearchdescription+xml" href="/OpenSearch.xml" title="Statistik BW"/>
+  <script type="text/javascript" src="/jquery.js" charset="UTF-8"></script>
+  <script type="text/javascript" src="/jquery.autocomplete.js" charset="UTF-8"></script>
+  <script type="text/javascript" src="/default.js" charset="UTF-8"></script>
+</head>
+<body>
+<header>
+  <p id="org"><a href="/"><span>Statistisches Landesamt Baden&#8209;Württemberg</span></a></p>
+  <p id="linkto-document"><a href="#document">zum Inhalt</a></p>
+  <section id="service">
+    <nav id="nav-site-sections">
+      <ul id="nav-site-sections-list">
+        <li><a href="/">Start</a></li>
+        <li><a href="/UeberUns/Profil/">Über uns</a></li>
+        <li><a href="/Service/Fragen/">Service</a></li>
+        <li><a href="/Presse/Pressearbeit/">Presse</a></li>
+        <li><a href="/DatenMelden/Online/">Daten melden</a></li>
+      </ul>
+    </nav>
+    <form method="post" action="/Suche" id="stlSearch">
+      <input type="search" name="S" id="stlSearchS" placeholder="SUCHBEGRIFF"/>
+      <button type="submit">&#x25BA;</button>
+    </form>
+  </section>
+  <p id="linkto-categories"><a href="#">Menü</a></p>
+  <p id="breadcrumbs"><a href="/">Start</a> :: <a href="/Veroeffentl/">Veroeffentl</a> :: <a href="/Veroeffentl/Monatshefte/">Monatshefte</a> :: <a href="/Veroeffentl/Monatshefte/images/">images</a>
+ :: Seite nicht gefunden
+</p>
+  <hgroup>
+    <h1>statistik-bw.de</h1>
+    <h2>Veroeffentl</h2>
+    <h3>Monatshefte</h3>
+  </hgroup>
+</header>
+<nav id="nav-site-subsections" class="nav-main"><p data-meta="linkToPageSection"><a href="#document">zum Inhalt</a></p><ul id="nav-site-subsections-list"><li><strong>Leben und Arbeiten</strong><ul><li><a href="/BevoelkGebiet/">Bevölkerung und Gebiet</a><ul><li><a href="/BevoelkGebiet/GebietFlaeche/">Gebiet</a></li><li><a href="/BevoelkGebiet/Bevoelkerung/">Bevölkerung im Überblick</a></li><li><a href="/BevoelkGebiet/Alter/">Alters­struktur</a></li><li><a href="/BevoelkGebiet/MigrNation/">Mig­ranten und Natio­nalität</a></li><li><a href="/BevoelkGebiet/EheScheidung/">Ehe und Schei­dung</a></li><li><a href="/BevoelkGebiet/GeburtSterben/">Ge­burten und Sterbe­fälle</a></li><li><a href="/BevoelkGebiet/ZuFortzuege/">Zu- und Fort­züge</a></li><li><a href="/BevoelkGebiet/Vorausrechnung/">Vor­aus­rech­nung</a></li></ul></li><li><a href="/PrivHaushalte/">Private Haushalte</a><ul><li><a href="/PrivHaushalte/EntwStruktur/">Entwick­lung und Struk­tur</a></li><li><a href="/PrivHaushalte/AusstattVermoegen/">Aus­stat­tung und Ver­mögen</a></li><li><a href="/PrivHaushalte/EinAusgaben/">Ein­nah­men und Aus­gaben</a></li><li><a href="/PrivHaushalte/Lebensbeding/">Lebens­bedin­gungen</a></li><li><a href="/PrivHaushalte/IKT/">IT-Nutzung</a></li></ul></li><li><a href="/Familie/">Familie</a><ul><li><a href="/Familie/GruendStrukt/">Grün­dung und Strukturen</a></li><li><a href="/Familie/KindhJugend/">Kind­heit und Ju­gend</a></li><li><a href="/Familie/BerufFamilie/">Beruf und Familie</a></li><li><a href="/Familie/Einkommenslagen/">Ein­kommens­lagen</a></li></ul></li><li><a href="/Gesundheit/">Gesundheit</a><ul><li><a href="/Gesundheit/AerzteEinrichtungen/">Ärzte und Ein­rich­tungen</a></li><li><a href="/Gesundheit/BehandlungenKV/">Be­hand­lungen und Krank­enstand</a></li><li><a href="/Gesundheit/Todesursachen/">Todes­ursachen</a></li><li><a href="/Gesundheit/BehindPflegebeduerft/">Behin­derte und Pflege­bedürf­tige</a></li></ul></li><li><a href="/Wohnen/">Wohnen</a><ul><li><a href="/Wohnen/GebaeudeWohnungen/">Gebäude und Woh­nungen</a></li><li><a href="/Wohnen/WkostenVerhaeltnis/">Wohn­kosten und -verhältnisse</a></li></ul></li><li><a href="/BildungKultur/">Bildung und Kultur</a><ul><li><a href="/BildungKultur/BilStrukturAusgaben/">Bil­dungs­struk­tur und -ausgaben</a></li><li><a href="/BildungKultur/KindBetreuung/">Kin­der­be­treu­ung</a></li><li><a href="/BildungKultur/SchulenAllgem/">All­gemein­bil­dende Schulen</a></li><li><a href="/BildungKultur/SchulenBerufl/">Beruf­liche Schulen</a></li><li><a href="/BildungKultur/Hochschulen/">Hoch­schulen</a></li><li><a href="/BildungKultur/AusWeiterb/">Aus- und Weiter­bildung</a></li><li><a href="/BildungKultur/Kultur/">Kultur</a></li></ul></li><li><a href="/Arbeit/">Arbeit</a><ul><li><a href="/Arbeit/Erwerbsbeteiligung/">Er­werbs­betei­li­gung</a></li><li><a href="/Arbeit/Erwerbstaetige/">Er­werbs­tätige</a></li><li><a href="/Arbeit/Beschaeftigte/">Sozial­versicherungs­pflichtig Beschäf­tigte</a></li><li><a href="/Arbeit/OeffentlichBeschaeftigte/">Öffentlich Beschäf­tigte</a></li><li><a href="/Arbeit/Arbeitslose/">Arbeitslose</a></li><li><a href="/Arbeit/Verdienste/">Ver­dienste und Arbeitszeit</a></li><li><a href="/Arbeit/Kosten/">Arbeits­kosten</a></li></ul></li></ul></li><li><strong>Staat und Gesellschaft</strong><ul><li><a href="/SozSicherung/">Soziale Sicherung</a><ul><li><a href="/SozSicherung/KindJugendhilfe/">Kinder- und Jugend­hilfe</a></li><li><a href="/SozSicherung/Pflege/">Pflege</a></li><li><a href="/SozSicherung/Wohngeld/">Wohn­geld</a></li><li><a href="/SozSicherung/Mindestsicherung/">Min­dest­siche­rung</a></li><li><a href="/SozSicherung/SozVersicherung/">Sozial­ver­siche­rung</a></li><li><a href="/SozSicherung/Versorgungsempfaenger/">Versor­gungs­emp­fänger</a></li></ul></li><li><a href="/FinSteuern/">Finanzen und Steuern</a><ul><li><a href="/FinSteuern/FinLand/">Landes­finanzen</a></li><li><a href="/FinSteuern/FinKomm/">Kommunal­finanzen</a></li><li><a href="/FinSteuern/Schulden/">Schulden</a></li><li><a href="/FinSteuern/Steuern/">Steuern</a></li><li><a href="/FinSteuern/FinAusgleich/">Finanz­aus­gleich</a></li></ul></li><li><a href="/Rechtspflege/">Rechts­pflege</a><ul><li><a href="/Rechtspflege/StraftatenVerurt/">Straftaten und Verur­teilte</a></li><li><a href="/Rechtspflege/StrafvollzugBewaehr/">Bewährung und Straf­vollzug</a></li></ul></li><li><a href="/Wahlen/">Wahlen</a><ul><li><a href="/Wahlen/Kommunal/">Kom­munal­wahlen</a></li><li><a href="/Wahlen/Landtag/">Land­tags­wahl</a></li><li><a href="/Wahlen/Bundestag/">Bundes­tags­wahl</a></li><li><a href="/Wahlen/Europa/">Europa­wahl</a></li></ul></li></ul></li><li><strong>Volks­wirt­schaft und Bran­chen</strong><ul><li><a href="/GesamtwBranchen/">Gesamt­wirt­schaft und Kon­junktur</a><ul><li><a href="/GesamtwBranchen/VGR/">Volks­wirt­schaft­liche Gesamt­rechnungen</a></li><li><a href="/GesamtwBranchen/UnternehmBetriebe/">Unter­neh­men und Be­triebe</a></li><li><a href="/GesamtwBranchen/KonjunktPreise/">Kon­junk­tur und Preise</a></li><li><a href="/GesamtwBranchen/Gewerbeanz/">Gewer­bean­zeigen</a></li><li><a href="/GesamtwBranchen/Insolvenzen/">Insol­venzen</a></li><li><a href="/GesamtwBranchen/ForschEntwicklung/">For­schung und Ent­wick­lung</a></li></ul></li><li><a href="/Landwirtschaft/">Land- und Forst­wirt­schaft</a><ul><li><a href="/Landwirtschaft/Agrarstruktur/">Agrar­struktur</a></li><li><a href="/Landwirtschaft/Bodennutzung/">Boden­nutzung</a></li><li><a href="/Landwirtschaft/Ernte/">Ernte</a></li><li><a href="/Landwirtschaft/Weinwirtschaft/">Wein­wirt­schaft</a></li><li><a href="/Landwirtschaft/Viehwirtschaft/">Vieh­wirt­schaft</a></li></ul></li><li><a href="/Industrie/">Industrie</a><ul><li><a href="/Industrie/Struktur/">Struk­tur­daten</a></li><li><a href="/Industrie/Konjunktur/">Indus­trie­kon­junk­tur</a></li></ul></li><li><a href="/HandwBauwirtsch/">Handwerk und Bau</a><ul><li><a href="/HandwBauwirtsch/Handwerk/">Handwerk</a></li><li><a href="/HandwBauwirtsch/Baugewerbe/">Baugewerbe</a></li><li><a href="/HandwBauwirtsch/Bautaetigkeit/">Bautätigkeit</a></li></ul></li><li><a href="/HandelDienstl/">Handel und Dienst­leis­tun­gen</a><ul><li><a href="/HandelDienstl/Binnenhandel/">Bin­nen­han­del</a></li><li><a href="/HandelDienstl/Aussenhandel/">Außen­han­del</a></li><li><a href="/HandelDienstl/Dienstleistungen/">Dienst­leis­tun­gen</a></li></ul></li><li><a href="/TourismGastgew/">Tou­ris­mus und Gast­ge­wer­be</a><ul><li><a href="/TourismGastgew/Tourismus/">Tou­ris­mus</a></li><li><a href="/TourismGastgew/Gastgewerbe/">Gast­ge­wer­be</a></li></ul></li></ul></li><li><strong>Umwelt und Verkehr</strong><ul><li><a href="/Umwelt/">Umwelt</a><ul><li><a href="/Umwelt/Oekonomie/">Umwelt­öko­nomie</a></li><li><a href="/Umwelt/Luft/">Klima und Luft</a></li><li><a href="/Umwelt/Wasser/">Wasser</a></li><li><a href="/Umwelt/Abfall/">Abfall</a></li></ul></li><li><a href="/Energie/">Energie</a><ul><li><a href="/Energie/Strukturdaten/">Struk­tur­daten</a></li><li><a href="/Energie/ErzeugVerwend/">Erzeu­gung und Ver­wen­dung</a></li><li><a href="/Energie/Energiebilanz/">Energie­bilanz</a></li></ul></li><li><a href="/Verkehr/">Verkehr</a><ul><li><a href="/Verkehr/KFZBelastung/">Kfz und Verkehrs­belas­tung</a></li><li><a href="/Verkehr/PersGueterverk/">Personen- und Güter­verkehr</a></li><li><a href="/Verkehr/Unfaelle/">Unfälle</a></li></ul></li></ul></li></ul></nav>
+<main id="document" class="index-top">
+ <header><h1>Seite nicht gefunden (HTTP Fehler 404)</h1></header>
+ <section>
+  <p>Liebe Besucherin, lieber Besucher,</p>
+  <p>Die von Ihnen gew&uuml;nschte Seite ist nicht verf&uuml;gbar.</p>
+  <p>Es gibt verschiedene Gr&uuml;nde, warum unser Server die von Ihnen gew&auml;hlte Seite nicht finden kann:</p>
+  <ul><li>Falls Sie die Adresse der Seite manuell in der Adressleiste eingegeben haben,
+          stellen Sie sicher, dass die Adresse keine Tippfehler enth&auml;lt.</li>
+      <li>Da unsere Seiten regelm&auml;&szlig;ig aktualisiert werden, kann es sein, dass Sie &uuml;ber einen veralteten
+          Link oder Suchmaschineneintrag oder Bookmark/Favoriten zu dieser Seite gekommen sind.</li>
+      <li>Sie sind einem internen Link gefolgt &#8211; dann haben <strong>wir</strong> einen Fehler gemacht.
+          Der Zugriff wurde protokolliert und wir werden der Sache nachgehen.</li></ul>
+  <p>In den meisten F&auml;llen d&uuml;rfte die gew&uuml;nschte Information noch existieren,
+     befindet sich jedoch unter Umst&auml;nden an einem anderen Ort.</p>
+  <p><strong>Bitte versuchen Sie folgende Alternativen:</strong><br/>
+     <a href="/">Men&uuml; (links)</a> &nbsp; oder &nbsp;
+     <a href="/Suche">Suche (rechts oben)</a>.</p>
+  <p>Weiterhin viele nutzbringende Besuche bei uns w&uuml;nscht Ihnen<br/>
+     <em>Ihr Internet-Team vom Statistischen Landesamt in Stuttgart</em></p>
+ </section>
+</main>
+<footer id="footer-site">
+  <p><a href="#document">zum Inhalt</a></p>
+  <nav id="nav-site-imprint">
+    <ul>
+      <li><a href="/service/Impressum/">Impressum</a></li>
+      <li><a href="/UeberUns/Kontakt/">Kontakt</a></li>
+      <li><a href="/service/AGB/">AGB</a></li>
+      <li><a href="/service/Datenschutz/">Datenschutz</a></li>
+      <!--li><a href="/Sitemap/">Sitemap</a></li-->
+      <li><a href="/Glossar/">Glossar</a></li>
+      <li id="signsNsymbols-list"><span>Zeichenerklä­rung</span>
+          <ul id="signsNsymbols" class="nameValuePairs">
+            <li typeOf="PropertyValue">
+              <span property="name" id="lbl-sign1">
+                0</span>
+              <span property="description" aria-labelledby="#lbl-sign1">
+                weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr
+                als nichts</span>
+            </li>
+            <li typeOf="PropertyValue">
+              <span property="name" id="lbl-sign2">
+                &#8211;</span>
+              <span property="description" aria-labelledby="#lbl-sign2">
+               nichts vorhanden (genau Null)</span>
+            </li>
+            <li typeOf="PropertyValue">
+              <span property="name" id="lbl-sign3">
+                ·</span><span property="description" aria-labelledby="#lbl-sign3">
+                Zahlenwert unbekannt oder geheim zu halten</span>
+            </li>
+            <li typeOf="PropertyValue">
+              <span property="name" id="lbl-sign4">
+                x</span><span property="description" aria-labelledby="#lbl-sign4">
+                Tabellenfach gesperrt, weil Aussage nicht sinnvoll</span>
+            </li>
+            <li typeOf="PropertyValue">
+              <span property="name" id="lbl-sign5">
+                &#8230;</span><span property="description" aria-labelledby="#lbl-sign5">
+                Angabe fällt später an</span>
+            </li>
+            <li typeOf="PropertyValue">
+              <span property="name" id="lbl-sign6">
+                /</span><span property="description" aria-labelledby="#lbl-sign6">
+                Zahlenwert nicht sicher genug</span>
+            </li>
+            <li typeOf="PropertyValue">
+              <span property="name" id="lbl-sign7">
+                (&#8239;)</span><span property="description" aria-labelledby="#lbl-sign7">
+                Aussagewert eingeschränkt</span>
+            </li>
+            <li typeOf="PropertyValue">
+              <span property="name" id="lbl-sign8">
+                (·)</span><span property="description" aria-labelledby="#lbl-sign8">
+                unter 50 erfasste Fälle bei einer Stichprobenerhebung</span>
+            </li>
+            <li typeOf="PropertyValue">
+              <span property="name" id="lbl-sign9">
+                p</span><span property="description" aria-labelledby="#lbl-sign9">
+                vorläufige Zahl</span>
+            </li>
+            <li typeOf="PropertyValue">
+              <span property="name" id="lbl-sign10">
+                r</span><span property="description" aria-labelledby="#lbl-sign10">
+                berichtigte Zahl</span>
+            </li>
+            <li typeOf="PropertyValue">
+              <span property="name" id="lbl-sign11">
+                s</span><span property="description" aria-labelledby="#lbl-sign12">
+                geschätzte Zahl</span>
+            </li>
+            <li typeOf="PropertyValue">
+              <span property="name" id="lbl-sign13">
+                D</span><span property="description" aria-labelledby="#lbl-sign13">
+                Durchschnitt (arithmetisches Mittel)</span>
+            </li>
+            <li>Abweichungen in den Summen durch Runden der Zahlen.</li>
+          </ul>
+        </li>
+    </ul>
+  </nav>
+  <p id="CR"><a href="/Service/Copyright/">© Statistisches Landesamt Baden-Württemberg, 2017</a></p>
+</footer>
+</body>
+</html>

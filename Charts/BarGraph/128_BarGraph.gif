@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+
+<title>404 Not Found : 財務省</title>
+<meta name="copyright" content="Copyright (C) 財務省 Ministry of Finance, The Japanese Government" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<meta name="description" content="404 Not Found" />
+<meta name="keywords" content="財務省," />
+<meta name="date" content="2012-03-19" scheme="year-month-day" />
+
+<meta property="og:title" content="404 Not Found" />
+<meta property="og:type" content="government" />
+<meta property="og:url" content="http://www.mof.go.jp/error.html" />
+<meta property="og:image" content="http://www.mof.go.jp/common/images/og_profile.jpg" />
+<meta property="og:site_name" content="財務省" />
+<meta property="fb:app_id" content="253099528071523" />
+
+<!-- CSS -->
+<link rel="stylesheet" type="text/css" media="screen, print" href="/common/css/import.css" />
+<link rel="stylesheet" type="text/css" media="print" href="/common/css/print.css" />
+
+<!-- JavaScript -->
+<script type="text/javascript" src="/common/js/jquery.js" charset="Shift_JIS"></script>
+<script type="text/javascript" src="/common/js/jquery.cmn.js" charset="Shift_JIS"></script>
+<script type="text/javascript" src="/common/js/rollover.js" charset="Shift_JIS"></script>
+
+<!-- Search Box JS -->
+<script type="text/javascript" src="/ckjs/ck_search.js" charset="Shift_JIS"></script>
+
+<!-- Fontsize JS -->
+<script type="text/javascript" src="/slider/jquery.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="/common/js/jquery_cookie.js" charset="UTF-8"></script>
+<script type="text/javascript" src="/common/js/fontsize.js" charset="UTF-8"></script>
+</head>
+
+
+<body>
+
+<noscript><p class="jsBlock">このサイトではJavascript機能をONにしてご利用ください。</p></noscript>
+
+<div id="container">
+<a name="top" id="top"><!-- top of page --></a>
+
+<div id="header"><div id="blockskip"><a tabindex="1" href="#skipmain" title="本文へジャンプ">本文へ</a> </div><div id="headSearch"><div id="search_ex"><form action="http://www.google.com/search" method="get" id="cse-search-box">	<div id="co">	<input name="cx" type="hidden" value="015355283094946217929:qry5ib_fqyq" /> <input name="cof" type="hidden" value="http://www.mof.go.jp" /> <input class="search-field text" name="q" size="25" title="ここに検索語を入力" type="text" /> <input alt="検索" class="botton search-btn" id="searchBtn" name="searchBtn" src="http://www.mof.go.jp/common/images/search_btn.gif" type="image" /> 	</div></form><script src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=ja" type="text/javascript"></script><div id="searchdetail"><a href="/search/index.html">詳細検索</a> </div></div><!-- /headsearch --></div><div class="head_logo"><a tabindex="4" href="/index.htm"><img src="/common/images/header_logo.jpg" alt="財務省 Ministry of Finance Japan" width="291" height="42" /></a> </div><div id="helpNavi"><ul class="clearfix">	<li class="en"><a tabindex="5" href="/english/index.htm"><img class="imgover" src="/common/images/helpNavi_en.gif" alt="English_top" width="80" height="23" /></a></li>	<li class="faq"><a tabindex="6" href="/faq/index.htm"><img class="imgover" src="/common/images/helpNavi_faq.gif" alt="財務省FAQ" width="120" height="23" /></a></li>	<li class="map"><a tabindex="7" href="/sitemap.htm"><img class="imgover" src="/common/images/helpNavi_map.gif" alt="サイトマップ" width="105" height="23" /></a></li></ul><!-- /helpnavi --></div><div id="fontsize"><dl class="clearfix"><dt><img src="/common/images/font_size.gif" alt="文字サイズ" width="60" height="23" /></dt><dd><a id="font_s" tabindex="8" href="#"><img src="/common/images/font_large.gif" alt="大きく" width="56" height="23" /></a></dd><dd><a id="font_m" tabindex="9" href="#"><img src="/common/images/font_nomal.gif" alt="元に戻す" width="56" height="23" /></a></dd><dd><a id="font_l" tabindex="10" href="#"><img src="/common/images/font_small.gif" alt="小さく" width="56" height="23" /></a></dd></dl><!-- /fontsize --></div><div id="gNavi"><ul class="clearfix">	<li class="topnavi"><a href="/index.htm"><img class="imgover" src="/common/images/gnavi_top.gif" alt="トップページ" width="127" height="40" /></a></li>	<li class="financenavi"><a href="http://www.mof.go.jp/zaisei/index.htm" onclick="_gaq.push(['_trackEvent', 'GloNavi', 'Click-Subsite', 'zaiseimofgojp']);"><img class="imgover" src="/common/images/gnavi_finance.gif" alt="日本の財政を考える" width="127" height="40" /></a></li>	<li class="taxnavi"><a href="/tax_policy/tax_information.htm"><img class="imgover" src="/common/images/gnavi_tax.gif" alt="身近な税" width="127" height="40" /></a></li>	<li class="fundnavi"><a href="/jgbs/individual/kojinmuke/index.html"><img class="imgover" src="/common/images/gnavi_fund.gif" alt="個人向け国債" width="127" height="40" /></a></li>	<li class="aboutnavi"><a href="/about_mof/index.html"><img class="imgover" src="/common/images/gnavi_about.gif" alt="財務省について" width="127" height="40" /></a></li>	<li class="medianavi"><a href="/public_relations/index.html"><img class="imgover" src="/common/images/gnavi_media.gif" alt="広報・報道" width="95" height="40" /></a></li>	<li class="naviLast"><a href="/statistics/index.html"><img class="imgover" src="/common/images/gnavi_statistical.gif" alt="統計" width="95" height="40" /></a></li>	<li class="naviLast2"><a href="http://www.youtube.com/user/MOFJapan" onclick="_gaq.push(['_trackEvent', 'GloNavi', 'Click-outsite', 'youtube']);"><img src="/common/images/youtube.jpg" alt="YouTube" width="52" /></a></li></ul><!-- /gNavi --></div><!--=========== /header ===========--></div>
+
+<div id="topicPath">
+<p>現在位置&nbsp;：&nbsp;<a href="./index.htm">トップページ</a> &gt; 404 Not Found</p>
+<!--=========== /topicPath ===========--></div>
+
+
+
+<div id="contents" class="clearfix">
+
+<div id="main">
+
+
+<div style="float: right">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<fb:like send="false" layout="button_count" width="100" show_faces="false"></fb:like>
+
+</div>
+<div align="right">
+<a href="http://twitter.com/share" class="twitter-share-button" data-lang="ja">tweet</a>
+<script charset="UTF-8" type="text/javascript" src="http://platform.twitter.com/widgets.js ">
+</script>
+
+<script type="text/javascript">
+  window.___gcfg = {lang: 'ja'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<g:plusone size="medium"></g:plusone>
+
+<!--=========== /Facebook,Google+,twitter ===========-->
+</div>
+<a name="skipmain" id="skipmain" title="ここから本文です"><!-- content of page --></a>
+<h1 class="decoA1">404 Not Found</h1>
+
+
+
+<div class="singleBlock">
+<meta content="10; url=http://www.mof.go.jp/index.htm" http-equiv="refresh" /><h2 class="decoA2">お探しのページは見つかりませんでした。</h2><ul class="arrowList">	<li>申し訳ございませんが、お探しのページは移動または削除されている場合があります。</li>	<li>ご指定のアドレス（URL）が間違っている可能性があります。目的のアドレス（URL）をお確かめの上、もう一度アクセスし直してみて下さい。</li>	<li>直前にご覧になっていたページのリンクが間違っている可能性があります。</li></ul><p style="text-indent: 2em">10秒後に<a href="http://www.mof.go.jp/index.htm">財務省トップページ（http://www.mof.go.jp/）</a>に移動します。 </p><p style="text-indent: 2em">移動しない場合は、上記リンクをクリックしてください。 </p><h2 style="margin-top: 3em" class="decoA2">Page not found</h2><ul class="arrowList">	<li>Sorry, but the page you are looking for cannot be found.</li>	<li>The specified page was deleted of there is a possibility of moving.</li></ul><p style="text-indent: 2em"><a href="http://www.mof.go.jp/english/index.htm">English Toppage (http://www.mof.go.jp/english/)</a> </p>
+<!-- /singleBlock --></div>
+
+
+
+
+
+
+<!--=========== /main ==========--></div>
+
+<div id="sideNavi"><div class="sNavi"><div class="sNaviInner"><dl><dt><img src="/common/images/snavi_title_policy.gif" alt="財務省の政策" width="98" height="44" /></dt><dd><a href="/budget/index.html"><img class="imgover" src="/common/images/snavi_use.gif" alt="予算・決算" width="180" height="27" /></a></dd><dd><a href="/tax_policy/index.html"><img class="imgover" src="/common/images/snavi_tax.gif" alt="税制" width="180" height="27" /></a></dd><dd><a href="/customs_tariff/index.html"><img class="imgover" src="/common/images/snavi_tariff.gif" alt="関税制度" width="180" height="27" /></a></dd><dd><a href="/jgbs/index.html"><img class="imgover" src="/common/images/snavi_fund.gif" alt="国債" width="180" height="27" /></a></dd><dd><a href="/filp/index.html"><img class="imgover" src="/common/images/snavi_financing.gif" alt="財政投融資" width="180" height="27" /></a></dd><dd><div class="clm4Navi"><p class="sNaviClm1"><a href="/exchequer/index.html"><img class="imgover" src="/common/images/snavi_treasury.gif" alt="国庫" width="45" height="50" /></a> </p><p class="sNaviClm2"><a href="/currency/index.html"><img class="imgover" src="/common/images/snavi_money.gif" alt="通貨" width="44" height="50" /></a> </p><p class="sNaviClm2"><a href="/national_property/index.html"><img class="imgover" src="/common/images/snavi_property.gif" alt="国有財産" width="44" height="50" /></a> </p><p class="sNaviClm3"><a href="/tab_salt/index.html"><img class="imgover" src="/common/images/snavi_tobacco.gif" alt="たばこ塩" width="47" height="50" /></a> </p><br class="clmclear" /></div></dd><dd><a href="/international_policy/index.html"><img class="imgover" src="/common/images/snavi_international.gif" alt="国際政策" width="180" height="27" /></a></dd><dd><a href="/financial_system/index.html"><img class="imgover" src="/common/images/snavi_finance.gif" alt="政策金融・金融危機管理" width="180" height="27" /></a></dd><dd><a href="/pri/index.htm"><img class="imgover" src="/common/images/snavi_labo.gif" alt="財務総合政策研究所" width="180" height="27" /></a></dd></dl></div><!-- /snavi --></div><div class="bannerArea"><p>&nbsp;</p><p>&nbsp;</p><!-- /bannerArea --></div><!--=========== /sidenavi =========--></div>
+
+<div id="pageNavi" class="clearfix">
+<div><p class="floatleft"><a href="/index.htm" class="goindex">トップページへ戻る</a></p><br class="clmclear" /></div>
+<div><p class="floatright"><a href="#top" class="gotop">ページ先頭へ</a></p><br class="clmclear" /></div>
+<!--=========== /pageNavi =========--></div>
+
+<!--=========== /content ==========--></div>
+
+<div id="footer"><div class="footNavi"><ul>	<li><a href="/feedback.html">ご意見箱</a>&nbsp;|&nbsp;</li>	<li><a href="/location.htm">所在地案内</a>&nbsp;|&nbsp;</li>	<li><a href="/privacy_policy.htm">個人情報保護方針</a>&nbsp;|&nbsp;</li>	<li><a href="/notice.html">著作権・リンク等について</a>&nbsp;|&nbsp;</li>	<li><a href="/help.html">ヘルプ（サイトの使い方）</a></li></ul><!-- /footNavi --></div><div class="add"><address>〒100-8940&nbsp;東京都千代田区霞が関3-1-1<span>Tel（代表）03-3581-4111（9時～18時30分） </span></address><p>Copyright(C)&nbsp;財務省 (法人番号 8000012050001) </p><!-- /add --></div><!--=========== /footer ===========--></div><script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-23450482-1']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
+
+<!--=========== /container ========--></div>
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>
+<!--tjp012-4 -->
