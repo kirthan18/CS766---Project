@@ -38,11 +38,11 @@ for n = 1 : length(stats)
      area = stats(n).Area;
      if area > 150
         roi = [thisBB(1), thisBB(2) + thisBB(4), thisBB(3), size(I,1) - (thisBB(2)+ thisBB(4))]; 
-        roi2 = [0, thisBB(2) - 20,60,60];
+        roi2 = [5, thisBB(2) - 20,60,60];
         %roi = round(getPosition(imrect));
         txt = ocr(I, roi);
         txt.Text
-%         txt = ocr(I, roi2);
-%         txt.Text
+        txt = ocr(I, roi2);
+        txt.Text
      end
 end   
