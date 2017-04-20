@@ -7,11 +7,14 @@ stats = regionprops(ed, 'all');
 fh = figure();
 imshow(I);
 hold on;
+
+numbars = 0;
 for n = 1 : length(stats)    
      thisBB = stats(n).BoundingBox; 
      
      area = stats(n).Area;
      if area > 150
+         numbars = numbars + 1;
 %         plot(thisBB(1), thisBB(2),'p','Color','green');
 %         plot(thisBB(1) + thisBB(3), thisBB(2),'p','Color','red');
 %         plot(thisBB(1), thisBB(2) + thisBB(4),'p','Color','cyan');
@@ -31,7 +34,7 @@ for n = 1 : length(stats)
         'EdgeColor','y','LineWidth',1, 'Facecolor', 'r')    
      end
 end    
-
+disp(['Number of bars : ', num2str(numbars)]);
 figure; imshow(I);
 for n = 1 : length(stats)    
      thisBB = stats(n).BoundingBox; 
@@ -40,9 +43,10 @@ for n = 1 : length(stats)
         roi = [thisBB(1), thisBB(2) + thisBB(4), thisBB(3), size(I,1) - (thisBB(2)+ thisBB(4))]; 
         roi2 = [5, thisBB(2) - 20,60,60];
         %roi = round(getPosition(imrect));
-        txt = ocr(I, roi);
-        txt.Text
-        txt = ocr(I, roi2);
-        txt.Text
+        x_axis_label = ocr(I, roi);
+        y_axis_label = ocr(I, roi2);
+        disp(['(', x_axis_label.Text, ',' , y_axis_label.Text, ')'])
      end
 end   
+
+
