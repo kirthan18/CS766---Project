@@ -1,8 +1,15 @@
 I = imread('bar2.png');
-txt = ocr(I);
+% txt = ocr(I);
 BW = im2bw(I, graythresh(I));
-ed = edge(BW, 'canny');
-imshow(ed);
+
+I1 = rgb2gray(I);
+% BW = im2bw(I, graythresh(I));
+BW = imbinarize(I1);
+BW = imcomplement(BW);
+a = bwareaopen(BW, 700);
+imshow(a);
+ed = edge(a, 'canny');
+%imshow(ed);
 stats = regionprops(ed, 'all');
 fh = figure();
 imshow(I);
@@ -13,7 +20,7 @@ for n = 1 : length(stats)
      thisBB = stats(n).BoundingBox; 
      
      area = stats(n).Area;
-     if area > 150
+     if area > 1
          numbars = numbars + 1;
 %         plot(thisBB(1), thisBB(2),'p','Color','green');
 %         plot(thisBB(1) + thisBB(3), thisBB(2),'p','Color','red');
