@@ -1,7 +1,5 @@
 I1 = imread('Bar4.jpg');
-
 I = rgb2gray(I1);
-% BW = im2bw(I, graythresh(I));
 BW = imbinarize(I);
 BW = imcomplement(BW);
 a = bwareaopen(BW, 100);
@@ -42,23 +40,15 @@ for n = 1 : length(stats)/2
  
      x_axis_label = ocr(I, [x y width height]);  
      display(x_axis_label.Text);
-     
-     roi2 = [5, thisBB(2) - 20,60,60]; 
 end 
-disp(['Number of bars : ', num2str(numbars)]);
-% figure; imshow(I);
-% for n = 1 : length(stats)/2   
-%      thisBB = stats(n).BoundingBox; 
-%      area = stats(n).Area;
-%      if area > 1
-%         roi = [thisBB(1) - (0.5 * thisBB(1)), thisBB(2) + thisBB(4), 1.5 * thisBB(3), size(I,1) - (thisBB(2)+ thisBB(4)) - (.1 * size(I,1))]; 
-%         %roi = [thisBB(1), thisBB(2) + thisBB(4), thisBB(3), size(I,1) - (thisBB(2)+ thisBB(4))]; 
-%         roi2 = [5, thisBB(2) - 20,60,60];
-%         %roi = round(getPosition(imrect));
-%         x_axis_label = ocr(I, roi);
-%         y_axis_label = ocr(I, roi2);
-%         disp(['(', x_axis_label.Text, ',' , y_axis_label.Text, ')'])
-%      end
-% end   
 
+for n = 1 : length(stats)  
+     thisBB = stats(n).BoundingBox;
+     roi2 = [25, thisBB(2),25,25]; 
+     rectangle('Position', roi2,...    
+     'EdgeColor','g','LineWidth',1, 'Facecolor', 'y') 
+     y_axis_label = ocr(I, roi2);
+     display(y_axis_label.Text);
+end     
+disp(['Number of bars : ', num2str(numbars)]);
 
