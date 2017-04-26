@@ -1,9 +1,7 @@
 I = imread('bar2.png');
-% txt = ocr(I);
-BW = im2bw(I, graythresh(I));
+% BW = im2bw(I, graythresh(I));
 
 I1 = rgb2gray(I);
-% BW = im2bw(I, graythresh(I));
 BW = imbinarize(I1);
 BW = imcomplement(BW);
 a = bwareaopen(BW, 700);
@@ -29,7 +27,6 @@ for n = 1 : length(stats)
 %      
 %         plot(thisBB(1), size(I,1),'p','Color','magenta');
 %         
-%         roi = [thisBB(1), thisBB(2) + thisBB(4), thisBB(3), (size(I,1) - thisBB(2) + thisBB(4))]; 
         roi = [thisBB(1), thisBB(2) + thisBB(4), thisBB(3), size(I,1) - (thisBB(2)+ thisBB(4))]; 
         rectangle('Position', [thisBB(1),thisBB(2),thisBB(3),thisBB(4)],...    
         'EdgeColor','r','LineWidth',1, 'Facecolor', 'b')    
@@ -49,7 +46,6 @@ for n = 1 : length(stats)
      if area > 150
         roi = [thisBB(1), thisBB(2) + thisBB(4), thisBB(3), size(I,1) - (thisBB(2)+ thisBB(4))]; 
         roi2 = [5, thisBB(2) - 20,60,60];
-        %roi = round(getPosition(imrect));
         x_axis_label = ocr(I, roi);
         y_axis_label = ocr(I, roi2);
         disp(['(', x_axis_label.Text, ',' , y_axis_label.Text, ')'])
